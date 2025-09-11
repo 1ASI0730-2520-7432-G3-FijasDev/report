@@ -272,18 +272,70 @@ Este vacío representa una gran oportunidad económica desaprovechada para los d
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
-
-
 ### 2.1.1. Análisis competitivo
 
+En el mercado actual existen varias aplicaciones y plataformas de comida que permiten a los usuarios buscar restaurantes y lugares para comer, como Uber Eats, Rappi, Google Maps y Yelp. Sin embargo, estas apps dan prioridad a restaurantes establecidos y cadenas, dejando poco espacio para huariques o negocios gastronómicos locales y poco conocidos.
+
+![alt text](<assets/Cuadro de competidores de PuntoSabor.jpg>)
+
+PuntoSabor se diferencia al enfocarse exclusivamente en huariques, ofreciendo un espacio especializado para pequeños negocios de comida tradicional que generalmente no aparecen destacados en otras plataformas. Además, cuenta con funcionalidades específicas como la gestión directa de huariques por parte de sus dueños, un sistema de reseñas y calificaciones centrado en estos locales, y un modelo de membresía para impulsar la visibilidad.
+
+### 2.1.2. Estrategias y tácticas frente a competidores.  
+
+Para diferenciar a PuntoSabor de las grandes plataformas generales y posicionarse con éxito en el nicho de huariques, se plantean las siguientes estrategias y tácticas:
+
+Estrategias:
+- Enfocar la plataforma exclusivamente en pequeños negocios de comida local poco conocidos, lo que permitirá ofrecer una experiencia única y auténtica que los competidores masivos no cubren adecuadamente.
+
+- Fomentar la participación activa de usuarios y dueños mediante reseñas, recomendaciones y la creación de contenido auténtico, generando un sentido de pertenencia y confianza.
+
+- Desarrollar un esquema de ingresos basado en membresías y publicidad accesible para dueños de huariques, equilibrando la monetización con el crecimiento orgánico de la plataforma.
+
+Tácticas: 
+
+- Utilizar publicidad en redes sociales y buscadores orientada a zonas urbanas específicas donde se ubican huariques, para captar tanto usuarios como dueños interesados.
+
+- Colaborar con organizaciones, ferias y eventos de comida para promover la app y sumar huariques relevantes a la plataforma.
+
+- Garantizar que la app web sea fácil de usar, rápida y accesible, incluyendo funciones de mapa intuitivas, sistema sencillo para agregar y actualizar huariques, y una interfaz de usuario amigable.
+
+- Crear incentivos como descuentos, reconocimientos o beneficios por participación activa (reseñas, actualización de perfil, membresía) para motivar el uso y la fidelización.
+
+- Implementar un sistema de análisis y respuesta rápida a sugerencias y problemas reportados por los usuarios para mejorar continuamente la plataforma.
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
+Segmento 1: Exploradores Gastronómicos (Usuarios de la app web)
 
+Objetivo: Entender sus motivaciones, comportamientos y expectativas al usar una app web para descubrir comida local auténtica.
+
+Preguntas Segmento 1:
+- ¿Con qué frecuencia usas aplicaciones web para buscar lugares para comer fuera de lo común?
+- ¿Cómo sueles descubrir huariques o lugares de comida poco conocidos en la web?
+- ¿Qué aspectos valoras más al elegir un lugar para comer usando una app web (precio, ubicación, reseñas, fotos, etc.)?
+- ¿Qué dificultades has tenido al usar apps web para buscar lugares de comida local?
+- ¿Qué te motivaría a usar una app web dedicada exclusivamente a huariques?
+- ¿Qué funcionalidades en la app web considerarías imprescindibles para usarla con regularidad?
+- ¿Qué preocupaciones o barreras tendrías al usar una app web para descubrir huariques?
+
+Segmento 2: Dueños y Administradores de Huariques (Usuarios que usan la app web para gestionar su huarique).
+
+Objetivo: Comprender sus necesidades y expectativas al usar la app web para administrar y promocionar sus huariques.
+
+Preguntas Segmento 2:
+- ¿Actualmente usas alguna plataforma web o digital para promocionar tu huarique? ¿Cuál?
+- ¿Qué retos has enfrentado al tratar de gestionar tu negocio a través de plataformas digitales?
+- ¿Qué tan cómodo te sientes usando aplicaciones web para actualizar la información de tu negocio?
+- ¿Qué características te harían decidirte a usar una app web especializada para huariques?
+- ¿Qué tipo de soporte o facilidades esperarías al usar esta app web para gestionar tu perfil o negocio?
+- ¿Qué modelo de tarifas o membresías considerarías justo para usar esta plataforma?
+- ¿Qué resultados te gustaría ver después de usar esta aplicación web para promocionar tu huarique?
 
 ### 2.2.2. Registro de entrevistas
+
 ### 2.2.3. Análisis de entrevistas
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ### 2.3.2. User Task Matrix
