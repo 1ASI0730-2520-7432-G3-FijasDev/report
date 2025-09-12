@@ -338,10 +338,54 @@ Preguntas Segmento 2:
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+Para comprender mejor las necesidades, motivaciones y comportamientos de los usuarios clave de PuntoSabor, se han desarrollado dos perfiles de usuario o personas representativas. Estos perfiles sintetizan características típicas, objetivos y retos de los segmentos principales, facilitando el diseño centrado en el usuario y la toma de decisiones estratégicas durante el desarrollo de la plataforma.
+
+- Persona  1: Carla, la Exploradora Gastronómica
+
+    Carla representa a los usuarios jóvenes y activos, interesados en descubrir opciones gastronómicas  auténticas y económicas que escapan de las ofertas convencionales. Este perfil valora la facilidad para encontrar huariques confiables a través de plataformas digitales que les brinden información clara, reseñas verídicas y una experiencia de navegación sencilla.
+![alt text](assets/UserPersonaSeg1.jpg)
+
+- Persona 2: Don Luis, dueño de huarique tradicional
+
+    Don Luis encarna a los pequeños emprendedores y dueños de huariques que necesitan herramientas accesibles y prácticas para promocionar su negocio y aumentar su clientela. Con experiencia limitada en tecnología digital, busca soluciones fáciles de usar que le permitan gestionar su presencia online sin mayores complicaciones ni costos elevados.
+![alt text](assets/UserPersonaSeg2.jpg)
+
 ### 2.3.2. User Task Matrix
+
+![alt text](assets/UserTaskMatrix-PuntoSabor.jpg)
+
+Las tareas más frecuentes para los perfiles de usuario en PuntoSabor muestran diferencias claras según el rol y necesidades de cada uno. Carla Dípes, como exploradora gastronómica, utiliza la app web de forma activa y constante para buscar huariques, consultar reseñas y utilizar la función de mapas con geolocalización, considerándolas cruciales para su experiencia. En contraste, Don Luis Pérez, dueño de huarique, rara vez usa la app para buscar o visualizar mapas, enfocándose principalmente en actualizar la información de su huarique, actividad que realiza con regularidad y considera muy importante. Ambas personas interactúan ocasionalmente con la funcionalidad de responder reseñas y compartir opiniones o fotos, aunque para Don Luis, la frecuencia de estas últimas es menor pero sigue siendo relevante en términos de importancia.
+
+Coincidencias:
+- Ambos interactúan ocasionalmente con la función de responder reseñas, considerándola de importancia media.
+
+- Comparten una actitud media hacia la importancia de compartir opiniones y fotos, aunque la frecuencia es mayor en Carla.
+
+- Las funciones relacionadas con interacción social y comunidad tienen importancia media para ambos perfiles.
+
+Diferencias:
+- Carla es una usuaria frecuente de la búsqueda y consulta de huariques y mapas, mientras que Don Luis tiene menor frecuencia en estas tareas porque su rol es más de gestión.
+
+- Don Luis dedica más tiempo y considera importante la actualización de la información de su huarique, una tarea que Carla no realiza.
+
+- El nivel de interacción con mapas y geolocalización es alto para Carla y bajo para Don Luis debido a sus diferentes objetivos y roles en la plataforma.
+
 ### 2.3.3. User Journey Mapping
+
 ### 2.3.4. Empathy Mapping
+A continuación se presentan los mapas de empatía para los dos perfiles principales de usuarios de PuntoSabor: Carla Dípes, la exploradora gastronómica, y Don Luis Pérez, dueño de huarique tradicional. Estos mapas permiten comprender en profundidad sus necesidades, pensamientos, sentimientos y comportamientos, facilitando un diseño centrado en el usuario.
+
+- Segmento 1
+El mapa de empatía de Carla muestra que es una usuaria que busca autenticidad y experiencias gastronómicas locales únicas. Valora la facilidad para encontrar información confiable y se siente frustrada por la saturación de opciones genéricas en otras plataformas.
+![alt text](assets/EmphatyMap_CarlaDipes.png)
+
+- Segmento 2
+El mapa de empatía de Don Luis refleja un emprendedor con limitaciones tecnológicas, que necesita una herramienta sencilla para gestionar su huarique y aumentar su clientela. Busca soporte y soluciones accesibles que faciliten su presencia digital sin costos elevados.
+![alt text](assets/EmphatyMap_DonLuisPerez.png)
+
+
 ### 2.3.5. As-is Scenario Mapping
+
 ## 2.4. Ubiquitous Language
 
 # Capítulo III: Requirements Specification
