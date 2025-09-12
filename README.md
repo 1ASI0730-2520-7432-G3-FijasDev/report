@@ -334,7 +334,11 @@ Preguntas Segmento 2:
 
 ### 2.2.2. Registro de entrevistas
 
+
+
 ### 2.2.3. Análisis de entrevistas
+
+
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -372,21 +376,49 @@ Diferencias:
 
 ### 2.3.3. User Journey Mapping
 
+
+
 ### 2.3.4. Empathy Mapping
 A continuación se presentan los mapas de empatía para los dos perfiles principales de usuarios de PuntoSabor: Carla Dípes, la exploradora gastronómica, y Don Luis Pérez, dueño de huarique tradicional. Estos mapas permiten comprender en profundidad sus necesidades, pensamientos, sentimientos y comportamientos, facilitando un diseño centrado en el usuario.
 
-- Segmento 1
+- Segmento 1:
+
 El mapa de empatía de Carla muestra que es una usuaria que busca autenticidad y experiencias gastronómicas locales únicas. Valora la facilidad para encontrar información confiable y se siente frustrada por la saturación de opciones genéricas en otras plataformas.
 ![alt text](assets/EmphatyMap_CarlaDipes.png)
 
-- Segmento 2
+- Segmento 2:
+
 El mapa de empatía de Don Luis refleja un emprendedor con limitaciones tecnológicas, que necesita una herramienta sencilla para gestionar su huarique y aumentar su clientela. Busca soporte y soluciones accesibles que faciliten su presencia digital sin costos elevados.
 ![alt text](assets/EmphatyMap_DonLuisPerez.png)
 
 
 ### 2.3.5. As-is Scenario Mapping
 
+
+
 ## 2.4. Ubiquitous Language
+
+En esta sección se crea un glosario con los términos esenciales del dominio del negocio PuntoSabor, siguiendo el enfoque de Ubiquitous Language en Domain Driven Design. Este glosario ofrece definiciones precisas y claras de los conceptos relevantes al problema y su solución, promoviendo una comunicación eficiente entre todos los integrantes del equipo.
+
+- Huarique: Pequeño restaurante tradicional peruano, generalmente conocido por su comida casera y local, que es el principal tipo de establecimiento que la app PuntoSabor busca promover.
+
+- Explorador Gastronómico: Usuario de la app PuntoSabor que busca descubrir huariques auténticos, económicos y poco conocidos mediante la plataforma web.
+
+- Dueño y/o administrador de Huarique: Persona responsable de un huarique que utiliza la app para registrar, actualizar y promocionar su negocio ante potenciales clientes.
+
+- Reseña: Opinión o evaluación que un usuario deja en la app acerca de su experiencia en un huarique, incluyendo comentarios y calificaciones.
+
+- Mapa de Geolocalización: Funcionalidad de la app que muestra la ubicación exacta de los huariques en un mapa interactivo para facilitar su localización.
+
+- Favorito: Huarique guardado por un usuario en la app para futuras visitas o recomendaciones.
+
+- Gestión del Huarique: Conjunto de acciones realizadas por el dueño para mantener actualizada la información, responder reseñas y promover su negocio dentro de la aplicación.
+
+- Membresía: Plan o suscripción que puede contratar un dueño de huarique para acceder a servicios adicionales de promoción dentro de la app.
+
+- Interacción Comunitaria: Comunicación entre usuarios y dueños a través de reseñas, comentarios y respuestas que enriquecen la experiencia y confianza en la plataforma.
+
+- Este lenguaje común asegura que desarrolladores, diseñadores y stakeholders utilicen terminología única y coherente en toda la documentación, código y comunicación, orientando el desarrollo hacia la resolución efectiva de las necesidades del negocio.
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
