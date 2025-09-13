@@ -276,7 +276,8 @@ Este vacío representa una gran oportunidad económica desaprovechada para los d
 
 En el mercado actual existen varias aplicaciones y plataformas de comida que permiten a los usuarios buscar restaurantes y lugares para comer, como Uber Eats, Rappi, Google Maps y Yelp. Sin embargo, estas apps dan prioridad a restaurantes establecidos y cadenas, dejando poco espacio para huariques o negocios gastronómicos locales y poco conocidos.
 
-![alt text](<assets/Cuadro de competidores de PuntoSabor.jpg>)
+![alt text](assets/AnalisisCompetitivo_PuntoSabor.png)
+![alt text](assets/FODA_PuntoSabor.png)
 
 PuntoSabor se diferencia al enfocarse exclusivamente en huariques, ofreciendo un espacio especializado para pequeños negocios de comida tradicional que generalmente no aparecen destacados en otras plataformas. Además, cuenta con funcionalidades específicas como la gestión directa de huariques por parte de sus dueños, un sistema de reseñas y calificaciones centrado en estos locales, y un modelo de membresía para impulsar la visibilidad.
 
