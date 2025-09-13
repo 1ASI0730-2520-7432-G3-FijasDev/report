@@ -402,8 +402,17 @@ El mapa de empatía de Don Luis refleja un emprendedor con limitaciones tecnoló
 
 
 ### 2.3.5. As-is Scenario Mapping
+Segmento 1
 
+Mediante este artefacto, se ha llevado a cabo la elaboración del As-is Scenario Mapping para el primer segmento (Exploradores Gastronómicos). Este escenario refleja cómo los usuarios interesados en descubrir huariques realizan actualmente sus actividades, las dificultades que enfrentan al buscar opciones auténticas y económicas, así como las percepciones y emociones que experimentan en cada etapa de su recorrido.
 
+![alt text](assets/Segmento1_AsIs.png)
+
+Segmento 2
+
+Mediante este artefacto, se ha llevado a cabo la elaboración del As-is Scenario Mapping para el segundo segmento (Dueños y Administradores de Huariques). Este escenario describe cómo los pequeños emprendedores gestionan hoy en día la promoción y organización de sus negocios, evidenciando los procesos manuales, las limitaciones tecnológicas y las emociones vinculadas a su necesidad de obtener mayor visibilidad y atraer nuevos clientes.
+
+![alt text](assets/Segmento2_AsIs.png)
 
 ## 2.4. Ubiquitous Language
 
