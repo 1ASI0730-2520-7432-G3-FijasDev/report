@@ -375,8 +375,17 @@ Diferencias:
 - El nivel de interacción con mapas y geolocalización es alto para Carla y bajo para Don Luis debido a sus diferentes objetivos y roles en la plataforma.
 
 ### 2.3.3. User Journey Mapping
+Segmento 1
 
+Mediante este artefacto se explicará y comprenderá cómo los usuarios del segmento 1 (Exploradores Gastronómicos) realizan sus actividades para alcanzar sus objetivos desde su perspectiva. Este segmento representa a personas que buscan experiencias culinarias auténticas y económicas, explorando huariques poco conocidos y valorando la información confiable proporcionada por reseñas, fotos y mapas de ubicación.
 
+![alt text](assets/Carla_Dipes.png)
+
+Segmento 2
+
+Mediante este artefacto se explicará y comprenderá cómo los usuarios del segmento 2 (Dueños y Administradores de Huariques) realizan sus actividades para alcanzar sus objetivos desde su perspectiva. Este segmento agrupa a pequeños emprendedores que desean promocionar su negocio, mejorar su visibilidad y atraer nuevos clientes mediante una plataforma accesible y sencilla de gestionar, sin necesidad de tener conocimientos técnicos avanzados.
+
+![alt text](assets/Don_Luis.jpg)
 
 ### 2.3.4. Empathy Mapping
 A continuación se presentan los mapas de empatía para los dos perfiles principales de usuarios de PuntoSabor: Carla Dípes, la exploradora gastronómica, y Don Luis Pérez, dueño de huarique tradicional. Estos mapas permiten comprender en profundidad sus necesidades, pensamientos, sentimientos y comportamientos, facilitando un diseño centrado en el usuario.
