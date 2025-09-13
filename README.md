@@ -333,13 +333,66 @@ Preguntas Segmento 2:
 - ¿Qué resultados te gustaría ver después de usar esta aplicación web para promocionar tu huarique?
 
 ### 2.2.2. Registro de entrevistas
+### Segmento #1: Exploradores Gastronómicos (Usuarios de la app web)
+| Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
+|-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
+| 1                     | **Nombre:**  Vitaly Baca  <br> **Edad:** 20  <br> **Distrito:** Lurin <br><br> **Resumen:** Vitaly Baca, estudiante de 20 años de Ingeniería de Software en la UPC, utiliza este tipo de aplicaciones casi todos los fines de semana, pues disfruta salir con su pareja o amigos a probar lugares nuevos. Descubre la mayoría de huariques en TikTok e Instagram siguiendo a foodies, y también explora en Google Maps. Lo primero que valora es el precio, ya que como estudiante tiene un presupuesto ajustado, seguido de fotos y comentarios confiables para no caer en un mal sitio. Entre las dificultades que ha enfrentado menciona que a veces llega a lugares que aparecen como abiertos pero están cerrados, además de que muchos huariques pequeños ni siquiera figuran en las apps. Se sentiría motivado a usar una app exclusiva de huariques siempre que tenga reseñas sinceras de usuarios similares a él. Considera imprescindibles los filtros por precio y tipo de comida, un mapa rápido e intuitivo y recomendaciones personalizadas. Sus principales preocupaciones serían que la app se llene de publicidad, tenga información poco confiable o incluya muy pocos lugares en su ciudad, perdiendo su valor. | ![Evidencia](assets/Entrevista1_Segmento1.jpeg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/1ds2HwtLlN2qdSDsHA3fB1maRVExLGLSn/view?usp=drive_link) |
 
 
+| Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
+|-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
+| 2                     | **Nombre:** Sebastian del Rio  <br> **Edad:** 20  <br> **Distrito:** Chorrillos <br><br> **Resumen:** Sebastián del Río, estudiante de 20 años de Ingeniería de Software en la UTP, no suele usar aplicaciones web con mucha frecuencia para buscar huariques, apenas una o dos veces al mes cuando quiere salir con amigos o probar algo distinto. Descubre la mayoría de lugares por recomendaciones en TikTok e Instagram, y ocasionalmente en Google Maps. Para él, lo más importante al elegir un lugar son las fotos y reseñas reales de otros usuarios, además del precio y la cercanía. Señala como principal dificultad que los huariques casi no aparecen en las aplicaciones, predominando los restaurantes conocidos, además de que muchas veces la información está incompleta o sin buenas fotos. Lo motivaría a usar una app que realmente muestre sitios auténticos y confiables, siempre que sea sencilla. Considera imprescindibles fotos reales, reseñas honestas, mapa con ubicación, filtros de precio y la opción de guardar favoritos. Su mayor preocupación sería que la información no sea confiable, que la app lo mande a lugares cerrados o de baja calidad, o que sea complicada y lenta. | ![Evidencia](assets/Entrevista2_Segmento1.jpeg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/1BW0g2O54GD13gXBsNcTrhmmlvwBqTeFc/view?usp=drive_link) |
+
+
+| Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
+|-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
+| 3                     | **Nombre:** Luis Fernandez  <br> **Edad:** 20  <br> **Distrito:** Pueblo Libre <br><br> **Resumen:** Luis Fernández, estudiante de 20 años de Ingeniería de Sistemas en la UTP, busca lugares nuevos casi todas las semanas, sobre todo los fines de semana cuando sale con su pareja. Se guía por cuentas de foodies en Instagram y TikTok, guarda videos para después y también consulta reseñas en Google Maps o en grupos de Facebook. Para él, el precio es fundamental, pero también valora la experiencia completa: reseñas sobre la atención y la calidad de la comida, junto con fotos de los platos. Ha tenido problemas con horarios desactualizados en apps, llegando a lugares cerrados, y con la falta de visibilidad de huariques menos conocidos. Lo motivaría una app confiable que se enfoque en huariques y cuente con reseñas de personas locales. Considera imprescindibles los filtros por tipo de comida, precio y ubicación, un mapa interactivo y recomendaciones personalizadas. Sus preocupaciones son que la aplicación tenga publicidad excesiva, información falsa o que no incluya suficientes opciones locales. | ![Evidencia](assets/Entrevista3_Segmento1.jpeg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/1zAOWVJjCjoiuuvE4Mp8h9_h-m27QpLtD/view?usp=drive_link) |
 
 ### 2.2.3. Análisis de entrevistas
+### Segmento #1: Exploradores Gastronómicos (Usuarios de la app web)
+---
+### Hallazgos :
+## 👨 Vitaly Baca
+
+Utiliza aplicaciones web casi todos los fines de semana, ya que le gusta salir con amigos o su pareja a probar lugares nuevos. Descubre la mayoría de huariques en TikTok e Instagram siguiendo a foodies, además de explorar en Google Maps. Da mucha importancia al precio por su condición de estudiante, pero también a fotos y comentarios confiables. Ha tenido problemas con locales que aparecen como abiertos y en realidad estaban cerrados, además de que muchos huariques pequeños no figuran en las apps. Se motivaría a usar una aplicación centrada exclusivamente en huariques, siempre que tenga reseñas sinceras de usuarios similares. Considera indispensables los filtros por precio y tipo de comida, un mapa rápido e intuitivo y recomendaciones personalizadas. Sus preocupaciones son que la app se llene de publicidad, tenga información poco confiable o muy pocos sitios en su ciudad.
+
+**Puntos clave:**
+- Usa apps de búsqueda gastronómica con frecuencia (fines de semana).  
+- Descubre lugares principalmente en **TikTok, Instagram y Google Maps**.  
+- Valora sobre todo el **precio**, seguido de **fotos y reseñas confiables**.  
+- Ha tenido problemas con **información desactualizada** y huariques que no aparecen.  
+- Se motiva por una app exclusiva con reseñas sinceras.  
+- Considera imprescindibles **filtros, mapa interactivo y recomendaciones personalizadas**.  
+- Le preocupa la **publicidad excesiva** y la **poca cobertura local**.  
 
 
+## 👨 Sebastián del Río
 
+No suele usar con mucha frecuencia aplicaciones para buscar huariques, apenas una o dos veces al mes cuando quiere salir con amigos o hacer algo distinto. Descubre los lugares principalmente en TikTok e Instagram, y ocasionalmente en Google Maps. A la hora de elegir un sitio, valora sobre todo fotos y reseñas reales, además del precio y la cercanía. Ha tenido como dificultad que los huariques casi no aparecen en las apps, predominan restaurantes conocidos y la información muchas veces es incompleta o sin buenas fotos. Se sentiría motivado a usar una app que realmente muestre sitios auténticos y confiables, siempre que sea sencilla. Para él son imprescindibles fotos reales, reseñas honestas, un mapa interactivo con ubicación, filtros de precio y la opción de guardar favoritos. Sus preocupaciones son que la información no sea confiable, que lo mande a lugares cerrados o de mala calidad, y que la app sea complicada o lenta.
+
+**Puntos clave:**
+- Usa apps **esporádicamente** (1–2 veces al mes).  
+- Descubre huariques en **redes sociales** y a veces en Google Maps.  
+- Valora **fotos, reseñas reales, precio y cercanía**.  
+- Problemas: **huariques invisibles, info incompleta y fotos deficientes**.  
+- Se motiva por una app **auténtica y confiable**.  
+- Imprescindibles: **fotos reales, reseñas honestas, mapa interactivo, filtros y favoritos**.  
+- Preocupaciones: **información falsa, lugares cerrados, app lenta o complicada**.  
+
+## 👨 Luis Fernández
+
+Busca lugares nuevos casi todas las semanas, sobre todo los fines de semana con su pareja. Se guía por cuentas de foodies en Instagram y TikTok, guarda videos para consultarlos luego y revisa reseñas en Google Maps y grupos de Facebook. Da gran importancia al precio, pero también a la experiencia completa: reseñas sobre la atención, calidad de la comida y fotos de los platos. Entre las dificultades menciona horarios desactualizados en apps, que lo llevan a locales cerrados, y la poca visibilidad de huariques menos conocidos. Se motivaría a usar una app confiable que priorice huariques con reseñas de personas locales. Considera imprescindibles los filtros por tipo de comida, precio y ubicación, un mapa interactivo y recomendaciones personalizadas. Sus preocupaciones son que la app tenga publicidad excesiva, información falsa o que no incluya suficientes opciones locales.
+
+**Puntos clave:**
+- Usa apps **frecuentemente**, casi cada semana.  
+- Descubre lugares en **TikTok, Instagram, Google Maps y Facebook**.  
+- Valora **precio, experiencia completa, fotos y reseñas sobre atención/comida**.  
+- Problemas: **horarios desactualizados, falta de visibilidad de huariques pequeños**.  
+- Se motiva por una app **confiable y enfocada en huariques**.  
+- Imprescindibles: **filtros por comida, precios y ubicación, mapa interactivo, recomendaciones**.  
+- Preocupaciones: **publicidad excesiva, información falsa, pocas opciones locales**.
+## Segmento #2: Dueños y Administradores de Huariques
+ 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 Para comprender mejor las necesidades, motivaciones y comportamientos de los usuarios clave de PuntoSabor, se han desarrollado dos perfiles de usuario o personas representativas. Estos perfiles sintetizan características típicas, objetivos y retos de los segmentos principales, facilitando el diseño centrado en el usuario y la toma de decisiones estratégicas durante el desarrollo de la plataforma.
@@ -375,17 +428,8 @@ Diferencias:
 - El nivel de interacción con mapas y geolocalización es alto para Carla y bajo para Don Luis debido a sus diferentes objetivos y roles en la plataforma.
 
 ### 2.3.3. User Journey Mapping
-Segmento 1
 
-Mediante este artefacto se explicará y comprenderá cómo los usuarios del segmento 1 (Exploradores Gastronómicos) realizan sus actividades para alcanzar sus objetivos desde su perspectiva. Este segmento representa a personas que buscan experiencias culinarias auténticas y económicas, explorando huariques poco conocidos y valorando la información confiable proporcionada por reseñas, fotos y mapas de ubicación.
 
-![alt text](assets/Carla_Dipes.png)
-
-Segmento 2
-
-Mediante este artefacto se explicará y comprenderá cómo los usuarios del segmento 2 (Dueños y Administradores de Huariques) realizan sus actividades para alcanzar sus objetivos desde su perspectiva. Este segmento agrupa a pequeños emprendedores que desean promocionar su negocio, mejorar su visibilidad y atraer nuevos clientes mediante una plataforma accesible y sencilla de gestionar, sin necesidad de tener conocimientos técnicos avanzados.
-
-![alt text](assets/Don_Luis.jpg)
 
 ### 2.3.4. Empathy Mapping
 A continuación se presentan los mapas de empatía para los dos perfiles principales de usuarios de PuntoSabor: Carla Dípes, la exploradora gastronómica, y Don Luis Pérez, dueño de huarique tradicional. Estos mapas permiten comprender en profundidad sus necesidades, pensamientos, sentimientos y comportamientos, facilitando un diseño centrado en el usuario.
@@ -441,37 +485,6 @@ En esta sección se crea un glosario con los términos esenciales del dominio de
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
-En esta sección se presentan los requisitos definidos para PuntoSabor, expresados mediante User Stories y Epics. Cada User Story incluye criterios de aceptación claros y comprobables, redactados en tiempo presente y tercera persona, siguiendo la estructura Gherkin (Given-When-Then). Se considera tanto la experiencia del usuario en la app web como aspectos técnicos del desarrollo, incluyendo historias técnicas para el RESTful API.
-
-A continuación, se muestra un cuadro resumen con los Epics y User Stories definidos, sus descripciones, criterios de aceptación y relaciones entre ellos.
- 
-| Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
-|-----------------|--------|-------------|-------------------------|---------------------------|
-| EP01 | Descubrimiento de Huariques | Como explorador gastronómico, quiero buscar y descubrir huariques locales para elegir dónde comer. |  |  |
-| EP02 | Gestión de Huariques | Como dueño, quiero registrar y actualizar la información de mi huarique para mantenerlo visible. |             |                           |
-| EP03 | Interacción Comunitaria | Como usuario, quiero dejar reseñas y calificaciones para compartir mi opinión. |        |                           |
-| EP04 | Información del Sitio Web Estático | Como visitante, quiero acceder a una landing page con información clara sobre PuntoSabor y sus servicios. |     |                           |
-| EP05 | Notificaciones y Alertas | Como usuario, quiero recibir notificaciones sobre novedades, promociones o actualizaciones. |                |                           |
-| EP06 | Servicios Técnicos y API | Como developer, necesito APIs RESTful para gestionar huariques, usuarios y búsquedas. |           |                           |
-| EP07 | Seguridad y Autenticación | Como usuario, quiero que mis datos estén protegidos y acceder con autenticación segura. |              |                           |
-| US01 | Búsqueda avanzada | Como usuario, puedo filtrar huariques por ubicación, tipo de comida y precio para una búsqueda eficiente. | Escenario 1: Filtrado con resultados. Dado que el usuario aplica filtros válidos, Cuando realiza la búsqueda, Entonces la app muestra huariques que cumplen esos filtros. Escenario 2: Filtrado sin resultados Dado que el usuario aplica filtros estrictos sin coincidencias, Cuando realiza la búsqueda, Entonces aparece un mensaje de "No se encontraron huariques con esos filtros". Escenario 3: Búsqueda sin filtros Dado que el usuario no aplica filtros, Cuando realiza la búsqueda, Entonces la app muestra todos los huariques disponibles. | EP01 |
-| US02 | Visualización en mapa | Como usuario, quiero ver la ubicación de los huariques en un mapa para facilitar la visita. | Escenario 1: Mostrar mapa con marcadores Dado que el usuario accede a la vista de mapa, Cuando se carga la página, Entonces el mapa muestra marcadores para cada huarique visible según la búsqueda. Escenario 2: Selección de marcador Dado que el usuario selecciona un marcador en el mapa, Cuando hace clic en el marcador, Entonces se muestra un resumen con el nombre, dirección y calificación del huarique. | EP01 |
-| US03 | Guardar favoritos | Como usuario, puedo guardar huariques para acceder fácilmente después. | Escenario 1: Guardar huarique como favorito Dado que el usuario marca un huarique como favorito, Cuando confirma la acción, Entonces se guarda en su lista personal. Escenario 2: Acceder lista de favoritos Dado que el usuario accede a su lista de favoritos, Cuando la abre, Entonces puede ver y seleccionar huariques guardados. | EP01|
-| US04 | Registro de nuevo huarique | Como dueño, puedo registrar un nuevo huarique con información básica para aparecer en la plataforma. | Escenario 1: Registro exitoso Dado que el dueño completa los campos requeridos, Cuando envía el formulario, Entonces el huarique se registra y aparece en la app. Escenario 2: Campos obligatorios faltantes Dado que el dueño no completa todos los campos obligatorios, Cuando intenta registrar, Entonces la app muestra errores indicando campos faltantes. | EP02 |
-| US05 | Actualización de información | Como dueño, puedo modificar los datos de mi huarique para mantenerlos actualizados. | Escenario 1: Actualización exitosa Dado que el dueño edita la información, Cuando hace clic en guardar, Entonces los datos se actualizan correctamente. Escenario 2: Error en datos incompletos Dado que el dueño deja un campo obligatorio vacío, Cuando intenta guardar, Entonces la app muestra un error indicando llenar el campo. | EP02 |
-| US06 | Gestión multimedia | Como dueño, puedo subir fotos y videos para mostrar mi huarique. | Escenario 1: Subida exitosa Dado que el dueño selecciona archivo válido, Cuando lo sube, Entonces se añade multimedia al perfil del huarique. Escenario 2: Archivo inválido Dado que el archivo no es compatible, Cuando intenta subirlo, Entonces la app muestra un error indicando tipos permitidos. | EP02 |
-| US07 | Envío de reseñas | Como usuario, puedo dejar una reseña y calificación en un huarique. | Escenario 1: Envío exitoso Dado que el usuario completa la reseña y la calificación, Cuando confirma el envío, Entonces la reseña aparece visible para todos los usuarios. Escenario 2: Restricción de una reseña por huarique Dado que el usuario ya dejó una reseña en el huarique, Cuando intenta dejar otra, Entonces la app impide la acción con mensaje informativo. | EP03 |
-| US08 | Moderación automática | Como sistema, debo detectar reseñas inapropiadas y bloquearlas. | Escenario 1: Detección de contenido inapropiado Dado que la reseña contiene lenguaje ofensivo, Cuando se intenta publicar, Entonces el sistema bloquea o marca la reseña para revisión. | EP03 |
-| US09 | Presentación de beneficios | Como visitante, puedo ver las ventajas de PuntoSabor en la landing page. | Escenario 1: Carga de landing page Dado que el visitante entra al sitio, Cuando se carga la página, Entonces se muestran claramente los beneficios para usuarios y dueños. | EP04 |
-| US10 | Formulario de contacto | Como visitante, puedo enviar consultas a través de un formulario. | Escenario 1: Envío exitoso Dado que el visitante completa el formulario correctamente, Cuando lo envía, Entonces el equipo recibe la consulta y confirma recepción. Escenario 2: Campos obligatorios Dado que el visitante no completa datos requeridos, Cuando intenta enviar, Entonces la app muestra errores indicando los campos faltantes. | EP04 |
-| US11 | Configuración de notificaciones | Como usuario, puedo activar o desactivar notificaciones a mi preferencia. | Escenario 1: Guardar preferencias Dado que el usuario cambia su configuración, Cuando guarda, Entonces las preferencias se aplican correctamente. | EP05 |
-| US12 | Notificación de nuevas reseñas | Como dueño, recibo alertas cuando hay reseñas nuevas en mi huarique. | Escenario 1: Alerta por nueva reseña Dado que un usuario publica una reseña, Cuando ésta es aprobada, Entonces el dueño recibe una notificación inmediata. | EP05 |
-| US13 | API de búsqueda | Como developer, puedo consultar huariques filtrando por parámetros vía API. | Escenario 1: Consulta con filtros Dado que la petición API incluye criterios, Cuando se procesa, Entonces devuelve resultados acordes a los filtros. Escenario 2: Consulta sin horarios válidos Dado que la petición API tiene parámetros inválidos, Cuando se procesa, Entonces devuelve error o mensaje claro. | EP06 |
-| US14 | API de registro y actualización | Como developer, puedo crear y actualizar huariques a través de la API. | Escenario 1: Creación exitosa Dado que la petición contiene datos válidos, Cuando se procesa, Entonces se crea un nuevo huarique y responde con éxito. Escenario 2: Actualización exitosa Dado que se envían datos para modificar un huarique existente, Cuando se procesa, Entonces se actualizan los datos y responde con éxito. | EP06 |
-| US15 | Registro y login seguro | Como usuario, puedo crear cuenta y acceder con credenciales seguras. | Escenario 1: Registro exitoso Dado que el usuario completa datos válidos, Cuando envía el formulario, Entonces la cuenta se crea y puede iniciar sesión. Escenario 2: Login con credenciales incorrectas Dado que el usuario ingresa datos erróneos, Cuando intenta iniciar sesión, Entonces recibe mensaje de error y no accede. | EP07 |
-| US16 | Recuperación de contraseña | Como usuario, puedo recuperar mi contraseña en caso de olvido. | Escenario 1: Solicitud de recuperación Dado que usuario solicita recuperación, Cuando facilita su correo válido, Entonces recibe instrucciones para restablecer contraseña. | EP07 |
-|     |  |  |  |  |
-
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
