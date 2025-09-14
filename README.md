@@ -577,8 +577,59 @@ A continuación, se muestra un cuadro resumen con los Epics y User Stories defin
 | 26      | US26          | Promociones destacadas          | Como dueño Pro, quiero publicar promociones que aparezcan destacadas en listados. | 3 |
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines
+Un “Style Guideline” es un conjunto de directrices y normas que establecen los estándares y criterios a seguir en la redacción, diseño y presentación de documentos, contenido web, software y otros productos creativos. A continuación, se presentan las especificaciones detalladas de los parámetros implementados en la estructura del proyecto.
 ### 4.1.1. General Style Guidelines
+Branding
+
+Para el desarrollo de la identidad de PuntoSabor, se ha diseñado un estilo que encapsula la esencia de la aplicación y su propuesta de valor. La marca busca transmitir cercanía, autenticidad y confianza, resaltando la importancia de los huariques en la cultura gastronómica local.
+
+El logotipo de PuntoSabor está compuesto por un ícono que evoca un marcador de ubicación gastronómica (pin), fusionado con elementos culinarios, reforzando la idea de descubrimiento y autenticidad. La elección cromática, con tonos cálidos y frescos, proyecta energía, sabor y dinamismo, generando una conexión emocional con el usuario. La integración de estos elementos comunica visualmente el compromiso de PuntoSabor con la promoción de pequeños negocios, la innovación tecnológica y la experiencia de usuario accesible.
+![alt text](assets/LogoSabot.png)
+
+Typography:
+
+Para la tipografía de PuntoSabor, se ha seleccionado una combinación que equilibra modernidad, legibilidad y calidez. La tipografía principal Poppins se utiliza en los encabezados, aportando un estilo fresco y amigable, ideal para captar la atención del usuario en títulos y mensajes clave. Para los textos de párrafo y componentes de interfaz, se emplea Inter, reconocida por su alta legibilidad en entornos digitales, favoreciendo una experiencia clara y ordenada.
+
+Esta combinación tipográfica refuerza el carácter accesible y confiable de la marca, al mismo tiempo que permite destacar información importante y mantener un diseño coherente en toda la aplicación web.
+
+A continuación, se detallan las tipografías adoptadas para PuntoSabor siguiendo los parámetros de color, peso, tamaño, interlineado y alineación:
+![alt text](assets/Typography_PuntoSabor.jpg)
+
+Colors:
+
+La paleta de colores de PuntoSabor fue seleccionada para reflejar los valores de autenticidad, cercanía y dinamismo que definen a nuestra plataforma. Los tonos predominantes, rojo, verde y amarillo, evocan energía, sabor y frescura, transmitiendo la esencia de los huariques y la cultura gastronómica local.
+
+La combinación de colores busca generar confianza en los usuarios, a la vez que mantiene un carácter amigable y moderno, reforzando la identidad visual del producto como una solución innovadora para descubrir pequeños negocios de comida.
+![alt text](assets/Colores_PuntoSabor.jpg)
+
+Spacing:
+
+El espaciado en PuntoSabor está cuidadosamente definido para garantizar una interfaz limpia, legible y organizada. Se emplea una separación uniforme entre elementos, lo que mejora la jerarquía visual, facilita la navegación y aporta equilibrio al diseño.
+
+El sistema de espaciado se basa en una escala modular de 8px, adaptada para mantener consistencia en todas las vistas de la aplicación.
+![alt text](assets/Spacing_PuntoSabor.jpg)
 ### 4.1.2. Web Style Guidelines
+PuntoSabor cuenta con un diseño web adaptable y responsivo, que garantiza una experiencia fluida y accesible en cualquier dispositivo, desde computadoras de escritorio hasta teléfonos móviles.
+
+El patrón de diseño principal sigue la forma de “F” y “Z”, ya que son los más efectivos para dirigir la atención del usuario en interfaces web modernas. Este enfoque permite destacar funciones clave como la barra de búsqueda, los listados de huariques y las promociones destacadas, asegurando que el contenido más relevante esté siempre visible en los primeros segundos de navegación.
+
+En la estructura visual:
+
+El logo de PuntoSabor se ubica en la esquina superior izquierda como ancla de marca.
+
+La barra de navegación con secciones principales (Explorar, Mejor valorados, Promos, Contacto) se encuentra en la parte superior derecha, permitiendo un acceso rápido e intuitivo.
+
+El llamado a la acción (CTA) principal —Buscar huariques o Registrarse— está resaltado con el color primario rojo , lo que atrae la mirada del usuario de inmediato.
+
+El hero section incluye un buscador interactivo con filtros de comida y ubicación, optimizando la experiencia de exploración.
+
+Secciones como “Cerca de ti” y “Mejor valorados” utilizan un sistema de tarjetas modulares que mantienen consistencia y escalabilidad.
+
+Se incluyen chips y badges de colores para resaltar promociones, precios y distancias, mejorando la jerarquía visual.
+
+El footer minimalista refuerza la identidad de marca y proporciona enlaces clave sin sobrecargar la interfaz.
+
+La interfaz en su conjunto transmite autenticidad, simplicidad y dinamismo, reflejando los valores de la marca y favoreciendo la interacción constante entre exploradores gastronómicos y dueños de huariques.
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 ### 4.2.2. Labeling Systems
