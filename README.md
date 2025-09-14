@@ -631,11 +631,51 @@ El footer minimalista refuerza la identidad de marca y proporciona enlaces clave
 
 La interfaz en su conjunto transmite autenticidad, simplicidad y dinamismo, reflejando los valores de la marca y favoreciendo la interacción constante entre exploradores gastronómicos y dueños de huariques.
 ## 4.2. Information Architecture
+La arquitectura de la información en **PuntoSabor** se ha diseñado para garantizar que tanto visitantes como usuarios puedan encontrar con facilidad el contenido y las funciones más relevantes, minimizando la carga cognitiva y generando una experiencia intuitiva. Las decisiones adoptadas buscan reflejar autenticidad, cercanía y dinamismo, alineándose con la identidad de la marca y con los valores de los huariques como espacios gastronómicos locales.
 ### 4.2.1. Organization Systems
+En **PuntoSabor** se aplican distintos sistemas de organización según el tipo de contenido y la plataforma:
+
+- **Organización jerárquica (Visual Hierarchy):** en la landing page se estructura la información en niveles: primero se presenta la propuesta de valor y el buscador principal, seguido de secciones de beneficios, exploración de huariques mejor valorados, promociones y finalmente el contacto.  
+
+- **Organización secuencial (Step-by-step):** en la aplicación web, procesos como el registro de huariques o la actualización de información siguen un flujo paso a paso que guía al usuario de manera clara.  
+
+- **Organización por tópicos:** el catálogo de huariques se categoriza según criterios como tipo de comida (criolla, marina, postres, etc.), ubicación, y estado de promociones (activas, destacadas).  
+
+- **Organización según audiencia:** la landing page presenta bloques diferenciados: exploradores gastronómicos (jóvenes y adultos que buscan comida auténtica) y dueños de huariques (emprendedores locales). Cada segmento recibe mensajes y beneficios específicos.  
 ### 4.2.2. Labeling Systems
+El etiquetado en **PuntoSabor** prioriza la claridad y simplicidad, usando palabras cortas, directas y consistentes en todas las interfaces:
+
+- **Landing Page:** Inicio, Explorar, Beneficios, Promos, Contacto.  
+- **Aplicación Web:** Huariques, Favoritos, Reseñas, Promociones, Perfil.  
+
+Además, los CTAs refuerzan la acción con verbos imperativos como **“Buscar Huariques”**, **“Registra tu negocio”**, **“Explora promociones”** o **“Deja tu reseña”**, que facilitan la interacción y mantienen coherencia con los objetivos de la plataforma.
 ### 4.2.3. SEO Tags and Meta Tags
+Se han definido meta elementos para mejorar el posicionamiento SEO tanto en la landing page como en la aplicación web:
+
+- **Title (Landing Page):** PuntoSabor | Descubre huariques auténticos cerca de ti.  
+- **Meta Description:** PuntoSabor conecta a exploradores gastronómicos con huariques auténticos y económicos, ofreciendo reseñas confiables, mapas interactivos y promociones exclusivas.  
+- **Meta Keywords:** huariques, comida peruana, gastronomía local, reseñas, recomendaciones, restaurantes pequeños, comida auténtica.  
+- **Author:** Equipo FijasDev – Startup PuntoSabor.  
+
+Estos elementos aseguran coherencia en motores de búsqueda y fortalecen la estrategia de atracción de usuarios.
 ### 4.2.4. Searching Systems
+La aplicación web de **PuntoSabor** ofrece sistemas de búsqueda diseñados para que el usuario encuentre lo que necesita sin esfuerzo:
+
+- **Búsqueda en catálogo:** localización de huariques por nombre, tipo de comida o distrito.  
+- **Filtros avanzados:** por rango de precios, valoración de usuarios, ubicación geográfica y promociones activas.  
+- **Mapa interactivo:** permite aplicar filtros visuales y seleccionar huariques desde su ubicación exacta.  
+- **Búsqueda en reseñas:** posibilidad de filtrar comentarios por calificación (positivas/negativas) o por temas (precio, atención, sabor).  
+
+De esta manera se evita que el usuario se sienta perdido entre la cantidad de opciones disponibles y se mejora la eficiencia en la exploración.
 ### 4.2.5. Navigation Systems
+La navegación de **PuntoSabor** combina claridad, consistencia y adaptabilidad:
+
+- **Landing Page (Desktop):** menú superior con navegación horizontal que permite acceder rápidamente a Inicio, Explorar, Beneficios, Promos y Contacto.  
+- **Landing Page (Móvil):** menú tipo hamburguesa con navegación vertical, optimizado para pantallas pequeñas.  
+- **Aplicación Web:** navegación lateral (sidebar) con accesos directos a Huariques, Favoritos, Promociones, Perfil y Configuración.  
+- **CTAs estratégicos:** botones visibles en rojo primario (#E63946) para guiar al usuario a acciones críticas como **buscar huariques**, **registrar un negocio** o **activar una promoción**.  
+
+En conjunto, estos sistemas garantizan que los usuarios puedan recorrer la plataforma de forma intuitiva, cumpliendo sus metas sin obstáculos.
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ### 4.3.2. Landing Page Mock-up
