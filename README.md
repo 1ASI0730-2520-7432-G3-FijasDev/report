@@ -678,6 +678,11 @@ La navegación de **PuntoSabor** combina claridad, consistencia y adaptabilidad:
 En conjunto, estos sistemas garantizan que los usuarios puedan recorrer la plataforma de forma intuitiva, cumpliendo sus metas sin obstáculos.
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+![alt text](<assets/Captura de pantalla 2025-09-17 163724.png>)
+
+![alt text](<assets/Captura de pantalla 2025-09-17 163852.png>)
+
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
