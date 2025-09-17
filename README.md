@@ -684,6 +684,12 @@ En conjunto, estos sistemas garantizan que los usuarios puedan recorrer la plata
 ![alt text](<assets/Captura de pantalla 2025-09-17 163852.png>)
 
 ### 4.3.2. Landing Page Mock-up
+Esta sección presenta y explica los Mock-ups de las aplicaciones. En la propuesta y la explicación debe evidenciarse la aplicación de los principios, elementos de diseño, diseño inclusivo y arquitectura de información, así como el Design System establecido para los productos digitales. Utilizar para los mock-ups las herramientas indicadas.
+
+![alt text](<assets/Landing Page Mock-up.1.png>)
+
+![alt text](<assets/Landing Page Mock-up.2.png>)
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
