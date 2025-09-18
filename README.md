@@ -693,11 +693,8 @@ La interfaz de la landing page es clave para el proyecto, pues constituye la pri
 ![alt text](<assets/landing page wireframe mobile 2.png>)
 
 ### 4.3.2. Landing Page Mock-up
-Esta sección presenta y explica los Mock-ups de las aplicaciones. En la propuesta y la explicación debe evidenciarse la aplicación de los principios, elementos de diseño, diseño inclusivo y arquitectura de información, así como el Design System establecido para los productos digitales. Utilizar para los mock-ups las herramientas indicadas.
 
 ![alt text](<assets/Landing Page Mock-up.1.png>)
-
-![alt text](<assets/Landing Page Mock-up.2.png>)
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
