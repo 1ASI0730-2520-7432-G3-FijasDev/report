@@ -735,6 +735,31 @@ En el caso de PuntoSabor, el diagrama de wireflow ilustra los recorridos princip
 ![alt text](<assets/Web applications Mock-ups mobile.2.png>)
 
 ### 4.4.3. Web Applications User Flow Diagrams
+El User Flow Diagram es una representación gráfica del recorrido que sigue un usuario al interactuar con una aplicación o sitio web. En él se detalla la secuencia de acciones necesarias para cumplir una tarea concreta, lo que permite detectar posibles dificultades en el proceso y mejorar la experiencia del usuario.
+
+Leyenda:
+
+![alt text](<assets/Leyenda - Web Applications User Flow Diagrams.png>)
+
+Flujo de usuario:
+Empieza con el usuario ingresando la página de inicio de PuntoSabor. Aqui determina  si es "Explorador Gastronómico" o "Dueño de Restaurante"
+
+![alt text](<assets/Flujo de Usuario- Web Applications User Flow Diagrams.png>)
+
+Flujo de Explorador Gastronómico:El usuario con rol de Explorador Gastronómico puede acceder a un buscador para obtener información sobre huariques. En caso de no realizar una búsqueda, podrá visualizar sugerencias. 
+
+![alt text](<assets/Flujo de Explorador Gastronómico-Web Applications User Flow Diagrams.png>)
+
+Flujo de Dueño de Restaurante: El usuario con rol de Dueño de Restaurante puede acceder a su perfil, consultar y modificar su plan, así como gestionar la lista de huariques, productos y promociones. Además, tiene la opción de actualizar su perfil añadiendo o editando un huarique: cambiar el nombre, actualizar la foto, modificar la ubicación y gestionar los productos y promociones. También podrá programar una sesión de retroalimentación en una fecha determinada.
+
+![alt text](<assets/Flujo de Dueño de Restaurante.1-Web Applications User Flow Diagrams.png>)
+
+![alt text](<assets/Flujo de Dueño de Restaurante.2-Web Applications User Flow Diagrams.png>)
+
+Vista general del flujo de usuario:
+
+![alt text](<assets/Flujo de Usuario General-Web Applications User Flow Diagrams.png>)
+
 ## 4.5. Web Applications Prototyping
 Prototipo de la aplicación web PuntoSabor en figma:
 **https://www.figma.com/design/lT88eEZFP7G86QwYXq59Lc/PuntoSabor?node-id=0-1&p=f&t=NTWZ6fdPzB6mKTpe-0**
