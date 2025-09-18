@@ -722,6 +722,18 @@ En el caso de PuntoSabor, el diagrama de wireflow ilustra los recorridos princip
 ![alt text](<assets/Wireflow Diagrams.png>)
 
 ### 4.4.2. Web Applications Mock-ups
+**Web applications Mock-ups desktop**
+
+![alt text](<assets/Web applications Mock-ups desktop.1.png>)
+
+![alt text](<assets/Web applications Mock-ups desktop.2.png>)
+
+**Web applications Mock-ups mobile**
+
+![alt text](<assets/Web applications Mock-ups mobile.1.png>)
+
+![alt text](<assets/Web applications Mock-ups mobile.2.png>)
+
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
