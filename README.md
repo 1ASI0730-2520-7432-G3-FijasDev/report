@@ -725,10 +725,44 @@ En el caso de PuntoSabor, el diagrama de wireflow ilustra los recorridos princip
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
+Prototipo de la aplicación web PuntoSabor en figma:
+**https://www.figma.com/design/lT88eEZFP7G86QwYXq59Lc/PuntoSabor?node-id=0-1&p=f&t=NTWZ6fdPzB6mKTpe-0**
+
 ## 4.6. Domain-Driven Software Architecture
+La arquitectura de software orientada al dominio es una metodología de diseño que organiza la estructura del sistema a partir de los conceptos y procesos esenciales de un área específica. Este enfoque permite construir aplicaciones alineadas con las necesidades reales y la lógica del negocio, facilitando tanto la incorporación de funcionalidades concretas como la adaptación ante cambios en el entorno. En PuntoSabor, aplicamos esta arquitectura para estructurar la plataforma de manera clara y escalable, lo que garantiza el desarrollo de una aplicación robusta, flexible y sencilla de mantener.
+
+
 ### 4.6.1. Software Architecture Context Diagram
+**Elementos:**
+- **PuntoSabor:** Principal para los usuarios
+- **Usurio - Descubridor gastronómico:** Encuentra huariques poco conocidos 
+- **Usuario - Dueño de restaurante:** Publica su huarique y más cosas según su plan de membresía 
+
+![alt text](<assets/Software Architecture Context Diagram.png>)
+
 ### 4.6.2. Software Architecture Container Diagrams
+**Elementos:**
+- **Aplicación web:** Frontend donde los usuarios interactúan con la aplicación 
+Se usará tecnología: Vue.js
+- **Servidor de aplicaciones:** Backend que maneja los planes de membresía de los usuarios.
+Se usará tecnología: C#
+- **Base de datos:** Almacena los datos de los usuarios, sus planes y cosas que realizan en la aplicación.
+Se usara tecnología: SQL  server 
+
+![alt text](<assets/Software Architecture Container Diagrams.png>)
+
 ### 4.6.3. Software Architecture Components Diagrams
+Elemntos:
+
+- **Modulo de Categorías:** El usuario elige la categoría de huarique que desea.
+- **Modulo de Zonas:** Muestra en un mapa los huariques cercanos a la ubicación del usuario.
+- **Modulo de Promociones:** Los dueños publican ofertas y descuentos visibles para todos.
+- **Modulo de Contáctanos:** Canal para enviar consultas o reportar problemas desde la web.
+- **Modulo de Perfil:** El usuario puede editar su información en cualquier momento.
+- **Modulo de Planes:** Los dueños seleccionan entre los planes de membresía disponibles.
+
+![alt text](<assets/Software Architecture Components Diagrams..png>)
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
