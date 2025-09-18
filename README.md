@@ -698,12 +698,24 @@ La interfaz de la landing page es clave para el proyecto, pues constituye la pri
 El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI) en aplicaciones web consiste en construir una experiencia digital que resulte clara, práctica y agradable para las personas que la utilizan. La UX se enfoca en identificar las necesidades y expectativas de los usuarios, diseñando flujos de navegación y estructuras de información que hagan más sencilla la interacción. En cambio, la UI aborda la parte visual de la aplicación, como el estilo de los botones, menús y la organización del contenido en pantalla. Cuando ambos enfoques se integran de forma adecuada, se logra un equilibrio entre estética y usabilidad, generando así una experiencia atractiva, funcional y memorable para los usuarios.
 
 ### 4.4.1. Web Applications Wireframes
+**Web applications wireframes desktop**
 
 ![alt text](<assets/web applications wireframe desktop 1.png>)
 
 ![alt text](<assets/web applications wireframe desktop 2.png>)
 
+**Web applications wireframes mobile**
+
+![alt text](<assets/web applications wireframe mobile 1.png>)
+
+![alt text](<assets/web applications wireframe mobile 2.png>)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
+Los diagramas de wireflow para aplicaciones web son representaciones visuales que muestran tanto la navegación como la estructura de una aplicación. Estos combinan características de los wireframes y de los diagramas de flujo, ofreciendo una visión clara de cómo los usuarios se desplazan por la plataforma y de qué manera interactúan con sus diferentes funciones. Su utilidad radica en detectar posibles dificultades de usabilidad y en asegurar que la experiencia del usuario sea consistente y eficiente.
+En el caso de PuntoSabor, el diagrama de wireflow ilustra los recorridos principales de sus dos tipos de usuarios: el descubridor gastronómico y el dueño de restaurante. Incluye procesos clave como la autenticación, la exploración de categorías de comida, la búsqueda de huariques cercanos, el acceso a promociones, la gestión de planes de membresía, así como funciones para editar el perfil y acceder al soporte.
+
+![alt text](<assets/Wireflow Diagrams.png>)
+
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
