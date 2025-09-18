@@ -682,11 +682,15 @@ La interfaz de la landing page es clave para el proyecto, pues constituye la pri
 ### 4.3.1. Landing Page Wireframe
 **Landing Page para Desktop Web Browser**
 
-![alt text](<assets/Landing Page para Desktop Web Browse.png>)
+![alt text](<assets/landing page wireframe desktop 1.png>)
+
+![alt text](<assets/landing page wireframe desktop 2.png>)
 
 **Landing Page para Mobile Web Browse**
 
-![alt text](<assets/Landing Page para Mobile Web Browse.png>)
+![alt text](<assets/landing page wireframe mobile 1.png>)
+
+![alt text](<assets/landing page wireframe mobile 2.png>)
 
 ### 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
