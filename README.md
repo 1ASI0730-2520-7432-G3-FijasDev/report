@@ -675,7 +675,8 @@ La navegación de **PuntoSabor** combina claridad, consistencia y adaptabilidad:
 - **Aplicación Web:** navegación lateral (sidebar) con accesos directos a Huariques, Favoritos, Promociones, Perfil y Configuración.  
 - **CTAs estratégicos:** botones visibles en rojo primario (#E63946) para guiar al usuario a acciones críticas como **buscar huariques**, **registrar un negocio** o **activar una promoción**.  
 
-En conjunto, estos sistemas garantizan que los usuarios puedan recorrer la plataforma de forma intuitiva, cumpliendo sus metas sin obstáculos.
+En conjunto, estos sistemas garantizan que los usuarios puedan recorrer
+la plataforma de forma intuitiva, cumpliendo sus metas sin obstáculos.
 ## 4.3. Landing Page UI Design
 La interfaz de la landing page es clave para el proyecto, pues constituye la primera impresión del producto. Debe ofrecer una experiencia estética y funcional que atraiga de inmediato a los visitantes y los impulse a seguir explorando.
 
@@ -700,7 +701,14 @@ Esta sección presenta y explica los Mock-ups de las aplicaciones. En la propues
 ![alt text](<assets/Landing Page Mock-up.2.png>)
 
 ## 4.4. Web Applications UX/UI Design
+El diseño de experiencia de usuario (UX) y de interfaz de usuario (UI) en aplicaciones web consiste en construir una experiencia digital que resulte clara, práctica y agradable para las personas que la utilizan. La UX se enfoca en identificar las necesidades y expectativas de los usuarios, diseñando flujos de navegación y estructuras de información que hagan más sencilla la interacción. En cambio, la UI aborda la parte visual de la aplicación, como el estilo de los botones, menús y la organización del contenido en pantalla. Cuando ambos enfoques se integran de forma adecuada, se logra un equilibrio entre estética y usabilidad, generando así una experiencia atractiva, funcional y memorable para los usuarios.
+
 ### 4.4.1. Web Applications Wireframes
+
+![alt text](<assets/web applications wireframe desktop 1.png>)
+
+![alt text](<assets/web applications wireframe desktop 2.png>)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
 ### 4.4.3. Web Applications User Flow Diagrams
