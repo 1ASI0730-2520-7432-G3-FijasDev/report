@@ -677,11 +677,16 @@ La navegación de **PuntoSabor** combina claridad, consistencia y adaptabilidad:
 
 En conjunto, estos sistemas garantizan que los usuarios puedan recorrer la plataforma de forma intuitiva, cumpliendo sus metas sin obstáculos.
 ## 4.3. Landing Page UI Design
+La interfaz de la landing page es clave para el proyecto, pues constituye la primera impresión del producto. Debe ofrecer una experiencia estética y funcional que atraiga de inmediato a los visitantes y los impulse a seguir explorando.
+
 ### 4.3.1. Landing Page Wireframe
+**Landing Page para Desktop Web Browser**
 
-![alt text](<assets/Captura de pantalla 2025-09-17 163724.png>)
+![alt text](<assets/Landing Page para Desktop Web Browse.png>)
 
-![alt text](<assets/Captura de pantalla 2025-09-17 163852.png>)
+**Landing Page para Mobile Web Browse**
+
+![alt text](<assets/Landing Page para Mobile Web Browse.png>)
 
 ### 4.3.2. Landing Page Mock-up
 Esta sección presenta y explica los Mock-ups de las aplicaciones. En la propuesta y la explicación debe evidenciarse la aplicación de los principios, elementos de diseño, diseño inclusivo y arquitectura de información, así como el Design System establecido para los productos digitales. Utilizar para los mock-ups las herramientas indicadas.
