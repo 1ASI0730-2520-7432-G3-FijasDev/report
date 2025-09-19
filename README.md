@@ -778,7 +778,7 @@ La arquitectura de software orientada al dominio es una metodología de diseño 
 - **Usurio - Descubridor gastronómico:** Encuentra huariques poco conocidos 
 - **Usuario - Dueño de restaurante:** Publica su huarique y más cosas según su plan de membresía 
 
-![alt text](<assets/structurizr-punto_context (1).png>)
+![alt text](assets/structurizr-punto_context.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 **Elementos:**
