@@ -515,27 +515,27 @@ Mediante este artefacto, se ha llevado a cabo la elaboración del As-is Scenario
 
 ## 2.4. Ubiquitous Language
 
-En esta sección se crea un glosario con los términos esenciales del dominio del negocio PuntoSabor, siguiendo el enfoque de Ubiquitous Language en Domain Driven Design. Este glosario ofrece definiciones precisas y claras de los conceptos relevantes al problema y su solución, promoviendo una comunicación eficiente entre todos los integrantes del equipo.
+En esta sección se presenta el glosario de términos esenciales del dominio de PuntoSabor, redactados en inglés con su equivalente en español entre paréntesis. Cada definición busca eliminar ambigüedades y garantizar una comunicación clara y coherente entre todos los miembros del equipo y stakeholders, alineando el lenguaje del negocio.
 
-- Huarique: Pequeño restaurante tradicional peruano, generalmente conocido por su comida casera y local, que es el principal tipo de establecimiento que la app PuntoSabor busca promover.
+Glosario:
 
-- Explorador Gastronómico: Usuario de la app PuntoSabor que busca descubrir huariques auténticos, económicos y poco conocidos mediante la plataforma web.
+- Huarique (Huarique): Pequeño restaurante tradicional peruano, generalmente familiar o local, conocido por su comida casera, auténtica y accesible. Representa el eje central de la propuesta de PuntoSabor.
 
-- Dueño y/o administrador de Huarique: Persona responsable de un huarique que utiliza la app para registrar, actualizar y promocionar su negocio ante potenciales clientes.
+- Gastronomic Explorer (Explorador Gastronómico): Persona que busca descubrir nuevos huariques auténticos, económicos y poco conocidos, motivada por la experiencia cultural y culinaria.
 
-- Reseña: Opinión o evaluación que un usuario deja en la app acerca de su experiencia en un huarique, incluyendo comentarios y calificaciones.
+- Huarique Owner (Dueño de Huarique): Persona responsable de la gestión de un huarique, incluyendo la preparación de los platos, la atención al cliente y la administración general del negocio.
 
-- Mapa de Geolocalización: Funcionalidad de la app que muestra la ubicación exacta de los huariques en un mapa interactivo para facilitar su localización.
+- Review (Reseña): Opinión o evaluación escrita por un cliente sobre su experiencia en un huarique, que incluye comentarios sobre el servicio, el ambiente y la calidad de los platos.
 
-- Favorito: Huarique guardado por un usuario en la app para futuras visitas o recomendaciones.
+- Recommendation (Recomendación): Sugerencia realizada por un cliente para que otros visitantes conozcan o prueben un huarique en particular.
 
-- Gestión del Huarique: Conjunto de acciones realizadas por el dueño para mantener actualizada la información, responder reseñas y promover su negocio dentro de la aplicación.
+- Favorite (Favorito): Huarique que un cliente recuerda o destaca como preferido por la calidad de su experiencia, y al cual desea regresar o recomendar.
 
-- Membresía: Plan o suscripción que puede contratar un dueño de huarique para acceder a servicios adicionales de promoción dentro de la app.
+- Culinary Tradition (Tradición Culinaria): Conjunto de prácticas, recetas y costumbres gastronómicas propias de los huariques, que aportan valor cultural a la experiencia gastronómica.
 
-- Interacción Comunitaria: Comunicación entre usuarios y dueños a través de reseñas, comentarios y respuestas que enriquecen la experiencia y confianza en la plataforma.
+- Community Interaction (Interacción Comunitaria): Relación entre clientes y dueños de huariques mediante el intercambio de experiencias, reseñas, recomendaciones y diálogo que fortalecen la confianza y la visibilidad de los negocios.
 
-- Este lenguaje común asegura que desarrolladores, diseñadores y stakeholders utilicen terminología única y coherente en toda la documentación, código y comunicación, orientando el desarrollo hacia la resolución efectiva de las necesidades del negocio.
+- Membership (Membresía): Acuerdo económico mediante el cual un dueño de huarique accede a beneficios adicionales de promoción y visibilidad dentro del ecosistema de PuntoSabor.
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
