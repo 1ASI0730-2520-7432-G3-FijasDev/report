@@ -809,7 +809,21 @@ Promotions Service — Components
 
 ![alt text](assets/structurizr-c3_promotions.png)
 
+Plans Service — Components
 
+![alt text](assets/structurizr-c3_plans.png)
+
+Profile Service — Components
+
+![alt text](assets/structurizr-c3_profile.png)
+
+Auth Service — Components
+
+![alt text](assets/structurizr-c3_auth.png)
+
+Contact Service — Components
+
+![alt text](assets/structurizr-c3_contact.png)
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
