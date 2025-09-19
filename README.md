@@ -827,9 +827,235 @@ Contact Service — Components
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+```mermaid
+classDiagram
+direction TB
+
+%% =================== TOP (APPLICATION) ===================
+class HuariquesApplicationService {
+  +getHuarique(id: UUID) HuariqueDTO
+  +createReview(review: ReviewDTO) void
+}
+HuariquesApplicationService --> ReviewService
+HuariquesApplicationService --> IHuariqueRepository
+HuariquesApplicationService --> HuariqueDTO
+HuariquesApplicationService --> ReviewDTO
+
+%% =================== DTOs (SIDES) ===================
+class HuariqueDTO {
+  +UUID id
+  +string name
+  +string description
+  +string category
+  +float averageRating
+  +string status
+  +string address
+  +string location
+}
+class ReviewDTO {
+  +UUID userId
+  +UUID huariqueId
+  +int rating /*1..5*/
+  +string comment
+  +datetime date
+}
+
+%% =================== DOMAIN SERVICE (LEFT) ===================
+class ReviewService {
+  +publish(huariqueId: UUID, rating: int, comment: string) void
+}
+ReviewService --> IReviewRepository
+ReviewService --> Huarique
+
+%% =================== REPOSITORIES (RIGHT) ===================
+class IHuariqueRepository {
+  +getById(id: UUID) Huarique
+  +save(h: Huarique) void
+}
+class IReviewRepository {
+  +forHuarique(id: UUID) List_Review
+  +save(r: Review) void
+}
+class HuariqueRepositorySQL {
+  +getById(id: UUID) Huarique
+  +save(h: Huarique) void
+}
+HuariqueRepositorySQL ..|> IHuariqueRepository
+
+%% =================== AGGREGATE (CENTER) ===================
+class Huarique {
+  +UUID id
+  +string name
+  +Description description
+  +Address address
+  +Coordinates location
+  +float averageRating
+  +OpeningStatus status
+  +addReview(r: Review) void
+}
+Huarique "1" --> "0..*" Review
+Huarique --> Category
+Huarique --> Description
+Huarique --> Address
+Huarique --> Coordinates
+Huarique --> OpeningStatus
+
+%% =================== ENTITIES / VALUE OBJECTS (BOTTOM) ===================
+class Review {
+  +UUID id
+  +Rating rating
+  +string comment
+  +datetime date
+}
+Review --> Rating
+
+class Category { +UUID id; +string name }
+class Description { -string value }
+class Address { -string line1; -string district; -string city }
+class Coordinates { -float lat; -float lng }
+class Rating { -int value /*1..5*/ }
+
+class OpeningStatus {
+  <<enumeration>>
+  +OPEN
+  +CLOSED
+  +UNKNOWN
+  +TEMPORARILY_CLOSED
+}
+
+```
+
 ### 4.7.2. Class Dictionary
+| Class                         | Definition                                                                                                                |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| `User`                        | Entity representing the platform user (name, email) who creates reviews and manages favorites.                            |
+| `Huarique`                    | **Aggregate root**: a food venue with name, `Description`, `Address`, `Coordinates`, average rating, and `OpeningStatus`. |
+| `Category`                    | Lightweight entity that classifies huariques by type/style.                                                               |
+| `Review`                      | Entity that models a review on a huarique, with a `Rating` (1..5), comment, and date.                                     |
+| `Favorite`                    | User–huarique relationship to bookmark huariques.                                                                         |
+| `MembershipPlan`              | Commercial plan available to a huarique (name, benefits, monthly price).                                                  |
+| `Subscription`                | Link between huarique and plan; stores dates and `SubscriptionStatus`.                                                    |
+| `Description`                 | **Value Object** encapsulating the huarique’s validated description.                                                      |
+| `Address`                     | **Value Object** with line, district, and city; prevents invalid addresses.                                               |
+| `Coordinates`                 | **Value Object** with valid latitude/longitude for geolocation.                                                           |
+| `Rating`                      | **Value Object** (integer 1..5) ensuring valid ratings.                                                                   |
+| `OpeningStatus`               | **VO / Enumeration** representing the venue’s operating status (`OPEN`, `CLOSED`, `UNKNOWN`, `TEMPORARILY_CLOSED`).       |
+| `SubscriptionStatus`          | **VO / Enumeration** for subscription lifecycle (`ACTIVE`, `CANCELED`, `EXPIRED`).                                        |
+| `IHuariqueRepository`         | **Port** for `Huarique` persistence (get by id, search by filters, save).                                                 |
+| `IReviewRepository`           | **Port** for `Review` persistence (list by huarique, save).                                                               |
+| `ISubscriptionRepository`     | **Port** for `Subscription` persistence (get, save).                                                                      |
+| `HuariqueRepositorySQL`       | **Adapter** implementing `IHuariqueRepository` using SQL storage.                                                         |
+| `SearchService`               | **Domain service** to find huariques by filters.                                                                          |
+| `ReviewService`               | **Domain service** to publish/moderate reviews applying business rules.                                                   |
+| `MembershipService`           | **Domain service** that manages subscription lifecycle.                                                                   |
+| `HuariquesApplicationService` | **Application service** that orchestrates use cases (get huarique, create review) and coordinates repositories/services.  |
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+
+```mermaid
+erDiagram
+  %% ================= RELATIONSHIPS =================
+  Users            ||--o{ Reviews           : "writes"
+  Users            ||--o{ Favorites         : "bookmarks"
+  Huariques        ||--o{ Reviews           : "reviewed in"
+  Huariques        ||--o{ Favorites         : "bookmarked"
+  Categories       ||--o{ Huariques         : "classifies"
+  Huariques        ||--o{ Huarique_Photos   : "has"
+  Membership_Plans ||--o{ Subscriptions     : "offered to"
+  Huariques        ||--o{ Subscriptions     : "subscribes"
+  Users            ||--o{ Subscriptions     : "created by"
+  Users            ||--o{ Audit_Logs        : "logs"
+
+  %% ================= TABLES =================
+
+  Users {
+      uuid user_id PK
+      string name
+      string email UK
+      enum role "admin, user"
+      timestamp created_at
+      timestamp updated_at
+  }
+
+  Huariques {
+      uuid huarique_id PK
+      string name
+      text description
+      string address_line
+      string district
+      string city
+      float lat
+      float lng
+      enum opening_status "OPEN, CLOSED, UNKNOWN, TEMPORARILY_CLOSED"
+      decimal average_rating
+      int category_id FK
+      timestamp created_at
+      timestamp updated_at
+  }
+
+  Categories {
+      int category_id PK
+      string name
+      string description
+      timestamp created_at
+  }
+
+  Reviews {
+      uuid review_id PK
+      uuid huarique_id FK
+      uuid user_id FK
+      int rating "1..5"
+      string comment
+      datetime review_date
+      timestamp created_at
+  }
+
+  Favorites {
+      uuid user_id PK,FK
+      uuid huarique_id PK,FK
+      timestamp created_at
+  }
+
+  Membership_Plans {
+      uuid plan_id PK
+      string name
+      text description
+      decimal monthly_price
+      timestamp created_at
+  }
+
+  Subscriptions {
+      uuid subscription_id PK
+      uuid huarique_id FK
+      uuid plan_id FK
+      uuid user_id FK        "creator/owner"
+      date start_date
+      date end_date
+      enum status "ACTIVE, CANCELED, EXPIRED"
+      timestamp created_at
+      timestamp updated_at
+  }
+
+  Huarique_Photos {
+      uuid photo_id PK
+      uuid huarique_id FK
+      string url
+      timestamp created_at
+  }
+
+  Audit_Logs {
+      int audit_id PK
+      uuid user_id FK
+      string entity_type
+      uuid entity_id
+      string action
+      json details
+      timestamp audit_date
+  }
+
+```
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
