@@ -1099,13 +1099,118 @@ erDiagram
   }
 
 ```
-
 # Capítulo V: Product Implementation, Validation & Deployment
+
 ## 5.1. Software Configuration Management
+
+En esta sección se detalla cómo se implementa, organiza y publica **PuntoSabor** en su estado actual (sitio estático con **HTML, CSS y JavaScript**). No se utiliza aún backend ni base de datos; la publicación se realiza con **GitHub Pages**. El objetivo es mantener la consistencia del desarrollo y dejar preparado el terreno para futuras iteraciones.
+
+---
+
 ### 5.1.1. Software Development Environment Configuration
+
+**Implementado (estado actual)**
+- **Frontend (Landing + Páginas):** HTML5, CSS3, JavaScript (vanilla).
+- **Responsive Web Design:** únicamente con **CSS** (Flexbox/Grid + media queries).
+- **Editor:** Visual Studio Code (o editor de preferencia).
+- **Control de versiones y colaboración:** Git + GitHub.
+
+**Estructura de páginas (referencial)**
+- `index.html` (inicio / home)
+- `inicio.html`
+- `planes.html`
+- `contacto.html`
+- `perfil.html`
+- `promos.html`
+- `zonas.html`
+- `css/` (hojas de estilo)
+- `img/` u otra carpeta de recursos
+
+> Nota: En esta entrega **no se ha implementado** servidor, API ni base de datos.
+
+---
+
 ### 5.1.2. Source Code Management
+
+**Repositorio GitHub (actual)**
+- `puntosabor-landing` (código estático de la web).
+
+**Flujo de trabajo (GitFlow ligero)**
+- **Ramas principales**
+  - `main`: versión estable publicada.
+  - `develop`: integración previa a publicación.
+- **Ramas de apoyo**
+  - `feature/*`: nuevas secciones o mejoras (p. ej., `feature/US01-landing-planes`).
+  - `hotfix/*`: correcciones urgentes sobre `main`.
+
+**Versionado Semántico (Semantic Versioning 2.0.0)**
+- **X (major)**: cambios incompatibles (reestructura global de navegación/archivos).
+- **Y (minor)**: nuevas secciones o funcionalidades compatibles.
+- **Z (patch)**: correcciones menores (estilos, textos, enlaces).
+- Ejemplos: `v1.0.0`, `v1.1.0`, `v1.1.1`.
+
+**Conventional Commits**
+
+Formato general:
+```
+<type>[scope]: <descripción>
+```
+Ejemplos:
+- `feat: agregar sección planes con cards responsivas`
+- `fix(css): corregir overflow en navbar móvil`
+- `docs: actualizar pasos de despliegue en README`
+
+---
+
 ### 5.1.3. Source Code Style Guide & Conventions
+
+**HTML**
+- Estructura semántica: `<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`.
+- Imágenes siempre con `alt`.
+- Enlaces relativos y consistentes entre páginas.
+- Scripts JS al final del `body` cuando corresponda.
+
+**CSS**
+- Uso de **variables CSS** (`:root { --color... }`) para colores y espaciados.
+- Convención de clases en **kebab-case** (ej.: `.hero-title`, `.card-grid`).
+- Layout con **Flexbox y/o Grid**.
+- **Media queries** para puntos de quiebre (ej.: 960px, 760px, 560px).
+- Estados y accesibilidad: `:hover`, `:focus-visible`, contraste adecuado.
+
+**JavaScript (vanilla)**
+- `const` / `let` (evitar `var`), funciones pequeñas y claras.
+- Separar lógica de interacción del DOM cuando sea posible.
+- Uso moderado de `localStorage` solo para preferencias/estado del cliente (si aplica).
+
+---
+
 ### 5.1.4. Software Deployment Configuration
+
+**Despliegue actual — GitHub Pages (Landing + Páginas estáticas)**
+
+**Pasos:**
+1. Subir el código al repositorio (por ejemplo `puntosabor-landing`) en la rama `main`.
+2. En GitHub: ir a **Settings → Pages**.
+3. En **Build and deployment**, seleccionar **Deploy from a branch**.
+4. Elegir **Branch:** `main` y **Folder:** `/ (root)`. Guardar.
+5. Esperar a que GitHub procese el sitio y obtener la URL pública, por ejemplo:
+```
+https://<usuario-o-organizacion>.github.io/puntosabor-landing/
+```
+
+**Validación post-despliegue**
+- Probar navegación entre páginas: `index.html`, `planes.html`, `contacto.html`, `perfil.html`, `promos.html`, `zonas.html`.
+- Verificar rutas relativas a hojas de estilo, imágenes y scripts.
+- Comprobar **responsive** en móvil/escritorio (inspector del navegador).
+- Revisar enlaces externos y formularios (si existieran) que no dependan de backend.
+
+**(Futuro, cuando se añada backend/BD)**
+- Mantener frontend estático (o migrar a SPA) y publicar API por separado.
+- Añadir CI/CD con GitHub Actions y variables/secretos necesarios.
+- Documentar endpoints con Swagger/OpenAPI y pruebas con Postman.
+
+
+---
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
