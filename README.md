@@ -1109,14 +1109,53 @@ erDiagram
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-#### 5.2.1.2. Aspect Leaders and Collaborators
-#### 5.2.1.3. Sprint Backlog 1
-#### 5.2.1.4. Development Evidence for Sprint Review
-#### 5.2.1.5. Execution Evidence for Sprint Review
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-#### 5.2.1.8. Team Collaboration Insights during Sprint  
+| #                                    | Sprint 1                                                                                                                                                          |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**       |                                                                                                                                                                   |
+| **Date**                             | 2025-04-18                                                                                                                                                        |
+| **Time**                             | 10:00PM – 11:00PM                                                                                                                                                 |
+| **Location**                         | Meet                                                                                                                                                              |
+| **Prepared by**                      | Delgado Carrasco, Schneider; Lopez Goitia, Carlos Alberto                                                                                                         |
+| **Attendees**                        | Delgado Carrasco, Schneider; Lopez Goitia, Carlos Alberto; Tumi Oliden, Manuel Ignacio; Vega Coronado, Fabricio Samir; Villanueva Andrade, Ysaac Ligorio          |
+| **Sprint n-1 Review Summary**        | No hubo sprint anterior                                                                                                                                           |
+| **Sprint n-1 Retrospective Summary** | No hubo sprint anterior                                                                                                                                           |
+| **Sprint Goal & User Stories**       | **Goal**: Create a clear, functional **landing page** (benefits, CTA, testimonials, and contact form), laying the groundwork for future integrations. |
+| **Sprint 1 velocity**                | 10 horas                                                                                                                                                          |
+| **Sum of Story Points**              | 10                                                                                                                                                                |
 
+#### 5.2.1.2. Aspect Leaders and Collaborators
+| Team member                       | GitHub username | Beneficios | Planes | Testimonios | Responsive | Soporte |
+| --------------------------------- | --------------: | :--------: | :----: | :---------: | :--------: | :-----: |
+| Delgado Carrasco, Schneider       |     schneiderdc |    **C**   |    L   |      C      |      C     |    L    |
+| Lopez Goitia, Carlos Alberto      |    CarlosAlb101 |      L     |  **C** |      C      |      C     |    C    |
+| Tumi Oliden, Manuel Ignacio       |  ManuelTumi2224 |      C     |    C   |    **L**    |      C     |    C    |
+| Vega Coronado, Fabricio Samir     |      Fabricio1v |      C     |    L   |      C      |    **C**   |    C    |
+| Villanueva Andrade, Ysaac Ligorio | YsaacVillanueva |      L     |    C   |      C      |      C     |  **C**  |
+
+#### 5.2.1.3. Sprint Backlog 1
+| Sprint # | Sprint 1 |
+| -------- | -------- |
+
+| #  | ID   | Title                  | User Story                                                                                                     | Story Points | Sprint 1 Status |
+|----|------|------------------------|---------------------------------------------------------------------------------------------------------------|-------------:|-----------------|
+| 1  | US01 | Advanced search        | As a user, I can filter huariques by location, cuisine type, and price for an efficient search.              | 5 | Partial |
+| 2  | US02 | Map view               | As a user, I want to see the huariques’ locations on a map to make visiting easier.                          | 3 | Done |
+| 4  | US04 | Register new huarique  | As an owner, I can register a new huarique with basic information to appear on the platform.                 | 5 | Done |
+| 6  | US06 | Media management       | As an owner, I can upload photos and videos to showcase my huarique.                                         | 3 | Done |
+| 9  | US09 | Landing benefits       | As a visitor, I can see PuntoSabor’s advantages on the landing page.                                         | 2 | Done |
+| 10 | US10 | Contact form           | As a visitor, I can send inquiries through a form.                                                            | 2 | Done |
+| 26 | US26 | Featured promotions    | As a Pro owner, I want to publish promotions that appear highlighted in the listings.                         | 3 | Partial |
+
+#### 5.2.1.4. Development Evidence for Sprint Review
+Se versionó todo el trabajo (copy, diseño de secciones, CTA, testimonios y formulario con validaciones) en Git y se crearon ramas por feature con sus pull requests. Se adjuntaron capturas de antes/después en los issues correspondientes y se documentó cada componente en el repositorio.
+#### 5.2.1.5. Execution Evidence for Sprint Review
+Durante el Sprint se completaron las tareas del backlog de la landing page. Se redactó contenido, se diseñaron las secciones visuales, se añadió un CTA persistente y se implementó el formulario con validaciones. Se mostró una demo navegable en la review para validar experiencia y copy.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+Se generó documentación en Markdown describiendo estructura, componentes UI, flujos de interacción del formulario (y validaciones), y criterios de accesibilidad/responsividad. Esto alinea al equipo para los próximos sprints donde se integrarán servicios backend.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Se desplegó la landing page en GitHub Pages (o hosting equivalente) con el contenido del Sprint: beneficios, testimonios, CTA y formulario. Se compartió el enlace para revisión, se registraron observaciones en issues y se planificaron ajustes menores visuales para el siguiente sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint  
+El equipo trabajó de forma colaborativa con comunicación fluida (Meet/Discord). Se usaron tableros Kanban para seguimiento y ramas por feature para aislar cambios. Todos asumieron responsabilidades claras y se apoyaron mutuamente en revisiones, lo que permitió cumplir el objetivo del sprint sin bloqueos.
 
 
 # Conclusiones
