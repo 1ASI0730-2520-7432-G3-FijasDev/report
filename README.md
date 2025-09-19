@@ -768,15 +768,19 @@ Prototipo de la aplicación web PuntoSabor en figma:
 La arquitectura de software orientada al dominio es una metodología de diseño que organiza la estructura del sistema a partir de los conceptos y procesos esenciales de un área específica. Este enfoque permite construir aplicaciones alineadas con las necesidades reales y la lógica del negocio, facilitando tanto la incorporación de funcionalidades concretas como la adaptación ante cambios en el entorno. En PuntoSabor, aplicamos esta arquitectura para estructurar la plataforma de manera clara y escalable, lo que garantiza el desarrollo de una aplicación robusta, flexible y sencilla de mantener.
 
 
-### 4.6.1. Software Architecture Context Diagram
+ ### 4.6.1. Design-Level EventStorming.
+
+
+
+### 4.6.2. Software Architecture Context Diagram
 **Elementos:**
 - **PuntoSabor:** Principal para los usuarios
 - **Usurio - Descubridor gastronómico:** Encuentra huariques poco conocidos 
 - **Usuario - Dueño de restaurante:** Publica su huarique y más cosas según su plan de membresía 
 
-![alt text](<assets/Software Architecture Context Diagram.png>)
+![alt text](<assets/structurizr-punto_context (1).png>)
 
-### 4.6.2. Software Architecture Container Diagrams
+### 4.6.3. Software Architecture Container Diagrams
 **Elementos:**
 - **Aplicación web:** Frontend donde los usuarios interactúan con la aplicación 
 Se usará tecnología: Vue.js
@@ -785,19 +789,27 @@ Se usará tecnología: C#
 - **Base de datos:** Almacena los datos de los usuarios, sus planes y cosas que realizan en la aplicación.
 Se usara tecnología: SQL  server 
 
-![alt text](<assets/Software Architecture Container Diagrams.png>)
+![alt text](assets/structurizr-c2_puntosabor.png)
 
-### 4.6.3. Software Architecture Components Diagrams
-Elemntos:
+### 4.6.4. Software Architecture Components Diagrams
 
-- **Modulo de Categorías:** El usuario elige la categoría de huarique que desea.
-- **Modulo de Zonas:** Muestra en un mapa los huariques cercanos a la ubicación del usuario.
-- **Modulo de Promociones:** Los dueños publican ofertas y descuentos visibles para todos.
-- **Modulo de Contáctanos:** Canal para enviar consultas o reportar problemas desde la web.
-- **Modulo de Perfil:** El usuario puede editar su información en cualquier momento.
-- **Modulo de Planes:** Los dueños seleccionan entre los planes de membresía disponibles.
+API Service — Components
 
-![alt text](<assets/Software Architecture Components Diagrams..png>)
+![alt text](<assets/structurizr-c3_api (1).png>)
+
+Categories Service — Components
+
+![alt text](assets/structurizr-c3_categories.png)
+
+Zones Service — Components
+
+![alt text](assets/structurizr-c3_zones.png)
+
+Promotions Service — Components
+
+![alt text](assets/structurizr-c3_promotions.png)
+
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
