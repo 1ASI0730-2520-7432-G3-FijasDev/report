@@ -393,8 +393,41 @@ Busca lugares nuevos casi todas las semanas, sobre todo los fines de semana con 
 - Se motiva por una app **confiable y enfocada en huariques**.  
 - Imprescindibles: **filtros por comida, precios y ubicación, mapa interactivo, recomendaciones**.  
 - Preocupaciones: **publicidad excesiva, información falsa, pocas opciones locales**.
-## Segmento #2: Dueños y Administradores de Huariques
+---
+### Segmento #2: Dueños y Administradores de Huariques
+## 👨 Wilder Villalobos (27 años)
 
+Utiliza principalmente **Instagram y TikTok** para promocionar su negocio de pan con chicharrón, aunque los **reels** tienen mayor impacto que las publicaciones comunes. El mayor reto que enfrenta es la **competencia**, la dificultad de **entender el algoritmo** y la necesidad de invertir dinero en publicidad para ganar visibilidad.  
+
+Se siente **cómodo** usando aplicaciones web siempre que sean **efectivas y fáciles de usar**. Valora mucho las **métricas claras** sobre cuántos clientes lo encuentran y cómo llegan a su restaurante. Prefiere interfaces simples, con gráficos directos y comunicación lineal.  
+
+Respecto al **modelo de pago**, ya invierte entre **S/ 20 y S/ 50 al mes en Instagram**, por lo que estaría dispuesto a destinar ese mismo monto en una app especializada, siempre que le dé igual o mejor rendimiento en atracción de clientes. Su expectativa principal es que la app **aumente sus ventas** de manera tangible.  
+
+**Puntos clave:**  
+- Usa **Instagram y TikTok** (prefiere reels).  
+- Problemas: **competencia alta, algoritmos complicados, inversión en publicidad**.  
+- Cómodo con apps web si son **efectivas y simples**.  
+- Valora **métricas claras y directas** (clientes alcanzados, interacciones, impacto real).  
+- Prefiere **interfaz simple con gráficos directos y comunicación lineal**.  
+- Dispuesto a pagar **20–50 soles/mes** si rinde igual o mejor que Instagram/TikTok.  
+- Expectativa central: que la app **genere más clientes y ventas**.  
+## 👨 Piero Tapia (26 años)
+
+Dueño de una sandwichería. Actualmente no utiliza plataformas web para promocionarse; su clientela llega principalmente por la ubicación física de su negocio. Menciona que no cuenta con presupuesto suficiente para campañas de marketing digital y que tiene poco conocimiento en redes sociales, lo que le dificulta dar una buena imagen en línea.  
+
+Entre sus principales retos identifica la **falta de conocimientos en manejo digital**, la complejidad para captar al público adecuado y la dificultad para comprender procesos como **pagos por internet o afiliaciones** a apps de delivery. Como consumidor ha usado apps de pedidos, pero como negocio no se siente capaz de afiliarse porque no las percibe intuitivas.  
+
+Se motivaría a usar una app especializada si es **fácil de aprender y manejar**, con **bajas comisiones** que no encarezcan sus productos, ya que eso afecta la demanda. También espera que la aplicación le dé **soporte y guía** para aprender a usarla y mejorar su gestión en el tiempo. Propone que el modelo de tarifas/membresías sea **escalonado** (para principiantes, negocios intermedios y avanzados), para no excluir a emprendimientos que recién comienzan.  
+
+Su expectativa principal es que la app le genere **más afluencia de clientes reales y ventas**, no solo visibilidad sin conversión.  
+
+**Puntos clave:**  
+- Actualmente no usa plataformas web; depende del **tráfico físico** en su local.  
+- Problemas: **falta de presupuesto, poco conocimiento digital, dificultad en pagos en línea y afiliaciones**.  
+- Como consumidor usa apps de comida, pero no como negocio (no intuitivas).  
+- Valora: **facilidad de uso, comisiones bajas, soporte/guía práctica para aprender**.  
+- Sugiere **modelo de tarifas escalonado** (iniciantes, intermedios, avanzados).  
+- Expectativa: **atraer más clientes reales y aumentar ventas**, más allá de la visibilidad.  
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
