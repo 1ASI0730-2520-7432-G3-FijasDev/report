@@ -54,10 +54,6 @@
 |1.15|/09/2025|Fabricio Vega| Realizó  actualizaciones en el registro de versiones del informe|
 |1.|/09/2025|  |  |
 
-
-
-# Project Report Collaboration Insights
-
 ---
 
 ## Contenido
@@ -880,6 +876,192 @@ La arquitectura de software orientada al dominio es una metodología de diseño 
 
  ### 4.6.1. Design-Level EventStorming.
 
+# Design Level Event Storming — PuntoSabor  
+
+En este apartado se detalla los elementos clave del dominio de *PuntoSabor* a partir del big event storming, definiendo **Aggregates**, **Commands**, **Domain Events**, **Policies**, **Invariantes** y **Read Models**.  
+
+
+## 1. Explorer Discovery  
+
+### Aggregate  
+- `SearchSession`  
+
+### Commands  
+- `StartSearchSession(userId, zoneId?, q?, filters)`  
+- `ApplySearchFilter(sessionId, filters)`  
+- `OpenMap(sessionId, viewport)`  
+- `SelectHuarique(sessionId, huariqueId)`  
+- `ViewHuariqueDetail(userId, huariqueId)`  
+
+### Domain Events  
+- `SearchSessionStarted`  
+- `SearchPerformed`  
+- `MapDisplayed`  
+- `HuariqueSelected`  
+- `HuariqueDetailViewed`  
+
+### Policies  
+- `AutoSearch`  
+- `RankingPolicy`  
+
+### Invariantes  
+- Solo se listan huariques con estado `PUBLISHED` y `ACTIVE`.  
+
+### Read Models  
+- `SearchResultsView`  
+- `HuariqueMiniCard`  
+
+
+## 2. User Preferences  
+
+### Aggregate  
+- `UserPreferences`  
+
+### Commands  
+- `SetPreferredLanguage(userId, lang)`  
+- `SetDiscoveryPreferences(userId, priceRange?, foodTypes?, zone?)`  
+- `SavePrivacyConsent(userId?, anonymousId, scopes)`  
+
+### Domain Events  
+- `PreferredLanguageChanged`  
+- `DiscoveryPreferencesSaved`  
+- `PrivacyConsentRecorded`  
+
+### Read Models  
+- `UserPrefView`  
+
+
+## 3. Business Listing  
+
+### Aggregate  
+- `BusinessListing`  
+
+### Commands  
+- `CreateListing(ownerId, basicInfo)`  
+- `UploadListingImage(huariqueId, imageMeta)`  
+- `UpdateListingFields(huariqueId, fields)`  
+- `GeocodeAddress(huariqueId, address)`  
+- `PublishListing(huariqueId)`  
+
+### Domain Events  
+- `ListingCreated`  
+- `ListingImageUploaded`  
+- `ListingFieldsUpdated`  
+- `AddressGeocoded`  
+- `ListingPublished`  
+
+### Policies  
+- `RunListingValidations`  
+
+### Invariantes  
+- No se publica un huarique sin nombre, dirección, geolocalización y dueño asignado.  
+
+### Read Models  
+- `OwnerListingDashboard`  
+- `PublicListingView`  
+
+
+## 4. Subscription & Billing  
+
+### Aggregate  
+- `BusinessSubscription`  
+
+### Commands  
+- `SelectPlan(huariqueId, planId)`  
+- `AcceptPlanTerms(huariqueId, termsVersion)`  
+- `ValidateBusinessEligibility(huariqueId)`  
+- `ActivatePlan(huariqueId, paymentId)`  
+- `ChangePlan(huariqueId, newPlanId)`  
+
+### Domain Events  
+- `PlanSelected`  
+- `PlanTermsAccepted`  
+- `BusinessEligibilityValidated`  
+- `PlanActivated`  
+- `PlanChanged`  
+
+### Policies  
+- `EnablePromotionCapabilities`  
+- `DisablePromotionCapabilities`  
+
+### Invariantes  
+- Solo un `PlanActivated` habilita la creación de promociones.  
+
+### Read Models  
+- `BillingHistory`  
+- `PlanStatusView`  
+
+## 5. Promotion  
+
+### Aggregate  
+- `Promotion`  
+
+### Commands  
+- `CreatePromotion(huariqueId, content)`  
+- `SetPromotionTargeting(promoId, zones?, tags?, audience?)`  
+- `SetPromotionSchedule(promoId, startAt, endAt)`  
+- `PublishPromotion(promoId)`  
+- `UnpublishPromotion(promoId, reason)`  
+
+### Domain Events  
+- `PromotionCreated`  
+- `PromotionTargetingSet`  
+- `PromotionScheduleSet`  
+- `PromotionPublished`  
+- `PromotionUnpublished`  
+
+### Policies  
+- `IndexPromotionForDiscovery`  
+- `SchedulePublish/Unpublish`  
+
+### Invariantes  
+- Solo se publican promociones si el huarique tiene `ListingPublished` y `PlanActivated`.  
+
+### Read Models  
+- `ZonePromotionsView`  
+- `OwnerPromotionsDashboard`  
+
+
+## 6. Contact & Support  
+
+### Aggregate  
+- `SupportRequest`  
+
+### Commands  
+- `SubmitContactForm(userId?, payload)`  
+- `OpenDirections(userId?, huariqueId)`  
+- `AcceptPrivacyConsent(subjectId, scopes)`  
+
+### Domain Events  
+- `ContactFormSubmitted`  
+- `DirectionsOpened`  
+- `PrivacyConsentRecorded`  
+
+### Read Models  
+- `SupportInboxView`  
+- `ConsentLedger`  
+
+
+## 7. Flujos clave  
+
+### Publicar un Huarique  
+1. `CreateListing` → `ListingCreated`  
+2. `UpdateListingFields` → `ListingFieldsUpdated`  
+3. `GeocodeAddress` → `AddressGeocoded` → (policy) `RunListingValidations` → `ListingValidationsPassed`  
+4. `PublishListing` → `ListingPublished` → actualiza `PublicListingView`  
+
+### Crear y Publicar una Promoción  
+1. `CreatePromotion` → `PromotionCreated`  
+2. `SetPromotionTargeting` → `PromotionTargetingSet`  
+3. `SetPromotionSchedule` → `PromotionScheduleSet` → (policy) `SchedulePublish/Unpublish`  
+4. `PublishPromotion` → `PromotionPublished` → (policy) `IndexPromotionForDiscovery` → actualiza `ZonePromotionsView`  
+
+## 8. Invariantes transversales  
+
+- Un huarique solo puede publicarse si cumple validaciones y tiene geolocalización.  
+- Una promoción solo puede publicarse si existe un plan activo y el huarique está publicado.  
+- Los resultados de búsqueda nunca incluyen huariques inactivos o no publicados.  
+- Los comandos deben ser idempotentes para evitar duplicación de eventos.  
 
 
 ### 4.6.2. Software Architecture Context Diagram
@@ -1265,6 +1447,10 @@ Ejemplos:
 https://<usuario-o-organizacion>.github.io/puntosabor-landing/
 ```
 
+Landing Page de PuntoSabor:
+
+https://1asi0730-2520-7432-g3-fijasdev.github.io/PuntoSabor-LandingPage/ 
+
 **Validación post-despliegue**
 - Probar navegación entre páginas: `index.html`, `planes.html`, `contacto.html`, `perfil.html`, `promos.html`, `zonas.html`.
 - Verificar rutas relativas a hojas de estilo, imágenes y scripts.
@@ -1332,6 +1518,34 @@ El equipo trabajó de forma colaborativa con comunicación fluida (Meet/Discord)
 
 # Conclusiones
 
+- El desarrollo del proyecto PuntoSabor permitió aplicar de manera integral los principios y prácticas de Ingeniería de Software en el marco de una startup tecnológica orientada a resolver una problemática real: la baja visibilidad digital de los huariques o pequeños negocios gastronómicos locales.
+
+- Durante el proceso, se utilizaron técnicas de elicitation y análisis de requerimientos, como entrevistas, user personas, empathy mapping, journey mapping y scenario mapping, que permitieron comprender a fondo las necesidades tanto de los exploradores gastronómicos como de los dueños de huariques. Esto garantizó que la solución propuesta esté centrada en el usuario y orientada a generar valor.
+
+- La construcción del Ubiquitous Language y la aplicación de Big Picture Event Storming y Design Level Event Storming facilitaron un entendimiento común del dominio del negocio y tradujeron las interacciones en eventos, comandos y agregados, dando solidez al diseño de la arquitectura orientada al dominio (DDD).
+
+- Asimismo, se diseñaron User Stories con criterios de aceptación claros, un backlog estructurado, y se aplicaron prácticas de Lean UX para validar hipótesis de negocio. El diseño de la arquitectura de software y la base de datos, complementado con prototipos de interfaz y lineamientos de estilo, brindaron la base para la implementación técnica de la solución.
+
+- En conclusión, PuntoSabor no solo representa un proyecto académico, sino también una propuesta tecnológica viable para impulsar la digitalización de pequeños negocios gastronómicos. La experiencia permitió al equipo fortalecer competencias en análisis, diseño y construcción de software, aplicando metodologías ágiles y buenas prácticas de ingeniería.
 # Bibliografía
 
+- Brown, A., & Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley.
+
+- Brandolini, A. (2019). Introducing EventStorming: An Act of Deliberate Collective Learning. Leanpub.
+
+- Gothelf, J., & Seiden, J. (2013). Lean UX: Applying Lean Principles to Improve User Experience. O’Reilly Media.
+
+- Cohn, M. (2004). User Stories Applied: For Agile Software Development. Addison-Wesley.
+
+- Sommerville, I. (2011). Ingeniería de Software (9ª ed.). Pearson Educación.
+
+- DDD By Examples. (s.f.). Design Level Event Storming Guide. Recuperado de: https://github.com/ddd-by-examples/library
+
+- Pressman, R. (2014). Ingeniería del Software: Un Enfoque Práctico. McGraw-Hill.
+
+- Fowler, M. (2003). Patterns of Enterprise Application Architecture. Addison-Wesley.
 # Anexos
+
+VIDEOS DEL EQUIPO:
+
+https://drive.google.com/drive/folders/1O24Act8yiSku-69flphDrmjVyVIwWxQs?usp=sharing
