@@ -513,7 +513,55 @@ Mediante este artefacto, se ha llevado a cabo la elaboración del As-is Scenario
 
 ![alt text](assets/Segmento2_AsIs.png)
 
-## 2.4. Ubiquitous Language
+## 2.4. Big Picture Event Storming
+
+Pasos para el event storming:
+
+Step 1: Unstructured Exploration
+
+
+
+Step 2: Timelines
+
+
+
+Step 3: Paint Points
+
+
+
+Step 4: Pivotal Points
+
+
+
+Step 5: commands
+
+
+
+Step 6: Policies
+
+![alt text](<assets/event 6.png>)
+
+Step 7: Read Models
+
+![alt text](<assets/event 7.png>)
+
+Step 8: External system
+
+![alt text](<assets/event 8.png>)
+
+Step 9: Aggregates
+
+![alt text](<assets/event 9.png>)
+
+Step 10: Bounded Contexts
+
+![alt text](<assets/event 10.png>)
+
+Link del miro: 
+
+https://miro.com/welcomeonboard/N1ZUMVF3dkJEMXY1VTIvR0hhWisyQlFnU1VFYU1UVVFGOFNVKzdGS3FVOFJ1ZWRaNUI3L3NyMGcxNTRqSkN4bUZTZGo1N2VVbVNITTIvc3p2c1V6emNGUEprWThGdVg0SGsvRmtwSWJzTzR3dTVQVG5Hb1ZzWlRuK0tUM2hZSU9nbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=673091896888
+
+## 2.5. Ubiquitous Language
 
 En esta sección se presenta el glosario de términos esenciales del dominio de PuntoSabor, redactados en inglés con su equivalente en español entre paréntesis. Cada definición busca eliminar ambigüedades y garantizar una comunicación clara y coherente entre todos los miembros del equipo y stakeholders, alineando el lenguaje del negocio.
 
