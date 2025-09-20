@@ -520,22 +520,27 @@ Pasos para el event storming:
 Step 1: Unstructured Exploration
 
 
+![alt text](<assets/Step 1.png>)
 
 Step 2: Timelines
 
-
+![alt text](<assets/Step 2.png>)
 
 Step 3: Paint Points
 
+![alt text](<assets/Step 3.1.png>)
 
+![alt text](<assets/Step 3.1.png>)
+
+![alt text](<assets/Step 3.2.png>)
 
 Step 4: Pivotal Points
 
-
+![alt text](<assets/Step 4.png>)
 
 Step 5: commands
 
-
+![alt text](<assets/Step 5.png>)
 
 Step 6: Policies
 
