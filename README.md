@@ -36,11 +36,25 @@
 | Versión | Fecha      | Autor        | Descripción de modificación                   |
 |---------|------------|--------------|-----------------------------------------------|
 | 1.0     | 10/09/2025 | Fabricio Vega | Creación de la estructura inicial del reporte |
-|         |            |              |                                               |
-|         |            |              |                                               |
-|         |            |              |                                               |
-|         |            |              |                                               |
-|         |            |              |                                               |
+| 1.1        | 12/09/2025           | Fabricio Vega             | Realizó todo el capitulo 1, hizo actualizaciones en entrevistas, competidores, user stories, todo el needfinding y ubiquitous Language   |
+| 1.2| 12/09/2025| Ysaac Villanueva| Hizo el registro de entrevistas, analisis y completó las user stories| |
+|1.3| 13/09/2025| Ysaac Villanueva| Realizó actualizaciones en el Tobe scenario mapping y el product backlog|
+|1.4| 14/09/2025|Manuel Tumi|Realizó actualizaciones en el as is scenario map y en el style guidelines|
+|1.5|17/09/2025|Schneider Delgado| Realizó el landing page wireframe, web browse, actualización en el landigng page, web app wireflow diagrams y parte del domain driven software architecture |
+|1.6|17/09/2025|Carlos Lopez| Realizó actualizaciones y correciones en el landing page mockup, web applications mock-ups y mock-ups mobile |
+|1.7|18/09/2025|Carlos Lopez| Realizó el web app user flow diagrams y sofware components diagrams |
+|1.8|19/09/2025|Schneider Delgado| Realizó diagramas de contexto |
+|1.9|/09/2025|Ysaac Villanueva| Realizó actualizaciones en el analisis de entrevistas y parte de el product implmentation, validation & deployment |
+|1.10|19/09/2025|Fabricio Vega| Realizó actualizaciones en el analsis de competidores, ubiquitous language y aportó en los diagramas de clase|
+|1.11|19/09/2025|Manuel Tumi| Realizó parte del class diagrams, class dictionary and database diagram. Además realizó actualizaciones del sprint 1 y registró entrevistas|
+|1.12|19/09/2025|Schneider Delgado| Realizó partes del event storming junto a mas integrantes del grupo|
+|1.13|19/09/2025|Todo el equipo| Realizó aportes en el landing page |
+|1.14|/09/2025|Todo el equipo| Realizó el design level event storming |
+
+|1.15|/09/2025|Fabricio Vega| Realizó  actualizaciones en el registro de versiones del informe|
+|1.|/09/2025|  |  |
+
+
 
 # Project Report Collaboration Insights
 
@@ -140,8 +154,8 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico                                                                              | Acciones realizadas | Conclusiones |
 |--------------------------------------------------------------------------------------------------|---------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.                                  |                     |              |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |                     |              |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia.                                  | Se realizaron presentaciones grupales para explicar la idea del proyecto PuntoSabor, exponiendo la problemática detectada y la propuesta de valor. Cada integrante participó explicando un aspecto específico (startup, objetivos, justificación, solución).                   | La exposición permitió comunicar de manera clara la visión del proyecto y recibir retroalimentación inmediata del profesor y compañeros, lo cual fortaleció la propuesta inicial.             |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |  Se elaboró el informe TB1, que incluyó portada institucional, introducción, justificación, objetivos, descripción de la startup FijasDev y del producto PuntoSabor. El documento fue estructurado y redactado con un lenguaje académico.                   | El informe dejó un registro formal y ordenado del trabajo realizado, facilitando la evaluación y asegurando una comunicación efectiva y coherente para el ámbito académico.             |
 
 
 # Capítulo I: Introducción
@@ -158,13 +172,13 @@ Esta iniciativa no solo busca promover la cultura gastronómica local y accesibl
 
     
 
-|                             Miembro                             |                                                                                                                                                                                   Descripción                                                                                                                                                                                   |
+|                             Miembro                             |                                                                                                                                                                                   .
 |:---------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  |  <br>  |
-|                                                                 |                                                                                                                                                                                                                                                                                                                                                                                 | 
-|                                                                 |                                                                                                                                                                                                                                                                                                                                                                                 | 
-|                                                                 |                                                                                                                                                                                                                                                                                                                                                                                 | 
-|                                                                 |                                                                                                                                                                                                                                                                                                                                                                                 | 
+| ![alt text](<assets/Perfil_Fabricio.jpg>) |  <br>  |
+| ![alt text](<assets/Perfil_Manuel.jpg>) || 
+|![alt text](<assets/Perfil_Ysaac.jpg>)                                                                 || 
+|![alt text](<assets/Perfil_Delgado.jpg>)                                                                 || 
+| ![alt text](<assets/Perfil_Lopez.jpg>)                                                                || 
 
 ## 1.2. Solution Profile
 
