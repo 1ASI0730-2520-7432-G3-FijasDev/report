@@ -379,6 +379,11 @@ Preguntas Segmento 2:
 | 2                     | **Nombre:** Piero Tapia  <br> **Edad:** 26  <br> **Distrito:** Jesús María <br><br> **Resumen:** Dueño de una sandwichería. Hoy depende de la afluencia local por falta de presupuesto y poca experiencia en redes/pagos en línea; la afiliación a apps no le resulta intuitiva. Valora que la app sea fácil de aprender y usar, con bajas comisiones (que no encarezcan sus productos). Además de visibilidad, pide guía/soporte para aprender a usar la herramienta y mejorar el negocio. Propone planes por etapas (principiante/intermedio/avanzado). Éxito esperado: más personas consumiendo en el local (no solo vistas). | ![Evidencia](assets/Entrevista_Piero.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/15Qma_86tWBnnfWBWlx28-MLKOQJRCrI2/view?usp=drive_link) 03:15 - 08:14|
 
 
+| Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
+|-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
+| 3                     | **Nombre:** Gabriela Vasquez  <br> **Edad:** 23  <br> **Distrito:** Pueblo libre <br><br> **Resumen:** Propietaria de una juguería artesanal. Por ahora depende principalmente de los clientes que pasan por la zona, ya que su presupuesto es limitado y no tiene mucha experiencia en el uso de redes sociales ni plataformas digitales de venta. Comenta que afiliarse a apps de delivery o pago le resulta algo confuso. Busca una aplicación que sea intuitiva, con bajos costos de comisión y que le permita promocionar sus productos sin complicaciones. Además, le gustaría contar con asesoría o tutoriales que la ayuden a aprender a usar la herramienta y a impulsar su negocio. Propone contar con niveles de uso progresivos para avanzar poco a poco. Espera como resultado aumentar el flujo de clientes en su juguería, más que solo generar presencia en internet. | ![Evidencia](assets/Entrevista_Gabriela.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/15Qma_86tWBnnfWBWlx28-MLKOQJRCrI2/view?usp=drive_link) 03:15 - 08:14|
+
+
 ### 2.2.3. Análisis de entrevistas
 ### Segmento #1: Exploradores Gastronómicos (Usuarios de la app web)
 ---
@@ -457,6 +462,25 @@ Su expectativa principal es que la app le genere **más afluencia de clientes re
 - Valora: **facilidad de uso, comisiones bajas, soporte/guía práctica para aprender**.  
 - Sugiere **modelo de tarifas escalonado** (iniciantes, intermedios, avanzados).  
 - Expectativa: **atraer más clientes reales y aumentar ventas**, más allá de la visibilidad.  
+
+## 👩‍🦰 Gabriela Vasquez (23 años)
+
+Dueña de una **juguería artesanal** ubicada en un barrio concurrido. Actualmente depende del **boca a boca y del tránsito local**, ya que no utiliza redes sociales ni plataformas digitales para promocionar su negocio. Comenta que no tiene mucha experiencia con herramientas en línea y que las opciones de afiliación a apps de delivery o pagos digitales le resultan **poco intuitivas**.  
+
+Su principal reto es **ganar visibilidad sin perder la sencillez** que caracteriza a su juguería. Busca atraer nuevos clientes sin tener que invertir grandes sumas en publicidad o complicarse con procesos tecnológicos. Valora que la app sea **fácil de usar, clara y atractiva**, incluso para quienes no están familiarizados con el marketing digital.  
+
+También le gustaría que la aplicación ofreciera **consejos prácticos y soporte** para aprender a sacar el máximo provecho a la herramienta, incluyendo ideas para destacar su negocio frente a la competencia. Considera útil un **sistema de planes por niveles** (básico, intermedio, avanzado) que se adapte al crecimiento del negocio sin exigir grandes pagos iniciales.  
+
+Su expectativa principal es que la app le ayude a **aumentar el flujo de clientes en su juguería**, especialmente aquellos que buscan opciones saludables o naturales cerca de su zona.  
+
+**Puntos clave:**  
+- No usa redes ni apps para promoción; depende del **tránsito local y el boca a boca**.  
+- Problemas: **poca experiencia digital, dificultad con afiliaciones y pagos en línea**.  
+- Valora: **facilidad de uso, diseño atractivo y orientación paso a paso**.  
+- Busca **visibilidad real sin altos costos publicitarios**.  
+- Prefiere un **modelo de membresía escalonado** (básico, intermedio, avanzado).  
+- Expectativa: **aumentar la clientela presencial y fortalecer la identidad de su juguería**.  
+
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
