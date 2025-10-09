@@ -50,10 +50,10 @@
 |1.12|19/09/2025|Schneider Delgado| Realizó partes del event storming junto a mas integrantes del grupo|
 |1.13|19/09/2025|Todo el equipo| Realizó aportes en el landing page |
 |1.14|19/09/2025|Todo el equipo| Realizó el design level event storming |
-
 |1.15|19/09/2025|Fabricio Vega| Realizó  actualizaciones en el registro de versiones del informe|
 |1.16|1/10/2025| Fabricio Vega | Orginizó el Sprint Planning 2 para proceder con la codificacion en la web |
-|1.x|x/10/2025|  |  |
+|1.17|8/10/2025| Fabricio Vega |  Realizó todas la documentacion para el sprint 2 |
+|1.17|8/10/2025| Schneider Delgado | Realizó el sprint backlog 2 |
 ---
 
 ## Contenido
@@ -1626,18 +1626,106 @@ Below are the members of the FijasDev team with their respective leadership (L) 
 
 #### 5.2.2.3. Sprint Backlog 2
 
+Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicacion web, como tambien una segunda versión mejorada del Landing Page, implementando las vistas de las user stories de nuestro proyecto.
+
+![alt text](assets/SprintBacklog2.jpg)
+
+link: https://trello.com/invite/b/68e71048a816b1be49c8f045/ATTIdc7cb6e3dc20feb0c795a893e2ed2e5c21DF59CA/puntosabor-app
+
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+Commits:
+![alt text](assets/Commits.jpg)
+
+**Commits (convencionales, ejemplos):**
+- `feat(search): add combined filters and empty state`
+- `feat(map): show markers + popups from API`
+- `feat(huariques): create/edit forms with validation`
+- `docs(api): mock endpoints for search and crud`
+- `fix(ui): card grid wrap and responsive spacing`
+
+Repository	Branch	Commit Id	Commit Messaage	Commit Message Body	Commited on
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, footer, la vista principal, categorias, reseñas, mapa, promociones y planes. Esto fue realizado mediante la aplicacion webStorm y su complemento de git, con esto cada integrante pudo realizar cambios y versiones en sus ramas para luego mandarlas a la rama principal y no tener ningun inconveniente. A continuación se mostrarán las evidencias de ejecución.
+
+Home:
+![alt text](assets/homeFRONT.jpg)
+
+Iniciar Sesion:
+![alt text](assets/LOGINFRONTjpg.jpg)
+
+Registrar:
+![alt text](assets/signFRONT.jpg)
+
+Registrar Huarique:
+![alt text](assets/registrarHuariqueFRONT.jpg)
+
+Categorias:
+![alt text](assets/categoriasFRONT.jpg)
+
+Promociones:
+![alt text](assets/promosFRONT.jpg)
+
+Plans:
+![alt text](assets/plansFRONT.jpg)
+
+Mapa:
+![alt text](assets/mapaFRONT.jpg)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+En esta sección se presenta la lista de los endpoints documentados. A continuación se presenta el proyecto que muestra el despliegue de la web.
+
+db.json:
+![alt text](assets/service-db.json.jpg)
+
+Deployment:
+![alt text](assets/evidenciaDeploy.jpg)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Link hacia el deployment:
+https://puntosabor.netlify.app/
+
+Home:
+![alt text](assets/homeDeploy.jpg)
+
+Categoria:
+![alt text](assets/categoriasDeploy.jpg)
+
+Promos:
+![alt text](assets/promosDeploy.jpg)
+
+Plans:
+![alt text](assets/plansDeploy.jpg)
+
+Contactos:
+![alt text](assets/contactosDeploy.jpg)
+
+Map:
+![alt text](assets/mapaDeploy.jpg)
+
+Rol:
+![alt text](assets/rolDeploy.jpg)
+
+Login:
+![alt text](assets/loginDeploy.jpg)
+
+Registrar:
+![alt text](assets/registerDeploy.jpg)
+
+Resgistrar Huarique:
+![alt text](assets/registrarHuariqueDeploy.jpg)
+
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+El equipo mantuvo una colaboración constante y una comunicación efectiva a través de plataformas como Meet y Discord. Se implementaron tableros Kanban para el control del progreso y ramas por funcionalidad para gestionar los cambios de forma ordenada. Cada integrante asumió responsabilidades definidas y brindó apoyo en las revisiones, lo que facilitó alcanzar las metas del sprint sin contratiempos.
 
+![alt text](assets/UsersActivar.jpg)
 
-
+![alt text](assets/ActividadUsers.jpg)
 
 # Conclusiones
 
