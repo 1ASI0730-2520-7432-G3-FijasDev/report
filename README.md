@@ -49,11 +49,11 @@
 |1.11|19/09/2025|Manuel Tumi| Realizó parte del class diagrams, class dictionary and database diagram. Además realizó actualizaciones del sprint 1 y registró entrevistas|
 |1.12|19/09/2025|Schneider Delgado| Realizó partes del event storming junto a mas integrantes del grupo|
 |1.13|19/09/2025|Todo el equipo| Realizó aportes en el landing page |
-|1.14|/09/2025|Todo el equipo| Realizó el design level event storming |
-
-|1.15|/09/2025|Fabricio Vega| Realizó  actualizaciones en el registro de versiones del informe|
-|1.|/09/2025|  |  |
-
+|1.14|19/09/2025|Todo el equipo| Realizó el design level event storming |
+|1.15|19/09/2025|Fabricio Vega| Realizó  actualizaciones en el registro de versiones del informe|
+|1.16|1/10/2025| Fabricio Vega | Orginizó el Sprint Planning 2 para proceder con la codificacion en la web |
+|1.17|8/10/2025| Fabricio Vega |  Realizó todas la documentacion para el sprint 2 |
+|1.17|8/10/2025| Schneider Delgado | Realizó el sprint backlog 2 |
 ---
 
 ## Contenido
@@ -134,6 +134,15 @@
             - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
             - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
             - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+        - [5.2.2. Sprint 2](#522-sprint-2)
+            - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+            - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
+            - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
+            - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
+            - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+            - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+            - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+            - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ---
 
@@ -151,7 +160,7 @@ del ABET – EAC - Student Outcome 3.
 | Criterio específico                                                                              | Acciones realizadas | Conclusiones |
 |--------------------------------------------------------------------------------------------------|---------------------|--------------|
 | Comunica oralmente con efectividad a diferentes rangos de audiencia.                                  | Se realizaron presentaciones grupales para explicar la idea del proyecto PuntoSabor, exponiendo la problemática detectada y la propuesta de valor. Cada integrante participó explicando un aspecto específico (startup, objetivos, justificación, solución).                   | La exposición permitió comunicar de manera clara la visión del proyecto y recibir retroalimentación inmediata del profesor y compañeros, lo cual fortaleció la propuesta inicial.             |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |  Se elaboró el informe TB1, que incluyó portada institucional, introducción, justificación, objetivos, descripción de la startup FijasDev y del producto PuntoSabor. El documento fue estructurado y redactado con un lenguaje académico.                   | El informe dejó un registro formal y ordenado del trabajo realizado, facilitando la evaluación y asegurando una comunicación efectiva y coherente para el ámbito académico.             |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |  Durante el Sprint 2, el equipo demostró un progreso significativo en sus competencias de desarrollo de software. Aplicamos principios ágiles para implementar la primera versión funcional del sistema web PuntoSabor, integrando servicios frontend simulados y mejorando la página de destino anterior. Cada miembro contribuyó tanto a roles de liderazgo como de colaboración, garantizando un flujo de trabajo eficiente.                   | El informe dejó un registro formal y ordenado del trabajo realizado, facilitando la evaluación y asegurando una comunicación efectiva y coherente para el ámbito académico.             |
 
 
 # Capítulo I: Introducción
@@ -357,17 +366,22 @@ Preguntas Segmento 2:
 
 | Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
 |-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
-| 3                     | **Nombre:** Luis Fernandez  <br> **Edad:** 20  <br> **Distrito:** Pueblo Libre <br><br> **Resumen:** Luis Fernández, estudiante de 20 años de Ingeniería de Sistemas en la UTP, busca lugares nuevos casi todas las semanas, sobre todo los fines de semana cuando sale con su pareja. Se guía por cuentas de foodies en Instagram y TikTok, guarda videos para después y también consulta reseñas en Google Maps o en grupos de Facebook. Para él, el precio es fundamental, pero también valora la experiencia completa: reseñas sobre la atención y la calidad de la comida, junto con fotos de los platos. Ha tenido problemas con horarios desactualizados en apps, llegando a lugares cerrados, y con la falta de visibilidad de huariques menos conocidos. Lo motivaría una app confiable que se enfoque en huariques y cuente con reseñas de personas locales. Considera imprescindibles los filtros por tipo de comida, precio y ubicación, un mapa interactivo y recomendaciones personalizadas. Sus preocupaciones son que la aplicación tenga publicidad excesiva, información falsa o que no incluya suficientes opciones locales. | ![Evidencia](assets/Entrevista3_Segmento1.jpeg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/1NSQkOkLNAq3A-IIhc4_lm2q3UwWDaylk/view?usp=sharing) 09:56 - 13:01|
+| 3                     | **Nombre:** Luis Fernandez  <br> **Edad:** 20  <br> **Distrito:** Pueblo Libre <br><br> **Resumen:** Luis Fernández, estudiante de 20 años de Ingeniería de Sistemas en la UTP, busca lugares nuevos casi todas las semanas, sobre todo los fines de semana cuando sale con su pareja. Se guía por cuentas de foodies en Instagram y TikTok, guarda videos para después y también consulta reseñas en Google Maps o en grupos de Facebook. Para él, el precio es fundamental, pero también valora la experiencia completa: reseñas sobre la atención y la calidad de la comida, junto con fotos de los platos. Ha tenido problemas con horarios desactualizados en apps, llegando a lugares cerrados, y con la falta de visibilidad de huariques menos conocidos. Lo motivaría una app confiable que se enfoque en huariques y cuente con reseñas de personas locales. Considera imprescindibles los filtros por tipo de comida, precio y ubicación, un mapa interactivo y recomendaciones personalizadas. Sus preocupaciones son que la aplicación tenga publicidad excesiva, información falsa o que no incluya suficientes opciones locales. | ![Evidencia](assets/Entrevista3_Segmento1.jpeg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/1P5WpXLAtHH9lsgnF7tXXyMJiK7xsN05h/view?usp=sharing) 09:56 - 13:01|
 
 ### Segmento #2: Dueños y Administradores de Huariques (Usuarios que usan la app web para gestionar su huarique)
 | Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
 |-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
-| 1                     | **Nombre:** Wildor Villalobos  <br> **Edad:** 28  <br> **Distrito:** Santiago de Surco <br><br> **Resumen:** Propietario de un huarique de pan con chicharrón. Usa Instagram y TikTok (más IG Reels); las publicaciones sirven para promociones, pero los reels “mueven” más. Dificultades: competencia y algoritmo, requiere pagar para alcanzar más gente. Quiere que la app le permita resaltar su negocio y ver métricas claras (cuánta gente lo encuentra, eficacia para traer clientes), con panel simple y gráficos directos. Estaría dispuesto a pagar S/ 20–50/mes si rinde igual o mejor que IG/TikTok. Objetivo: aumentar ventas. | ![Evidencia](assets/Entrevista_Wildor.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/15Qma_86tWBnnfWBWlx28-MLKOQJRCrI2/view?usp=drive_link) 00:00 - 03:15|
+| 1                     | **Nombre:** Wildor Villalobos  <br> **Edad:** 28  <br> **Distrito:** Santiago de Surco <br><br> **Resumen:** Propietario de un huarique de pan con chicharrón. Usa Instagram y TikTok (más IG Reels); las publicaciones sirven para promociones, pero los reels “mueven” más. Dificultades: competencia y algoritmo, requiere pagar para alcanzar más gente. Quiere que la app le permita resaltar su negocio y ver métricas claras (cuánta gente lo encuentra, eficacia para traer clientes), con panel simple y gráficos directos. Estaría dispuesto a pagar S/ 20–50/mes si rinde igual o mejor que IG/TikTok. Objetivo: aumentar ventas. | ![Evidencia](assets/Entrevista_Wildor.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/1P5WpXLAtHH9lsgnF7tXXyMJiK7xsN05h/view?usp=sharing) 00:00 - 03:15|
 
 
 | Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
 |-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
-| 2                     | **Nombre:** Piero Tapia  <br> **Edad:** 26  <br> **Distrito:** Jesús María <br><br> **Resumen:** Dueño de una sandwichería. Hoy depende de la afluencia local por falta de presupuesto y poca experiencia en redes/pagos en línea; la afiliación a apps no le resulta intuitiva. Valora que la app sea fácil de aprender y usar, con bajas comisiones (que no encarezcan sus productos). Además de visibilidad, pide guía/soporte para aprender a usar la herramienta y mejorar el negocio. Propone planes por etapas (principiante/intermedio/avanzado). Éxito esperado: más personas consumiendo en el local (no solo vistas). | ![Evidencia](assets/Entrevista_Piero.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/15Qma_86tWBnnfWBWlx28-MLKOQJRCrI2/view?usp=drive_link) 03:15 - 08:14|
+| 2                     | **Nombre:** Piero Tapia  <br> **Edad:** 26  <br> **Distrito:** Jesús María <br><br> **Resumen:** Dueño de una sandwichería. Hoy depende de la afluencia local por falta de presupuesto y poca experiencia en redes/pagos en línea; la afiliación a apps no le resulta intuitiva. Valora que la app sea fácil de aprender y usar, con bajas comisiones (que no encarezcan sus productos). Además de visibilidad, pide guía/soporte para aprender a usar la herramienta y mejorar el negocio. Propone planes por etapas (principiante/intermedio/avanzado). Éxito esperado: más personas consumiendo en el local (no solo vistas). | ![Evidencia](assets/Entrevista_Piero.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/1P5WpXLAtHH9lsgnF7tXXyMJiK7xsN05h/view?usp=sharing) 03:15 - 08:14|
+
+
+| Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
+|-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
+| 3                     | **Nombre:** Gabriela Vasquez  <br> **Edad:** 23  <br> **Distrito:** Pueblo libre <br><br> **Resumen:** Propietaria de una juguería artesanal. Por ahora depende principalmente de los clientes que pasan por la zona, ya que su presupuesto es limitado y no tiene mucha experiencia en el uso de redes sociales ni plataformas digitales de venta. Comenta que afiliarse a apps de delivery o pago le resulta algo confuso. Busca una aplicación que sea intuitiva, con bajos costos de comisión y que le permita promocionar sus productos sin complicaciones. Además, le gustaría contar con asesoría o tutoriales que la ayuden a aprender a usar la herramienta y a impulsar su negocio. Propone contar con niveles de uso progresivos para avanzar poco a poco. Espera como resultado aumentar el flujo de clientes en su juguería, más que solo generar presencia en internet. | ![Evidencia](assets/Entrevista_Gabriela.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/15Qma_86tWBnnfWBWlx28-MLKOQJRCrI2/view?usp=drive_link) |
 
 
 ### 2.2.3. Análisis de entrevistas
@@ -448,6 +462,25 @@ Su expectativa principal es que la app le genere **más afluencia de clientes re
 - Valora: **facilidad de uso, comisiones bajas, soporte/guía práctica para aprender**.  
 - Sugiere **modelo de tarifas escalonado** (iniciantes, intermedios, avanzados).  
 - Expectativa: **atraer más clientes reales y aumentar ventas**, más allá de la visibilidad.  
+
+## 👩‍🦰 Gabriela Vasquez (23 años)
+
+Dueña de una **juguería artesanal** ubicada en un barrio concurrido. Actualmente depende del **boca a boca y del tránsito local**, ya que no utiliza redes sociales ni plataformas digitales para promocionar su negocio. Comenta que no tiene mucha experiencia con herramientas en línea y que las opciones de afiliación a apps de delivery o pagos digitales le resultan **poco intuitivas**.  
+
+Su principal reto es **ganar visibilidad sin perder la sencillez** que caracteriza a su juguería. Busca atraer nuevos clientes sin tener que invertir grandes sumas en publicidad o complicarse con procesos tecnológicos. Valora que la app sea **fácil de usar, clara y atractiva**, incluso para quienes no están familiarizados con el marketing digital.  
+
+También le gustaría que la aplicación ofreciera **consejos prácticos y soporte** para aprender a sacar el máximo provecho a la herramienta, incluyendo ideas para destacar su negocio frente a la competencia. Considera útil un **sistema de planes por niveles** (básico, intermedio, avanzado) que se adapte al crecimiento del negocio sin exigir grandes pagos iniciales.  
+
+Su expectativa principal es que la app le ayude a **aumentar el flujo de clientes en su juguería**, especialmente aquellos que buscan opciones saludables o naturales cerca de su zona.  
+
+**Puntos clave:**  
+- No usa redes ni apps para promoción; depende del **tránsito local y el boca a boca**.  
+- Problemas: **poca experiencia digital, dificultad con afiliaciones y pagos en línea**.  
+- Valora: **facilidad de uso, diseño atractivo y orientación paso a paso**.  
+- Busca **visibilidad real sin altos costos publicitarios**.  
+- Prefiere un **modelo de membresía escalonado** (básico, intermedio, avanzado).  
+- Expectativa: **aumentar la clientela presencial y fortalecer la identidad de su juguería**.  
+
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -737,9 +770,9 @@ El footer minimalista refuerza la identidad de marca y proporciona enlaces clave
 
 La interfaz en su conjunto transmite autenticidad, simplicidad y dinamismo, reflejando los valores de la marca y favoreciendo la interacción constante entre exploradores gastronómicos y dueños de huariques.
 ## 4.2. Information Architecture
-La arquitectura de la información en **PuntoSabor** se ha diseñado para garantizar que tanto visitantes como usuarios puedan encontrar con facilidad el contenido y las funciones más relevantes, minimizando la carga cognitiva y generando una experiencia intuitiva. Las decisiones adoptadas buscan reflejar autenticidad, cercanía y dinamismo, alineándose con la identidad de la marca y con los valores de los huariques como espacios gastronómicos locales.
+La arquitectura de la información en PuntoSabor se ha diseñado para garantizar que tanto visitantes como usuarios puedan encontrar con facilidad el contenido y las funciones más relevantes, minimizando la carga cognitiva y generando una experiencia intuitiva. Las decisiones adoptadas buscan reflejar autenticidad, cercanía y dinamismo, alineándose con la identidad de la marca y con los valores de los huariques como espacios gastronómicos locales.
 ### 4.2.1. Organization Systems
-En **PuntoSabor** se aplican distintos sistemas de organización según el tipo de contenido y la plataforma:
+En PuntoSabor se aplican distintos sistemas de organización según el tipo de contenido y la plataforma:
 
 - **Organización jerárquica (Visual Hierarchy):** en la landing page se estructura la información en niveles: primero se presenta la propuesta de valor y el buscador principal, seguido de secciones de beneficios, exploración de huariques mejor valorados, promociones y finalmente el contacto.  
 
@@ -749,12 +782,12 @@ En **PuntoSabor** se aplican distintos sistemas de organización según el tipo 
 
 - **Organización según audiencia:** la landing page presenta bloques diferenciados: exploradores gastronómicos (jóvenes y adultos que buscan comida auténtica) y dueños de huariques (emprendedores locales). Cada segmento recibe mensajes y beneficios específicos.  
 ### 4.2.2. Labeling Systems
-El etiquetado en **PuntoSabor** prioriza la claridad y simplicidad, usando palabras cortas, directas y consistentes en todas las interfaces:
+El etiquetado en PuntoSabor prioriza la claridad y simplicidad, usando palabras cortas, directas y consistentes en todas las interfaces:
 
 - **Landing Page:** Inicio, Explorar, Beneficios, Promos, Contacto.  
 - **Aplicación Web:** Huariques, Favoritos, Reseñas, Promociones, Perfil.  
 
-Además, los CTAs refuerzan la acción con verbos imperativos como **“Buscar Huariques”**, **“Registra tu negocio”**, **“Explora promociones”** o **“Deja tu reseña”**, que facilitan la interacción y mantienen coherencia con los objetivos de la plataforma.
+Además, los CTAs refuerzan la acción con verbos imperativos como “Buscar Huariques”, “Registra tu negocio”, “Explora promociones” o “Deja tu reseña”, que facilitan la interacción y mantienen coherencia con los objetivos de la plataforma.
 ### 4.2.3. SEO Tags and Meta Tags
 Se han definido meta elementos para mejorar el posicionamiento SEO tanto en la landing page como en la aplicación web:
 
@@ -765,7 +798,7 @@ Se han definido meta elementos para mejorar el posicionamiento SEO tanto en la l
 
 Estos elementos aseguran coherencia en motores de búsqueda y fortalecen la estrategia de atracción de usuarios.
 ### 4.2.4. Searching Systems
-La aplicación web de **PuntoSabor** ofrece sistemas de búsqueda diseñados para que el usuario encuentre lo que necesita sin esfuerzo:
+La aplicación web de PuntoSabor ofrece sistemas de búsqueda diseñados para que el usuario encuentre lo que necesita sin esfuerzo:
 
 - **Búsqueda en catálogo:** localización de huariques por nombre, tipo de comida o distrito.  
 - **Filtros avanzados:** por rango de precios, valoración de usuarios, ubicación geográfica y promociones activas.  
@@ -774,12 +807,12 @@ La aplicación web de **PuntoSabor** ofrece sistemas de búsqueda diseñados par
 
 De esta manera se evita que el usuario se sienta perdido entre la cantidad de opciones disponibles y se mejora la eficiencia en la exploración.
 ### 4.2.5. Navigation Systems
-La navegación de **PuntoSabor** combina claridad, consistencia y adaptabilidad:
+La navegación de PuntoSabor combina claridad, consistencia y adaptabilidad:
 
 - **Landing Page (Desktop):** menú superior con navegación horizontal que permite acceder rápidamente a Inicio, Explorar, Beneficios, Promos y Contacto.  
 - **Landing Page (Móvil):** menú tipo hamburguesa con navegación vertical, optimizado para pantallas pequeñas.  
 - **Aplicación Web:** navegación lateral (sidebar) con accesos directos a Huariques, Favoritos, Promociones, Perfil y Configuración.  
-- **CTAs estratégicos:** botones visibles en rojo primario (#E63946) para guiar al usuario a acciones críticas como **buscar huariques**, **registrar un negocio** o **activar una promoción**.  
+- **CTAs estratégicos:** botones visibles en rojo primario (#E63946) para guiar al usuario a acciones críticas como buscar huariques, registrar un negocio o activar una promoción.  
 
 En conjunto, estos sistemas garantizan que los usuarios puedan recorrer
 la plataforma de forma intuitiva, cumpliendo sus metas sin obstáculos.
@@ -878,7 +911,7 @@ La arquitectura de software orientada al dominio es una metodología de diseño 
 
 # Design Level Event Storming — PuntoSabor  
 
-En este apartado se detalla los elementos clave del dominio de *PuntoSabor* a partir del big event storming, definiendo **Aggregates**, **Commands**, **Domain Events**, **Policies**, **Invariantes** y **Read Models**.  
+En este apartado se detalla los elementos clave del dominio de *PuntoSabor* a partir del big event storming, definiendo Aggregates, Commands, Domain Events, Policies, Invariantes y Read Models.  
 
 
 ## 1. Explorer Discovery  
@@ -1066,19 +1099,19 @@ En este apartado se detalla los elementos clave del dominio de *PuntoSabor* a pa
 
 ### 4.6.2. Software Architecture Context Diagram
 **Elementos:**
-- **PuntoSabor:** Principal para los usuarios
-- **Usurio - Descubridor gastronómico:** Encuentra huariques poco conocidos 
-- **Usuario - Dueño de restaurante:** Publica su huarique y más cosas según su plan de membresía 
+- PuntoSabor: Principal para los usuarios
+- Usurio - Descubridor gastronómico: Encuentra huariques poco conocidos 
+- Usuario - Dueño de restaurante: Publica su huarique y más cosas según su plan de membresía 
 
 ![alt text](assets/structurizr-punto_context.png)
 
 ### 4.6.3. Software Architecture Container Diagrams
 **Elementos:**
-- **Aplicación web:** Frontend donde los usuarios interactúan con la aplicación 
+- Aplicación web: Frontend donde los usuarios interactúan con la aplicación 
 Se usará tecnología: Vue.js
-- **Servidor de aplicaciones:** Backend que maneja los planes de membresía de los usuarios.
+- Servidor de aplicaciones: Backend que maneja los planes de membresía de los usuarios.
 Se usará tecnología: C#
-- **Base de datos:** Almacena los datos de los usuarios, sus planes y cosas que realizan en la aplicación.
+- Base de datos: Almacena los datos de los usuarios, sus planes y cosas que realizan en la aplicación.
 Se usara tecnología: SQL  server 
 
 ![alt text](assets/structurizr-c2_puntosabor.png)
@@ -1222,26 +1255,26 @@ class OpeningStatus {
 | Class                         | Definition                                                                                                                |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | `User`                        | Entity representing the platform user (name, email) who creates reviews and manages favorites.                            |
-| `Huarique`                    | **Aggregate root**: a food venue with name, `Description`, `Address`, `Coordinates`, average rating, and `OpeningStatus`. |
+| `Huarique`                    | Aggregate root: a food venue with name, `Description`, `Address`, `Coordinates`, average rating, and `OpeningStatus`. |
 | `Category`                    | Lightweight entity that classifies huariques by type/style.                                                               |
 | `Review`                      | Entity that models a review on a huarique, with a `Rating` (1..5), comment, and date.                                     |
 | `Favorite`                    | User–huarique relationship to bookmark huariques.                                                                         |
 | `MembershipPlan`              | Commercial plan available to a huarique (name, benefits, monthly price).                                                  |
 | `Subscription`                | Link between huarique and plan; stores dates and `SubscriptionStatus`.                                                    |
-| `Description`                 | **Value Object** encapsulating the huarique’s validated description.                                                      |
-| `Address`                     | **Value Object** with line, district, and city; prevents invalid addresses.                                               |
-| `Coordinates`                 | **Value Object** with valid latitude/longitude for geolocation.                                                           |
-| `Rating`                      | **Value Object** (integer 1..5) ensuring valid ratings.                                                                   |
-| `OpeningStatus`               | **VO / Enumeration** representing the venue’s operating status (`OPEN`, `CLOSED`, `UNKNOWN`, `TEMPORARILY_CLOSED`).       |
-| `SubscriptionStatus`          | **VO / Enumeration** for subscription lifecycle (`ACTIVE`, `CANCELED`, `EXPIRED`).                                        |
-| `IHuariqueRepository`         | **Port** for `Huarique` persistence (get by id, search by filters, save).                                                 |
-| `IReviewRepository`           | **Port** for `Review` persistence (list by huarique, save).                                                               |
-| `ISubscriptionRepository`     | **Port** for `Subscription` persistence (get, save).                                                                      |
-| `HuariqueRepositorySQL`       | **Adapter** implementing `IHuariqueRepository` using SQL storage.                                                         |
-| `SearchService`               | **Domain service** to find huariques by filters.                                                                          |
-| `ReviewService`               | **Domain service** to publish/moderate reviews applying business rules.                                                   |
-| `MembershipService`           | **Domain service** that manages subscription lifecycle.                                                                   |
-| `HuariquesApplicationService` | **Application service** that orchestrates use cases (get huarique, create review) and coordinates repositories/services.  |
+| `Description`                 | Value Object encapsulating the huarique’s validated description.                                                      |
+| `Address`                     | Value Object with line, district, and city; prevents invalid addresses.                                               |
+| `Coordinates`                 | Value Object with valid latitude/longitude for geolocation.                                                           |
+| `Rating`                      | Value Object (integer 1..5) ensuring valid ratings.                                                                   |
+| `OpeningStatus`               | VO / Enumeration representing the venue’s operating status (`OPEN`, `CLOSED`, `UNKNOWN`, `TEMPORARILY_CLOSED`).       |
+| `SubscriptionStatus`          | VO / Enumeration for subscription lifecycle (`ACTIVE`, `CANCELED`, `EXPIRED`).                                        |
+| `IHuariqueRepository`         | Port for `Huarique` persistence (get by id, search by filters, save).                                                 |
+| `IReviewRepository`           | Port for `Review` persistence (list by huarique, save).                                                               |
+| `ISubscriptionRepository`     | Port for `Subscription` persistence (get, save).                                                                      |
+| `HuariqueRepositorySQL`       | Adapter implementing `IHuariqueRepository` using SQL storage.                                                         |
+| `SearchService`               | Domain service to find huariques by filters.                                                                          |
+| `ReviewService`               | Domain service to publish/moderate reviews applying business rules.                                                   |
+| `MembershipService`           | Domain service that manages subscription lifecycle.                                                                   |
+| `HuariquesApplicationService` | Application service that orchestrates use cases (get huarique, create review) and coordinates repositories/services.  |
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
@@ -1352,17 +1385,17 @@ erDiagram
 
 ## 5.1. Software Configuration Management
 
-En esta sección se detalla cómo se implementa, organiza y publica **PuntoSabor** en su estado actual (sitio estático con **HTML, CSS y JavaScript**). No se utiliza aún backend ni base de datos; la publicación se realiza con **GitHub Pages**. El objetivo es mantener la consistencia del desarrollo y dejar preparado el terreno para futuras iteraciones.
+En esta sección se detalla cómo se implementa, organiza y publica PuntoSabor en su estado actual (sitio estático con HTML, CSS y JavaScript). No se utiliza aún backend ni base de datos; la publicación se realiza con GitHub Pages. El objetivo es mantener la consistencia del desarrollo y dejar preparado el terreno para futuras iteraciones.
 
 ---
 
 ### 5.1.1. Software Development Environment Configuration
 
 **Implementado (estado actual)**
-- **Frontend (Landing + Páginas):** HTML5, CSS3, JavaScript (vanilla).
-- **Responsive Web Design:** únicamente con **CSS** (Flexbox/Grid + media queries).
-- **Editor:** Visual Studio Code (o editor de preferencia).
-- **Control de versiones y colaboración:** Git + GitHub.
+- Frontend (Landing + Páginas): HTML5, CSS3, JavaScript (vanilla).
+- Responsive Web Design: únicamente con CSS (Flexbox/Grid + media queries).
+- Editor: Visual Studio Code (o editor de preferencia).
+- Control de versiones y colaboración: Git + GitHub.
 
 **Estructura de páginas (referencial)**
 - `index.html` (inicio / home)
@@ -1375,7 +1408,7 @@ En esta sección se detalla cómo se implementa, organiza y publica **PuntoSabor
 - `css/` (hojas de estilo)
 - `img/` u otra carpeta de recursos
 
-> Nota: En esta entrega **no se ha implementado** servidor, API ni base de datos.
+> Nota: En esta entrega no se ha implementado servidor, API ni base de datos.
 
 ---
 
@@ -1392,11 +1425,11 @@ En esta sección se detalla cómo se implementa, organiza y publica **PuntoSabor
   - `feature/*`: nuevas secciones o mejoras (p. ej., `feature/US01-landing-planes`).
   - `hotfix/*`: correcciones urgentes sobre `main`.
 
-**Versionado Semántico (Semantic Versioning 2.0.0)**
+**Versionado Semántico**
 - **X (major)**: cambios incompatibles (reestructura global de navegación/archivos).
 - **Y (minor)**: nuevas secciones o funcionalidades compatibles.
 - **Z (patch)**: correcciones menores (estilos, textos, enlaces).
-- Ejemplos: `v1.0.0`, `v1.1.0`, `v1.1.1`.
+- Ejemplos: `v1.0`, `v1.1`.
 
 **Conventional Commits**
 
@@ -1420,13 +1453,13 @@ Ejemplos:
 - Scripts JS al final del `body` cuando corresponda.
 
 **CSS**
-- Uso de **variables CSS** (`:root { --color... }`) para colores y espaciados.
-- Convención de clases en **kebab-case** (ej.: `.hero-title`, `.card-grid`).
-- Layout con **Flexbox y/o Grid**.
-- **Media queries** para puntos de quiebre (ej.: 960px, 760px, 560px).
+- Uso de variables CSS (`:root { --color... }`) para colores y espaciados.
+- Convención de clases en kebab-case (ej.: `.hero-title`, `.card-grid`).
+- Layout con Flexbox y/o Grid.
+- Media queries para puntos de quiebre (ej.: 960px, 760px, 560px).
 - Estados y accesibilidad: `:hover`, `:focus-visible`, contraste adecuado.
 
-**JavaScript (vanilla)**
+**JavaScript**
 - `const` / `let` (evitar `var`), funciones pequeñas y claras.
 - Separar lógica de interacción del DOM cuando sea posible.
 - Uso moderado de `localStorage` solo para preferencias/estado del cliente (si aplica).
@@ -1439,9 +1472,9 @@ Ejemplos:
 
 **Pasos:**
 1. Subir el código al repositorio (por ejemplo `puntosabor-landing`) en la rama `main`.
-2. En GitHub: ir a **Settings → Pages**.
-3. En **Build and deployment**, seleccionar **Deploy from a branch**.
-4. Elegir **Branch:** `main` y **Folder:** `/ (root)`. Guardar.
+2. En GitHub: ir a Settings → Pages.
+3. En Build and deployment, seleccionar Deploy from a branch.
+4. Elegir Branch: `main` y Folder: `/ (root)`. Guardar.
 5. Esperar a que GitHub procese el sitio y obtener la URL pública, por ejemplo:
 ```
 https://<usuario-o-organizacion>.github.io/puntosabor-landing/
@@ -1454,7 +1487,7 @@ https://1asi0730-2520-7432-g3-fijasdev.github.io/PuntoSabor-LandingPage/
 **Validación post-despliegue**
 - Probar navegación entre páginas: `index.html`, `planes.html`, `contacto.html`, `perfil.html`, `promos.html`, `zonas.html`.
 - Verificar rutas relativas a hojas de estilo, imágenes y scripts.
-- Comprobar **responsive** en móvil/escritorio (inspector del navegador).
+- Comprobar responsive en móvil/escritorio (inspector del navegador).
 - Revisar enlaces externos y formularios (si existieran) que no dependan de backend.
 
 **(Futuro, cuando se añada backend/BD)**
@@ -1515,6 +1548,184 @@ Se desplegó la landing page en GitHub Pages (o hosting equivalente) con el cont
 #### 5.2.1.8. Team Collaboration Insights during Sprint  
 El equipo trabajó de forma colaborativa con comunicación fluida (Meet/Discord). Se usaron tableros Kanban para seguimiento y ramas por feature para aislar cambios. Todos asumieron responsabilidades claras y se apoyaron mutuamente en revisiones, lo que permitió cumplir el objetivo del sprint sin bloqueos.
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+Mostramos en este apartado el cuadro correspondiente al Sprint Planning 2, donde rescatamos los aspectos más importantes del Sprint Planning Meeting.
+
+<div>
+   <table>
+     <thead>
+       <tr>
+         <th># Número</th>
+         <th>Sprint 2</th>
+       </tr>
+       <tr>
+         <th colspan=2>Sprint Planning Background</th>
+       </tr>
+     </thead>
+     <tr align='center'>
+       <td> Date </td>
+       <td> 2025-10-01 </td>
+     </tr>
+     <tr>
+       <td>Time</td>
+       <td> 11:45PAM </td>
+     </tr>
+     <tr>
+       <td>Location</td>
+       <td> Remote mode through the GitHub platform </td>
+     </tr>
+     <tr>
+       <td>Prepared by</td>
+       <td> Vega Coronado, Fabricio Samir </td>
+     </tr>
+     <tr>
+       <td>Attendees</td>
+       <td> Delgado Carrasco, Schneider <br> Lopez Goitia, Carlos Alberto <br> Tumi Oliden, Manuel Ignacio <br> Vega Coronado, Fabricio Samir	<br> Villanueva Andrade, Ysaac Ligorio </td>
+     </tr>
+     <tr>
+       <td>Sprint n-1 Review Summary</td>
+       <td> In Sprint 1, the static landing page was created and deployed on Github Pages</td>
+     </tr>
+     <tr>
+       <td>Sprint n-1 Retrospective Summary</td>
+       <td>Our team did a great job overall, but there are several aspects that could be improved. We should have been more organized from the beginning to avoid some issues later on. It would also have helped to maintain better communication throughout the development of the project to prevent misunderstandings among team members.</td>
+     </tr>
+      <tr>
+        <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+      </tr>
+      <tr>
+        <td>Sprint 2 Goal</td>
+        <td> Implement the initial functionalities of the PuntoSabor web system, focusing on advanced search, displaying huariques on a map, and registering new huariques by owners, integrating the first simulated backend services. </td>
+      </tr>
+      <tr>
+        <td>Sprint 2 velocity</td>
+        <td> 12 </td>
+      </tr>
+      <tr>
+        <td>Sum of Story Points</td>
+        <td> 21 Story Points</td>
+      </tr>
+
+   </table>
+</div>
+
+#### 5.2.2.2. Aspect Leaders and Collaborators
+
+
+Below are the members of the FijasDev team with their respective leadership (L) and collaboration (C) roles assigned for the Sprint 2 tasks.
+
+| **Team Member (Last Name, First Name)** | **GitHub Username** | **Advanced Search** | **Map View** | **Register Huarique** | **Update Information** | **API Services** |
+|----------------------------------------|----------------------|----------------------|---------------|------------------------|-------------------------|------------------|
+| **Delgado Carrasco, Schneider** | schneiderdc |  |  | **C** | **L** |  |
+| **Lopez Goitia, Carlos Alberto** | CarlosAlb101 | **L** |  | **C** | **C** |  |
+| **Tumi Oliden, Manuel Ignacio** | ManuelTumi2224 |  | **C** | **L** | **C** |  |
+| **Vega Coronado, Fabricio Samir** | Fabricio1v | **C** | **C** |  |  | **L** |
+| **Villanueva Andrade, Ysaac Ligorio** | YsaacVillanueva |  |  |  | **C** | **C** |
+
+#### 5.2.2.3. Sprint Backlog 2
+
+Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicacion web, como tambien una segunda versión mejorada del Landing Page, implementando las vistas de las user stories de nuestro proyecto.
+
+![alt text](assets/SprintBacklog2.jpg)
+
+link: https://trello.com/invite/b/68e71048a816b1be49c8f045/ATTIdc7cb6e3dc20feb0c795a893e2ed2e5c21DF59CA/puntosabor-app
+
+#### 5.2.2.4. Development Evidence for Sprint Review
+
+Commits:
+![alt text](assets/Commits.jpg)
+
+**Commits (convencionales, ejemplos):**
+- `feat(search): add combined filters and empty state`
+- `feat(map): show markers + popups from API`
+- `feat(huariques): create/edit forms with validation`
+- `docs(api): mock endpoints for search and crud`
+- `fix(ui): card grid wrap and responsive spacing`
+
+Repository	Branch	Commit Id	Commit Messaage	Commit Message Body	Commited on
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, footer, la vista principal, categorias, reseñas, mapa, promociones y planes. Esto fue realizado mediante la aplicacion webStorm y su complemento de git, con esto cada integrante pudo realizar cambios y versiones en sus ramas para luego mandarlas a la rama principal y no tener ningun inconveniente. A continuación se mostrarán las evidencias de ejecución.
+
+Home:
+![alt text](assets/homeFRONT.jpg)
+
+Iniciar Sesion:
+![alt text](assets/LOGINFRONTjpg.jpg)
+
+Registrar:
+![alt text](assets/signFRONT.jpg)
+
+Registrar Huarique:
+![alt text](assets/registrarHuariqueFRONT.jpg)
+
+Categorias:
+![alt text](assets/categoriasFRONT.jpg)
+
+Promociones:
+![alt text](assets/promosFRONT.jpg)
+
+Plans:
+![alt text](assets/plansFRONT.jpg)
+
+Mapa:
+![alt text](assets/mapaFRONT.jpg)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+En esta sección se presenta la lista de los endpoints documentados. A continuación se presenta el proyecto que muestra el despliegue de la web.
+
+db.json:
+![alt text](assets/service-db.json.jpg)
+
+Deployment:
+![alt text](assets/evidenciaDeploy.jpg)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Link hacia el deployment:
+https://puntosabor.netlify.app/
+
+Home:
+![alt text](assets/homeDeploy.jpg)
+
+Categoria:
+![alt text](assets/categoriasDeploy.jpg)
+
+Promos:
+![alt text](assets/promosDeploy.jpg)
+
+Plans:
+![alt text](assets/plansDeploy.jpg)
+
+Contactos:
+![alt text](assets/contactosDeploy.jpg)
+
+Map:
+![alt text](assets/mapaDeploy.jpg)
+
+Rol:
+![alt text](assets/rolDeploy.jpg)
+
+Login:
+![alt text](assets/loginDeploy.jpg)
+
+Registrar:
+![alt text](assets/registerDeploy.jpg)
+
+Resgistrar Huarique:
+![alt text](assets/registrarHuariqueDeploy.jpg)
+
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+El equipo mantuvo una colaboración constante y una comunicación efectiva a través de plataformas como Meet y Discord. Se implementaron tableros Kanban para el control del progreso y ramas por funcionalidad para gestionar los cambios de forma ordenada. Cada integrante asumió responsabilidades definidas y brindó apoyo en las revisiones, lo que facilitó alcanzar las metas del sprint sin contratiempos.
+
+![alt text](assets/UsersActivar.jpg)
+
+![alt text](assets/ActividadUsers.jpg)
 
 # Conclusiones
 
