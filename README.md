@@ -1932,15 +1932,35 @@ El objetivo de estas entrevistas es evaluar la experiencia del usuario al intera
 
 ## 5.3.2 Registro de Entrevistas
 
-Entrevista M1 – Segmento 1 (Usuario Comensal)
+### Entrevista M1 – Segmento 1 (Usuario Comensal)
 
-Entrevistador: [Nombre del entrevistador]
-Entrevistado: [Nombre del usuario]
-Fecha: 2025-XX-XX
-Link de la entrevista: [URL a la grabación]
- (Aquí colocas la imagen igual que en el ejemplo)
+Entrevistador: Ysaac Villanueva
+Entrevistado: Vitaly Baca
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 1 Segmento 1](https://drive.google.com/file/d/1u_jtYq7m1XSMKOQxpQ-8db2F7O0-XYeC/view?usp=sharing)
+![Entrevista1_TB2_Seg1.jpg](assets/Entrevista1_TB2_Seg1.jpg)
 
-Resumen
+### Resumen
+Vitaly indicó que la navegación general de la plataforma fue fluida y que desde la landing pudo ubicar rápidamente la sección de huariques sin dificultad. Consideró que las tarjetas presentan de manera clara la información necesaria para decidir si ingresar al detalle de un huarique, destacando especialmente la utilidad de la foto y la calificación.
+
+En cuanto a los filtros, comentó que le parecieron útiles, sobre todo los de tipo de comida y ubicación. Sin embargo, sugirió que el filtro de distancia debería ser más visible, ya que en zonas como Lurín es importante identificar huariques realmente cercanos. También señaló que el mapa fue práctico y preciso, pues los pines mostraban huariques ubicados en lugares reconocidos como la Panamericana Antigua.
+
+Por último, mencionó que dejar reseñas y marcar favoritos fue sencillo e intuitivo, y que las recomendaciones mostradas coincidían con los huariques que había estado buscando, aportando valor a su experiencia como usuario.
+
+### Entrevista M2 – Segmento 1 (Usuario Comensal)
+
+Entrevistador: Ysaac Villanueva
+Entrevistado: Sebastian del Rio
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 2 Segmento 1](https://drive.google.com/file/d/1SPHOZAo3V3sFyVSMT4Wib91-wXRuOldF/view?usp=sharing)
+![Entrevista2_TB2_Seg1.jpg](assets/Entrevista2_TB2_Seg1.jpg)
+
+### Resumen
+En la entrevista, Sebastián comentó que la navegación desde la landing page hacia la sección de huariques le resultó clara y directa, sin pasos innecesarios. Señaló que las tarjetas le parecieron completas y fáciles de entender, ya que la combinación de foto, nombre y calificación permite evaluar rápidamente un huarique, aunque mencionó que una imagen un poco más grande podría mejorar la visualización.
+
+Respecto a los filtros, indicó que funcionaron correctamente al buscar opciones de mariscos, comunes en su zona, aunque consideró que el filtro de precio podría ser más visible para acceder a él con mayor facilidad. También destacó que el mapa fue una herramienta útil, ya que los pines coincidían con huariques reales de Chorrillos, lo cual le generó confianza al explorar opciones cercanas.
+
+Finalmente, mencionó que el proceso de dejar reseñas fue simple e intuitivo, y que la función de favoritos y recomendaciones le pareció coherente con sus búsquedas, permitiéndole descubrir alternativas relacionadas a sus preferencias.
 
 ### Entrevista N1 – Segmento 2 (Administrador de Huarique)
 Entrevistador: Manuel Tumi
