@@ -1879,32 +1879,239 @@ Tareas que se realizarán en este sprint por el lado del frontend.
 | **US26** | Promociones destacadas | Como dueño Pro, quiero publicar promociones destacadas en listados. | 3 | schneiderdc | In-Progress |
 
 ## 5.2.3.4. Development Evidence for Sprint Review
+A continuación se presentan los commits registrados en el repositorio de nuestro Backend, realizados durante el desarrollo del sprint 3, en el cual se implementaron las funcionalidades correspondientes.
 
+![alt text](assets/reporte.png)
+
+![alt text](<assets/report 2.png>)
+
+![alt text](assets/report3.png)
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
+Lo que se logró en este Sprint 3 fue el despliegue de una nueva versión funcional de la aplicación web, con el flujo de registro e inicio de sesión de usuarios, y la actualización de la landing page con contenido mejorado. Además, se avanzó en la primera versión del backend, definiendo endpoints para gestionar la información principal del sistema. Todo se trabajó siguiendo la metodología GitFlow, usando ramas de feature y develop para mantener estable la rama principal.
+
+Evidencia de la landing page
+
+![alt text](assets/landing1.png)
+
+![alt text](assets/landing2.png)
+
+![alt text](assets/landing3.png)
+
+![alt text](assets/landing4.png)
+
+Evidencias de la aplicación web
+![alt text](assets/Inicio.png)
+
+![alt text](<assets/Sing in.png>)
+
+![alt text](assets/Sing_up.png)
+
+![alt text](assets/Menu_principal.png)
+
+![alt text](assets/Membrensia.png)
+
+![alt text](assets/Mapa.png)
+
+Evidencias de los endpoints realizados con el backend
 
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se presenta el listado de endpoints del sistema, junto con su respectiva documentación técnica y descripción de uso.
+
+![alt text](assets/backend.png)
 
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
+Link de la landing page: https://1asi0730-2520-7432-g3-fijasdev.github.io/PuntoSabor-LandingPage
 
+Link de la aplicación web: https://frontend-punto-sabor-git-develop-manuels-projects-cd9f9665.vercel.app/
+
+En esta sección se presentan de forma resumida las actividades de Deployment realizadas durante este Sprint. El backend fue desplegado en la plataforma Render.
+
+![alt text](assets/Vercel.jpeg)
+
+![alt text](assets/backend.png)
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
+En esta sección se muestra cómo el equipo ha trabajado de forma colaborativa para completar la entrega de este sprint. Asimismo, se presentan las métricas relacionadas con el desarrollo del Backend.
 
+![alt text](assets/report3.png)
 
-# 5.3. Validation Interviews
+# 5.3 Validation Interviews
 
-## 5.3.1. Diseño de Entrevistas
+## 5.3.1 Diseño de Entrevistas
+Para validar la usabilidad, claridad visual y facilidad de uso de la plataforma web PuntoSabor, se diseñó un conjunto de entrevistas dirigidas a dos segmentos de usuarios:
 
+Segmento 1: Usuarios comensales que navegan por la plataforma para descubrir huariques.
 
-## 5.3.2. Registro de Entrevistas
+Segmento 2: Dueños/administradores de huariques que usan el panel de gestión.
 
+El objetivo de estas entrevistas es evaluar la experiencia del usuario al interactuar con las funcionalidades principales, así como identificar áreas de mejora para futuras iteraciones del proyecto.
 
-## 5.3.3. Evaluaciones según heurísticas
+### Preguntas del Segmento 1 – Usuarios Comensales
 
+- ¿Qué tan fácil te resultó navegar desde la landing page hasta la búsqueda de huariques?
+
+- ¿La presentación visual de las tarjetas (foto, nombre, descripción, estrellas) fue clara y suficiente para decidir revisar un huarique?
+
+- ¿Los filtros (tipo de comida, precio, ubicación) te ayudaron a encontrar lo que buscabas?
+
+- ¿El mapa interactivo te resultó útil para ubicar huariques cercanos o de interés?
+
+- ¿Fue sencillo dejar una reseña y entender el sistema de calificación por estrellas?
+
+- ¿Qué tan intuitivo te pareció marcar un huarique como favorito o revisar las recomendaciones?
+
+### Preguntas del Segmento 2 – Administradores de Huariques
+
+- ¿Qué tan claro fue el proceso de registrar tu huarique en la plataforma?
+
+- ¿Te resultó fácil revisar y responder las reseñas de los usuarios?
+
+- ¿La manera en que tu huarique aparece en el buscador y en el mapa refleja adecuadamente tu negocio?
+
+- ¿Consideras que PuntoSabor mejora la visibilidad de tu huarique frente a potenciales clientes?
+
+- ¿Qué tan útil te parece la plataforma para administrar y promocionar tu huarique de forma digital?
+
+## 5.3.2 Registro de Entrevistas
+
+### Entrevista M1 – Segmento 1 (Usuario Comensal)
+
+Entrevistador: Ysaac Villanueva
+Entrevistado: Vitaly Baca
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 1 Segmento 1](https://drive.google.com/file/d/1u_jtYq7m1XSMKOQxpQ-8db2F7O0-XYeC/view?usp=sharing)
+![Entrevista1_TB2_Seg1.jpg](assets/Entrevista1_TB2_Seg1.jpg)
+
+### Resumen
+Vitaly indicó que la navegación general de la plataforma fue fluida y que desde la landing pudo ubicar rápidamente la sección de huariques sin dificultad. Consideró que las tarjetas presentan de manera clara la información necesaria para decidir si ingresar al detalle de un huarique, destacando especialmente la utilidad de la foto y la calificación.
+
+En cuanto a los filtros, comentó que le parecieron útiles, sobre todo los de tipo de comida y ubicación. Sin embargo, sugirió que el filtro de distancia debería ser más visible, ya que en zonas como Lurín es importante identificar huariques realmente cercanos. También señaló que el mapa fue práctico y preciso, pues los pines mostraban huariques ubicados en lugares reconocidos como la Panamericana Antigua.
+
+Por último, mencionó que dejar reseñas y marcar favoritos fue sencillo e intuitivo, y que las recomendaciones mostradas coincidían con los huariques que había estado buscando, aportando valor a su experiencia como usuario.
+
+### Entrevista M2 – Segmento 1 (Usuario Comensal)
+
+Entrevistador: Ysaac Villanueva
+Entrevistado: Sebastian del Rio
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 2 Segmento 1](https://drive.google.com/file/d/1SPHOZAo3V3sFyVSMT4Wib91-wXRuOldF/view?usp=sharing)
+![Entrevista2_TB2_Seg1.jpg](assets/Entrevista2_TB2_Seg1.jpg)
+
+### Resumen
+En la entrevista, Sebastián comentó que la navegación desde la landing page hacia la sección de huariques le resultó clara y directa, sin pasos innecesarios. Señaló que las tarjetas le parecieron completas y fáciles de entender, ya que la combinación de foto, nombre y calificación permite evaluar rápidamente un huarique, aunque mencionó que una imagen un poco más grande podría mejorar la visualización.
+
+Respecto a los filtros, indicó que funcionaron correctamente al buscar opciones de mariscos, comunes en su zona, aunque consideró que el filtro de precio podría ser más visible para acceder a él con mayor facilidad. También destacó que el mapa fue una herramienta útil, ya que los pines coincidían con huariques reales de Chorrillos, lo cual le generó confianza al explorar opciones cercanas.
+
+Finalmente, mencionó que el proceso de dejar reseñas fue simple e intuitivo, y que la función de favoritos y recomendaciones le pareció coherente con sus búsquedas, permitiéndole descubrir alternativas relacionadas a sus preferencias.
+
+### Entrevista N1 – Segmento 2 (Administrador de Huarique)
+Entrevistador: Manuel Tumi
+Entrevistado: Piero Tapia
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 1 Segmento 2](https://drive.google.com/file/d/1qXveDIikLAa3Lm5JW85rZf6rT8Ym_qf9/view?usp=drive_link)
+![Entrevista1](assets/Entrevista1Review.png)
+
+### Resumen
+En esta entrevista, el participante indicó que el proceso de registrar un huarique en PuntoSabor le resultó claro, intuitivo y fácil de completar, destacando que cualquier usuario podría manejarlo sin complicaciones. Valoró la interfaz amigable y la forma en que la información del negocio se refleja posteriormente en el mapa y en el buscador.
+
+Propuso mejoras específicas, como incluir un sistema de promociones y descuentos que permita activar días específicos y aumentar la visibilidad del negocio. También sugirió añadir opciones predeterminadas para reseñas (por ejemplo, “Excelente”, “Recomendado”), para facilitar la participación de los usuarios.
+
+Respecto al mapa, recomendó que al aplicar filtros se muestren todas las opciones correspondientes sin necesidad de hacer clic individual en cada huarique, lo cual ayudaría a una navegación más fluida.
+
+En general, su percepción fue positiva y consideró que la plataforma puede mejorar significativamente la visibilidad y gestión digital de un huarique.
+
+### Entrevista N2 – Segmento 2 (Administrador de Huarique)
+
+Entrevistador: Manuel Tumi
+Entrevistado: Wildor Villalobos
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 2 Segmento 2](https://drive.google.com/file/d/1NIV0eMvDfTuqKxPW2k5sOicxA9n9dmuR/view?usp=sharing)
+![Entrevista1](assets/Entrevista2Review.png)
+
+### Resumen
+En esta entrevista, el participante señaló que el proceso de registrar su huarique en PuntoSabor le pareció muy intuitivo, directo y fácil de completar. Consideró que la interfaz es amigable incluso para personas con poca experiencia tecnológica. También destacó la claridad del mapa interactivo y la forma en la que el huarique aparece ubicado visualmente, lo que ayuda a los usuarios a encontrarlo con facilidad.
+
+Propuso añadir una sección más completa para promociones y descuentos, donde los dueños puedan activar ofertas por días y que estas se desactiven automáticamente, ya que muchos clientes buscan primero promociones antes que el restaurante. Además, sugirió mejorar la distribución del menú y permitir organizar mejor los productos.
+
+Respecto al sistema de reseñas, indicó que sería valioso incluir opciones predeterminadas (como “Excelente”, “Muy bueno”, “Lo recomiendo”) para facilitar la participación de usuarios que no siempre quieren redactar comentarios completos. También recomendó que en el mapa, al aplicar un filtro (por ejemplo, “Pollos”), se muestren todos los huariques filtrados al mismo tiempo, sin necesidad de hacer clic uno por uno.
+
+Finalmente, mencionó que PuntoSabor sí puede mejorar significativamente la visibilidad de un huarique y atraer nuevos clientes, aunque considera importante ajustar los precios de los planes o incrementar el valor que ofrecen para justificar la inversión.
+
+## 5.3.3 Evaluaciones según heurísticas
+Sitio o App a evaluar:
+
+PuntoSabor – Plataforma Web de Descubrimiento y Gestión de Huariques
+
+Tareas a evaluar:
+
+El alcance de esta evaluación incluye revisar la usabilidad, claridad y consistencia de las principales funcionalidades disponibles en la plataforma para ambos segmentos de usuarios (comensales y administradores).
+
+## Tareas del Segmento 1 – Usuarios Comensales
+
+- Navegación desde la landing page hacia la búsqueda de huariques
+
+- Uso de los filtros (tipo de comida, precio, ubicación)
+
+- Interacción con las tarjetas de huariques
+
+- Consulta de detalles de un huarique
+
+- Visualización del promedio de estrellas y reseñas
+
+- Uso del mapa interactivo
+
+- Marcar un huarique como favorito
+
+- Revisión de la sección de favoritos
+
+- Publicación de una reseña
+
+- Calificación mediante el sistema de estrellas
+
+- Revisión del apartado “Recomendados para ti”
+
+- Flujo general de navegación entre resultados, mapa y detalles
+
+## Tareas del Segmento 2 – Administradores de Huariques
+- Registro de huarique en la plataforma
+
+- Inicio de sesión en el panel de administración
+
+- Actualización de información del huarique (fotos, descripción, precios, horarios)
+
+- Gestión de menú o especialidades
+
+- Revisión de reseñas recibidas
+
+- Respuesta a reseñas de usuarios
+
+- Gestión de visibilidad del huarique
+
+- Actualización de ubicación en el mapa
+
+- Carga y actualización de imágenes
+
+- Supervisión del rendimiento del huarique dentro de la plataforma (visitas, interacciones, favoritos)
+
+## Tareas no incluidas en esta versión de la evaluación
+
+- Las siguientes tareas no se incluyeron por encontrarse fuera del alcance de la iteración actual:
+
+- Integración con métodos de pago
+
+- Publicación de promociones internas del huarique
+
+- Gestión avanzada de estadísticas (métricas comerciales)
+
+- Flujo de registro de administradores mediante documentación legal
+
+- Revisión de métricas de plataforma en tiempo real
 
 # 5.4. Video About-the-Product
+
 
 
 # Conclusiones
