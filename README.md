@@ -1737,41 +1737,6 @@ Resgistrar Huarique:
 
 
 
-Link hacia el deployment:
-https://puntosabor.netlify.app/
-
-Home:
-![alt text](assets/homeDeploy.jpg)
-
-Categoria:
-![alt text](assets/categoriasDeploy.jpg)
-
-Promos:
-![alt text](assets/promosDeploy.jpg)
-
-Plans:
-![alt text](assets/plansDeploy.jpg)
-
-Contactos:
-![alt text](assets/contactosDeploy.jpg)
-
-Map:
-![alt text](assets/mapaDeploy.jpg)
-
-Rol:
-![alt text](assets/rolDeploy.jpg)
-
-Login:
-![alt text](assets/loginDeploy.jpg)
-
-Registrar:
-![alt text](assets/registerDeploy.jpg)
-
-Resgistrar Huarique:
-![alt text](assets/registrarHuariqueDeploy.jpg)
-
-
-
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 El equipo mantuvo una colaboración constante y una comunicación efectiva a través de plataformas como Meet y Discord. Se implementaron tableros Kanban para el control del progreso y ramas por funcionalidad para gestionar los cambios de forma ordenada. Cada integrante asumió responsabilidades definidas y brindó apoyo en las revisiones, lo que facilitó alcanzar las metas del sprint sin contratiempos.
 
@@ -2066,6 +2031,7 @@ El alcance de esta evaluación incluye revisar la usabilidad, claridad y consist
 - Revisión de métricas de plataforma en tiempo real
 
 # 5.4. Video About-the-Product
+
 
 
 # Conclusiones
