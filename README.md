@@ -50,10 +50,10 @@
 |1.12|19/09/2025|Schneider Delgado| Realizó partes del event storming junto a mas integrantes del grupo|
 |1.13|19/09/2025|Todo el equipo| Realizó aportes en el landing page |
 |1.14|19/09/2025|Todo el equipo| Realizó el design level event storming |
-
 |1.15|19/09/2025|Fabricio Vega| Realizó  actualizaciones en el registro de versiones del informe|
 |1.16|1/10/2025| Fabricio Vega | Orginizó el Sprint Planning 2 para proceder con la codificacion en la web |
-|1.x|x/10/2025|  |  |
+|1.17|8/10/2025| Fabricio Vega |  Realizó todas la documentacion para el sprint 2 |
+|1.17|8/10/2025| Schneider Delgado | Realizó el sprint backlog 2 |
 ---
 
 ## Contenido
@@ -143,6 +143,23 @@
             - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
             - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
             - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+        - [5.2.3. Sprint 3](#523-sprint-3)
+            - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+            - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
+            - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
+            - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
+            - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+            - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+            - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+            - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+    - [5.3. Validation Interviews](#53-validation-interviews)
+        - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+        - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+        - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+
+    - [5.4. Video About-the-Product](#54-video-about-the-product)
+
 
 ---
 
@@ -160,7 +177,7 @@ del ABET – EAC - Student Outcome 3.
 | Criterio específico                                                                              | Acciones realizadas | Conclusiones |
 |--------------------------------------------------------------------------------------------------|---------------------|--------------|
 | Comunica oralmente con efectividad a diferentes rangos de audiencia.                                  | Se realizaron presentaciones grupales para explicar la idea del proyecto PuntoSabor, exponiendo la problemática detectada y la propuesta de valor. Cada integrante participó explicando un aspecto específico (startup, objetivos, justificación, solución).                   | La exposición permitió comunicar de manera clara la visión del proyecto y recibir retroalimentación inmediata del profesor y compañeros, lo cual fortaleció la propuesta inicial.             |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |  Se elaboró el informe TB1, que incluyó portada institucional, introducción, justificación, objetivos, descripción de la startup FijasDev y del producto PuntoSabor. El documento fue estructurado y redactado con un lenguaje académico.                   | El informe dejó un registro formal y ordenado del trabajo realizado, facilitando la evaluación y asegurando una comunicación efectiva y coherente para el ámbito académico.             |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia |  Durante el Sprint 2, el equipo demostró un progreso significativo en sus competencias de desarrollo de software. Aplicamos principios ágiles para implementar la primera versión funcional del sistema web PuntoSabor, integrando servicios frontend simulados y mejorando la página de destino anterior. Cada miembro contribuyó tanto a roles de liderazgo como de colaboración, garantizando un flujo de trabajo eficiente.                   | El informe dejó un registro formal y ordenado del trabajo realizado, facilitando la evaluación y asegurando una comunicación efectiva y coherente para el ámbito académico.             |
 
 
 # Capítulo I: Introducción
@@ -381,7 +398,7 @@ Preguntas Segmento 2:
 
 | Número de entrevista | Datos del entrevistado                                                                 | Evidencia de entrevista |
 |-----------------------|-----------------------------------------------------------------------------------------|--------------------------|
-| 3                     | **Nombre:** Gabriela Vasquez  <br> **Edad:** 23  <br> **Distrito:** Pueblo libre <br><br> **Resumen:** Propietaria de una juguería artesanal. Por ahora depende principalmente de los clientes que pasan por la zona, ya que su presupuesto es limitado y no tiene mucha experiencia en el uso de redes sociales ni plataformas digitales de venta. Comenta que afiliarse a apps de delivery o pago le resulta algo confuso. Busca una aplicación que sea intuitiva, con bajos costos de comisión y que le permita promocionar sus productos sin complicaciones. Además, le gustaría contar con asesoría o tutoriales que la ayuden a aprender a usar la herramienta y a impulsar su negocio. Propone contar con niveles de uso progresivos para avanzar poco a poco. Espera como resultado aumentar el flujo de clientes en su juguería, más que solo generar presencia en internet. | ![Evidencia](assets/Entrevista_Gabriela.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/15Qma_86tWBnnfWBWlx28-MLKOQJRCrI2/view?usp=drive_link) 03:15 - 08:14|
+| 3                     | **Nombre:** Gabriela Vasquez  <br> **Edad:** 23  <br> **Distrito:** Pueblo libre <br><br> **Resumen:** Propietaria de una juguería artesanal. Por ahora depende principalmente de los clientes que pasan por la zona, ya que su presupuesto es limitado y no tiene mucha experiencia en el uso de redes sociales ni plataformas digitales de venta. Comenta que afiliarse a apps de delivery o pago le resulta algo confuso. Busca una aplicación que sea intuitiva, con bajos costos de comisión y que le permita promocionar sus productos sin complicaciones. Además, le gustaría contar con asesoría o tutoriales que la ayuden a aprender a usar la herramienta y a impulsar su negocio. Propone contar con niveles de uso progresivos para avanzar poco a poco. Espera como resultado aumentar el flujo de clientes en su juguería, más que solo generar presencia en internet. | ![Evidencia](assets/Entrevista_Gabriela.jpg) <br> [📂 Ver entrevista](https://drive.google.com/file/d/15Qma_86tWBnnfWBWlx28-MLKOQJRCrI2/view?usp=drive_link) |
 
 
 ### 2.2.3. Análisis de entrevistas
@@ -1626,17 +1643,268 @@ Below are the members of the FijasDev team with their respective leadership (L) 
 
 #### 5.2.2.3. Sprint Backlog 2
 
+Nuestro objetivo principal sprint 2 es realizar la primera version de la aplicacion web, como tambien una segunda versión mejorada del Landing Page, implementando las vistas de las user stories de nuestro proyecto.
+
+![alt text](assets/SprintBacklog2.jpg)
+
+link: https://trello.com/invite/b/68e71048a816b1be49c8f045/ATTIdc7cb6e3dc20feb0c795a893e2ed2e5c21DF59CA/puntosabor-app
+
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+Commits:
+![alt text](assets/Commits.jpg)
+
+**Commits (convencionales, ejemplos):**
+- `feat(search): add combined filters and empty state`
+- `feat(map): show markers + popups from API`
+- `feat(huariques): create/edit forms with validation`
+- `docs(api): mock endpoints for search and crud`
+- `fix(ui): card grid wrap and responsive spacing`
+
+Repository	Branch	Commit Id	Commit Messaage	Commit Message Body	Commited on
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Lo que se logró para este Sprint 2 es el peliegue de la primera versión de la aplicación web. En esta logramos desarrollar el toolbar, footer, la vista principal, categorias, reseñas, mapa, promociones y planes. Esto fue realizado mediante la aplicacion webStorm y su complemento de git, con esto cada integrante pudo realizar cambios y versiones en sus ramas para luego mandarlas a la rama principal y no tener ningun inconveniente. A continuación se mostrarán las evidencias de ejecución.
+
+Home:
+![alt text](assets/homeFRONT.jpg)
+
+Iniciar Sesion:
+![alt text](assets/LOGINFRONTjpg.jpg)
+
+Registrar:
+![alt text](assets/signFRONT.jpg)
+
+Registrar Huarique:
+![alt text](assets/registrarHuariqueFRONT.jpg)
+
+Categorias:
+![alt text](assets/categoriasFRONT.jpg)
+
+Promociones:
+![alt text](assets/promosFRONT.jpg)
+
+Plans:
+![alt text](assets/plansFRONT.jpg)
+
+Mapa:
+![alt text](assets/mapaFRONT.jpg)
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+En esta sección se presenta la lista de los endpoints documentados. A continuación se presenta el proyecto que muestra el despliegue de la web.
+
+db.json:
+![alt text](assets/service-db.json.jpg)
+
+Deployment:
+![alt text](assets/evidenciaDeploy.jpg)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+Link hacia el deployment:
+https://puntosabor.netlify.app/
+
+Home:
+![alt text](assets/homeDeploy.jpg)
+
+Categoria:
+![alt text](assets/categoriasDeploy.jpg)
+
+Promos:
+![alt text](assets/promosDeploy.jpg)
+
+Plans:
+![alt text](assets/plansDeploy.jpg)
+
+Contactos:
+![alt text](assets/contactosDeploy.jpg)
+
+Map:
+![alt text](assets/mapaDeploy.jpg)
+
+Rol:
+![alt text](assets/rolDeploy.jpg)
+
+Login:
+![alt text](assets/loginDeploy.jpg)
+
+Registrar:
+![alt text](assets/registerDeploy.jpg)
+
+Resgistrar Huarique:
+![alt text](assets/registrarHuariqueDeploy.jpg)
+
+
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+El equipo mantuvo una colaboración constante y una comunicación efectiva a través de plataformas como Meet y Discord. Se implementaron tableros Kanban para el control del progreso y ramas por funcionalidad para gestionar los cambios de forma ordenada. Cada integrante asumió responsabilidades definidas y brindó apoyo en las revisiones, lo que facilitó alcanzar las metas del sprint sin contratiempos.
+
+![alt text](assets/UsersActivar.jpg)
+
+![alt text](assets/ActividadUsers.jpg)
 
 
+# 5.2.3. Sprint 3
+
+## 5.2.3.1. Sprint Planning 3
+
+Mostramos en este apartado el cuadro correspondiente al Sprint Planning 3 para nuestro startup PuntoSabor, donde se registran los aspectos más importantes acordados durante la reunión de planificación del equipo FijasDev.
+
+<div>
+ <table> 
+ <thead> 
+ <tr> 
+ <th># Número</th> <th>Sprint 3</th> 
+ </tr> 
+ <tr> <th colspan=2>Sprint Planning Background</th> 
+ </tr> 
+ </thead>
+ <tr align='center'>
+   <td>Date</td>
+   <td>09-11-2025</td>
+ </tr>
+
+ <tr>
+   <td>Time</td>
+   <td>12:25 PM</td>
+ </tr>
+
+ <tr>
+   <td>Location</td>
+   <td>Remote mode through GitHub, Discord & Trello</td>
+ </tr>
+
+ <tr>
+   <td>Prepared by</td>
+   <td> Vega Coronado, Fabricio Samir </td>
+ </tr>
+
+ <tr>
+   <td>Attendees</td>
+   <td>
+     Delgado Carrasco, Schneider <br>
+     Lopez Goitia, Carlos Alberto <br>
+     Tumi Oliden, Manuel Ignacio <br>
+     Vega Coronado, Fabricio Samir <br>
+     Villanueva Andrade, Ysaac Ligorio
+   </td>
+ </tr>
+
+ <tr>
+   <td>Sprint n-2 Review Summary</td>
+   <td>
+   Durante la revisión del Sprint 2 se validó la primera versión funcional de la Web Application de PuntoSabor.  
+   Se implementaron las bases del enrutamiento, los primeros módulos visuales, el prototipo final de la landing page,  
+   y se integraron servicios simulados mediante JSON Server.  
+   Se corrigieron problemas de estilos y se reforzó la documentación de arquitectura solicitada por el profesor.
+   </td>
+ </tr>
+
+ <tr>
+   <td>Sprint n-1 Retrospective Summary</td>
+   <td>
+   El equipo acordó mejorar la consistencia en la división de tareas, mantener una comunicación más frecuente dentro del repositorio y centralizar los avances en el tablero de Trello.  
+   También se decidió estandarizar los commits y reforzar la revisión cruzada de PRs.
+   </td>
+ </tr>
+
+ <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+ </tr>
+
+ <tr>
+    <td>Sprint 3 Goal</td>
+    <td>
+        Implementar las funcionalidades clave para consolidar la segunda versión funcional de PuntoSabor,  
+        incluyendo reseñas, favoritos, membresías, gestión multimedia, notificaciones y módulos asociados  
+        a la interacción con huariques. Además se dará a cabo la implementacion inicial del backend. 
+    </td>
+ </tr>
+
+ <tr>
+    <td>Sprint 3 velocity</td>
+    <td>12</td>
+ </tr>
+
+ <tr>
+    <td>Sum of Story Points</td>
+    <td>44 Story Points</td>
+ </tr>
+
+</table> 
+</div>
+
+## 5.2.3.2. Aspect Leaders and Collaborators
+
+A continuación se presenta la matriz Leadership-and-Collaboration (LACX) correspondiente al Sprint 3.
+En ella se define quién lidera cada aspecto del desarrollo y quiénes participan como colaboradores, considerando los módulos del producto PuntoSabor.
+
+| Team Member (Last Name, First Name) | GitHub Username | Notifications              | MONITORING              | PREFERENCES         | ANALYTICS                 | SUBSCRIPTIONS               |
+|------------------------------------|------------------|----------------------------|-------------------------|---------------------|---------------------------|-----------------------------|
+| Delgado Carrasco, Schneider        | schneiderdc      | C                          | L                       | C                   | C                         | C                           |
+| Lopez Goitia, Carlos Alberto       | CarlosAlb101     | C                          | C                       | C                   | L                         | C                           |
+| Tumi Oliden, Manuel Ignacio        | ManuelTumi2224   | C                          | C                       | C                   | C                         | L                           |
+| Vega Coronado, Fabricio Samir      | Fabricio1v       | L                          | C                       | C                   | C                         | C                           |
+| Villanueva Andrade, Ysaac Ligorio  | YsaacVillanueva  | C                          | C                       | L                   | C                         | C                           |
+
+
+## 5.2.3.3. Sprint Backlog 3
+
+En este apartado se presenta el Sprint Backlog correspondiente al Sprint 3 del proyecto PuntoSabor.  
+Para esta iteración, se seleccionaron únicamente las historias que aún requieren desarrollo, excluyendo aquellas que ya fueron completadas en sprints anteriores o que se encuentran marcadas como “Done”.
+
+El objetivo del Sprint Backlog 3 es organizar y visualizar de manera clara el conjunto de funcionalidades que serán implementadas, así como su responsable asignado, nivel de complejidad y estado actual de avance. La tabla siguiente resume las User Stories pendientes de finalización durante esta iteración.
+
+Link al tablero de Sprint 3:
+https://trello.com/invite/b/68e71048a816b1be49c8f045/ATTIaa410bab4b959b3258cc6f372a477673875CBC7E/puntosabor-app 
+
+Tareas que se realizarán en este sprint por el lado del frontend.
+
+| User Story ID | Title | Description | Story Points | Assigned To | Status |
+|---------------|--------|-------------|--------------|-------------|--------|
+| **US03** | Guardar favoritos | Como usuario, puedo guardar huariques para acceder fácilmente después. | 3 | ManuelTumi2224 | To-Do |
+| **US05** | Actualización de información | Como dueño, puedo modificar los datos de mi huarique para mantenerlos actualizados. | 3 | ManuelTumi2224 | In-Progress |
+| **US07** | Envío de reseñas | Como usuario, puedo dejar una reseña y calificación en un huarique. | 3 | Fabricio1v | To-Do |
+| **US08** | Moderación automática | Como sistema, debo detectar reseñas inapropiadas y bloquearlas. | 5 | schneiderdc | To-Do |
+| **US11** | Configuración de notificaciones | Como usuario, puedo activar o desactivar notificaciones a mi preferencia. | 2 | ManuelTumi2224 | To-Do |
+| **US12** | Notificación de nuevas reseñas | Como dueño, recibo alertas cuando hay reseñas nuevas en mi huarique. | 2 | Fabricio1v | To-Do |
+| **US16** | Recuperación de contraseña | Como usuario, puedo recuperar mi contraseña en caso de olvido. | 2 | schneiderdc | To-Do |
+| **US17** | Configuración de preferencias | Como usuario, puedo guardar mis preferencias de cocina, presupuesto y ubicación. | 3 | YsaacVillanueva | To-Do |
+| **US19** | Sugerencias por ubicación | Como usuario, quiero recibir recomendaciones de huariques cercanos a mi ubicación actual. | 3 | CarlosAlb101 | To-Do |
+| **US21** | Reporte de información incorrecta | Como usuario, puedo reportar si un huarique tiene datos erróneos. | 2 | CarlosAlb101 | To-Do |
+| **US22** | Validación automática de estado | Como sistema, quiero mostrar si un huarique está abierto o cerrado en tiempo real. | 5 | CarlosAlb101 | To-Do |
+| **US24** | Pago de suscripción | Como dueño, quiero pagar mi membresía mediante tarjeta o billetera digital de forma segura. | 5 | schneiderdc | To-Do |
+| **US25** | Facturación y comprobantes | Como dueño, quiero descargar facturas mensuales de mis pagos. | 3 | YsaacVillanueva | To-Do |
+| **US26** | Promociones destacadas | Como dueño Pro, quiero publicar promociones destacadas en listados. | 3 | schneiderdc | In-Progress |
+
+## 5.2.3.4. Development Evidence for Sprint Review
+
+
+## 5.2.3.5. Execution Evidence for Sprint Review
+
+
+## 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+## 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+# 5.3. Validation Interviews
+
+## 5.3.1. Diseño de Entrevistas
+
+
+## 5.3.2. Registro de Entrevistas
+
+
+## 5.3.3. Evaluaciones según heurísticas
+
+
+# 5.4. Video About-the-Product
 
 
 # Conclusiones
