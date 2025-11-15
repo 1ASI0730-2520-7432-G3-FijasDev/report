@@ -1893,18 +1893,145 @@ Tareas que se realizarán en este sprint por el lado del frontend.
 ## 5.2.3.8. Team Collaboration Insights during Sprint
 
 
-# 5.3. Validation Interviews
+# 5.3 Validation Interviews
 
-## 5.3.1. Diseño de Entrevistas
+## 5.3.1 Diseño de Entrevistas
+Para validar la usabilidad, claridad visual y facilidad de uso de la plataforma web PuntoSabor, se diseñó un conjunto de entrevistas dirigidas a dos segmentos de usuarios:
 
+Segmento 1: Usuarios comensales que navegan por la plataforma para descubrir huariques.
 
-## 5.3.2. Registro de Entrevistas
+Segmento 2: Dueños/administradores de huariques que usan el panel de gestión.
 
+El objetivo de estas entrevistas es evaluar la experiencia del usuario al interactuar con las funcionalidades principales, así como identificar áreas de mejora para futuras iteraciones del proyecto.
 
-## 5.3.3. Evaluaciones según heurísticas
+### Preguntas del Segmento 1 – Usuarios Comensales
 
+- ¿Qué tan fácil te resultó navegar desde la landing page hasta la búsqueda de huariques?
+
+- ¿La presentación visual de las tarjetas (foto, nombre, descripción, estrellas) fue clara y suficiente para decidir revisar un huarique?
+
+- ¿Los filtros (tipo de comida, precio, ubicación) te ayudaron a encontrar lo que buscabas?
+
+- ¿El mapa interactivo te resultó útil para ubicar huariques cercanos o de interés?
+
+- ¿Fue sencillo dejar una reseña y entender el sistema de calificación por estrellas?
+
+- ¿Qué tan intuitivo te pareció marcar un huarique como favorito o revisar las recomendaciones?
+
+### Preguntas del Segmento 2 – Administradores de Huariques
+
+- ¿Qué tan claro fue el proceso de registrar tu huarique en la plataforma?
+
+- ¿Te resultó fácil revisar y responder las reseñas de los usuarios?
+
+- ¿La manera en que tu huarique aparece en el buscador y en el mapa refleja adecuadamente tu negocio?
+
+- ¿Consideras que PuntoSabor mejora la visibilidad de tu huarique frente a potenciales clientes?
+
+- ¿Qué tan útil te parece la plataforma para administrar y promocionar tu huarique de forma digital?
+
+## 5.3.2 Registro de Entrevistas
+
+Entrevista M1 – Segmento 1 (Usuario Comensal)
+
+Entrevistador: [Nombre del entrevistador]
+Entrevistado: [Nombre del usuario]
+Fecha: 2025-XX-XX
+Link de la entrevista: [URL a la grabación]
+ (Aquí colocas la imagen igual que en el ejemplo)
+
+Resumen
+
+Entrevista N1 – Segmento 2 (Administrador de Huarique)
+Entrevistador: Manuel Tumi
+Entrevistado: Piero Tapia
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 1 Segmento 2](https://drive.google.com/file/d/1qXveDIikLAa3Lm5JW85rZf6rT8Ym_qf9/view?usp=drive_link)
+![Entrevista1](assets/Entrevista1Review.png)
+
+Resumen
+
+Entrevista N2 – Segmento 2 (Administrador de Huarique)
+
+Entrevistador: Manuel Tumi
+Entrevistado: Wildor Villalobos
+Fecha: 2025-11-13
+Link de la entrevista: [Entrevista 2 Segmento 2](https://drive.google.com/file/d/1NIV0eMvDfTuqKxPW2k5sOicxA9n9dmuR/view?usp=sharing)
+![Entrevista1](assets/Entrevista2Review.png)
+Resumen
+
+## 5.3.3 Evaluaciones según heurísticas
+Sitio o App a evaluar:
+
+PuntoSabor – Plataforma Web de Descubrimiento y Gestión de Huariques
+
+Tareas a evaluar:
+
+El alcance de esta evaluación incluye revisar la usabilidad, claridad y consistencia de las principales funcionalidades disponibles en la plataforma para ambos segmentos de usuarios (comensales y administradores).
+
+## Tareas del Segmento 1 – Usuarios Comensales
+
+- Navegación desde la landing page hacia la búsqueda de huariques
+
+- Uso de los filtros (tipo de comida, precio, ubicación)
+
+- Interacción con las tarjetas de huariques
+
+- Consulta de detalles de un huarique
+
+- Visualización del promedio de estrellas y reseñas
+
+- Uso del mapa interactivo
+
+- Marcar un huarique como favorito
+
+- Revisión de la sección de favoritos
+
+- Publicación de una reseña
+
+- Calificación mediante el sistema de estrellas
+
+- Revisión del apartado “Recomendados para ti”
+
+- Flujo general de navegación entre resultados, mapa y detalles
+
+## Tareas del Segmento 2 – Administradores de Huariques
+- Registro de huarique en la plataforma
+
+- Inicio de sesión en el panel de administración
+
+- Actualización de información del huarique (fotos, descripción, precios, horarios)
+
+- Gestión de menú o especialidades
+
+- Revisión de reseñas recibidas
+
+- Respuesta a reseñas de usuarios
+
+- Gestión de visibilidad del huarique
+
+- Actualización de ubicación en el mapa
+
+- Carga y actualización de imágenes
+
+- Supervisión del rendimiento del huarique dentro de la plataforma (visitas, interacciones, favoritos)
+
+## Tareas no incluidas en esta versión de la evaluación
+
+- Las siguientes tareas no se incluyeron por encontrarse fuera del alcance de la iteración actual:
+
+- Integración con métodos de pago
+
+- Publicación de promociones internas del huarique
+
+- Gestión avanzada de estadísticas (métricas comerciales)
+
+- Flujo de registro de administradores mediante documentación legal
+
+- Revisión de métricas de plataforma en tiempo real
 
 # 5.4. Video About-the-Product
+
 
 
 # Conclusiones
