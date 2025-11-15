@@ -1879,19 +1879,64 @@ Tareas que se realizarán en este sprint por el lado del frontend.
 | **US26** | Promociones destacadas | Como dueño Pro, quiero publicar promociones destacadas en listados. | 3 | schneiderdc | In-Progress |
 
 ## 5.2.3.4. Development Evidence for Sprint Review
+A continuación se presentan los commits registrados en el repositorio de nuestro Backend, realizados durante el desarrollo del sprint 3, en el cual se implementaron las funcionalidades correspondientes.
 
+![alt text](assets/reporte.png)
+
+![alt text](<assets/report 2.png>)
+
+![alt text](assets/report3.png)
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
+Lo que se logró en este Sprint 3 fue el despliegue de una nueva versión funcional de la aplicación web, con el flujo de registro e inicio de sesión de usuarios, y la actualización de la landing page con contenido mejorado. Además, se avanzó en la primera versión del backend, definiendo endpoints para gestionar la información principal del sistema. Todo se trabajó siguiendo la metodología GitFlow, usando ramas de feature y develop para mantener estable la rama principal.
+
+Evidencia de la landing page
+
+![alt text](assets/landing1.png)
+
+![alt text](assets/landing2.png)
+
+![alt text](assets/landing3.png)
+
+![alt text](assets/landing4.png)
+
+Evidencias de la aplicación web
+![alt text](assets/Inicio.png)
+
+![alt text](<assets/Sing in.png>)
+
+![alt text](assets/Sing_up.png)
+
+![alt text](assets/Menu_principal.png)
+
+![alt text](assets/Membrensia.png)
+
+![alt text](assets/Mapa.png)
+
+Evidencias de los endpoints realizados con el backend
 
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección se presenta el listado de endpoints del sistema, junto con su respectiva documentación técnica y descripción de uso.
+
+![alt text](assets/backend.png)
 
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
+Link de la landing page: https://1asi0730-2520-7432-g3-fijasdev.github.io/PuntoSabor-LandingPage
 
+Link de la aplicación web: https://frontend-punto-sabor-git-develop-manuels-projects-cd9f9665.vercel.app/
+
+En esta sección se presentan de forma resumida las actividades de Deployment realizadas durante este Sprint. El backend fue desplegado en la plataforma Render.
+
+![alt text](assets/Vercel.jpeg)
+
+![alt text](assets/backend.png)
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
+En esta sección se muestra cómo el equipo ha trabajado de forma colaborativa para completar la entrega de este sprint. Asimismo, se presentan las métricas relacionadas con el desarrollo del Backend.
 
+![alt text](assets/report3.png)
 
 # 5.3 Validation Interviews
 
