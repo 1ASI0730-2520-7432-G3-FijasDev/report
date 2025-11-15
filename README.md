@@ -1942,23 +1942,38 @@ Link de la entrevista: [URL a la grabación]
 
 Resumen
 
-Entrevista N1 – Segmento 2 (Administrador de Huarique)
+### Entrevista N1 – Segmento 2 (Administrador de Huarique)
 Entrevistador: Manuel Tumi
 Entrevistado: Piero Tapia
 Fecha: 2025-11-13
 Link de la entrevista: [Entrevista 1 Segmento 2](https://drive.google.com/file/d/1qXveDIikLAa3Lm5JW85rZf6rT8Ym_qf9/view?usp=drive_link)
 ![Entrevista1](assets/Entrevista1Review.png)
 
-Resumen
+### Resumen
+En esta entrevista, el participante indicó que el proceso de registrar un huarique en PuntoSabor le resultó claro, intuitivo y fácil de completar, destacando que cualquier usuario podría manejarlo sin complicaciones. Valoró la interfaz amigable y la forma en que la información del negocio se refleja posteriormente en el mapa y en el buscador.
 
-Entrevista N2 – Segmento 2 (Administrador de Huarique)
+Propuso mejoras específicas, como incluir un sistema de promociones y descuentos que permita activar días específicos y aumentar la visibilidad del negocio. También sugirió añadir opciones predeterminadas para reseñas (por ejemplo, “Excelente”, “Recomendado”), para facilitar la participación de los usuarios.
+
+Respecto al mapa, recomendó que al aplicar filtros se muestren todas las opciones correspondientes sin necesidad de hacer clic individual en cada huarique, lo cual ayudaría a una navegación más fluida.
+
+En general, su percepción fue positiva y consideró que la plataforma puede mejorar significativamente la visibilidad y gestión digital de un huarique.
+
+### Entrevista N2 – Segmento 2 (Administrador de Huarique)
 
 Entrevistador: Manuel Tumi
 Entrevistado: Wildor Villalobos
 Fecha: 2025-11-13
 Link de la entrevista: [Entrevista 2 Segmento 2](https://drive.google.com/file/d/1NIV0eMvDfTuqKxPW2k5sOicxA9n9dmuR/view?usp=sharing)
 ![Entrevista1](assets/Entrevista2Review.png)
-Resumen
+
+### Resumen
+En esta entrevista, el participante señaló que el proceso de registrar su huarique en PuntoSabor le pareció muy intuitivo, directo y fácil de completar. Consideró que la interfaz es amigable incluso para personas con poca experiencia tecnológica. También destacó la claridad del mapa interactivo y la forma en la que el huarique aparece ubicado visualmente, lo que ayuda a los usuarios a encontrarlo con facilidad.
+
+Propuso añadir una sección más completa para promociones y descuentos, donde los dueños puedan activar ofertas por días y que estas se desactiven automáticamente, ya que muchos clientes buscan primero promociones antes que el restaurante. Además, sugirió mejorar la distribución del menú y permitir organizar mejor los productos.
+
+Respecto al sistema de reseñas, indicó que sería valioso incluir opciones predeterminadas (como “Excelente”, “Muy bueno”, “Lo recomiendo”) para facilitar la participación de usuarios que no siempre quieren redactar comentarios completos. También recomendó que en el mapa, al aplicar un filtro (por ejemplo, “Pollos”), se muestren todos los huariques filtrados al mismo tiempo, sin necesidad de hacer clic uno por uno.
+
+Finalmente, mencionó que PuntoSabor sí puede mejorar significativamente la visibilidad de un huarique y atraer nuevos clientes, aunque considera importante ajustar los precios de los planes o incrementar el valor que ofrecen para justificar la inversión.
 
 ## 5.3.3 Evaluaciones según heurísticas
 Sitio o App a evaluar:
