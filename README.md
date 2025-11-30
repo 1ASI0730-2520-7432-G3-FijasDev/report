@@ -1945,6 +1945,17 @@ En esta sección se muestra cómo el equipo ha trabajado de forma colaborativa p
 
 # 5.2.4.2. Aspect Leaders and Collaborators
 
+En este punto se presenta la matriz Leadership-and-Collaboration (LACX) asignada al Sprint 4. Este documento detalla la distribución de responsabilidades, identificando a los líderes y colaboradores encargados de cada módulo del proyecto PuntoSabor.
+
+| Team Member (Last Name, First Name) | GitHub Username | Notifications              | MONITORING              | PREFERENCES         | ANALYTICS                 | SUBSCRIPTIONS               |
+|------------------------------------|------------------|----------------------------|-------------------------|---------------------|---------------------------|-----------------------------|
+| Delgado Carrasco, Schneider        | schneiderdc      | C                          | C                       | L                   | C                         | C                           |
+| Lopez Goitia, Carlos Alberto       | CarlosAlb101     | L                          | C                       | C                   | C                         | C                           |
+| Tumi Oliden, Manuel Ignacio        | ManuelTumi2224   | C                          | C                       | C                   | L                         | C                           |
+| Vega Coronado, Fabricio Samir      | Fabricio1v       | C                          | L                       | C                   | C                         | C                           |
+| Villanueva Andrade, Ysaac Ligorio  | YsaacVillanueva  | C                          | C                       | C                   | C                         | L                           |
+
+
 # 5.2.4.3. Sprint Backlog 4
 
 # 5.2.4.4. Development Evidence for Sprint Review
