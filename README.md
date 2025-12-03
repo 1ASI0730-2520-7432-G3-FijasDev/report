@@ -1913,14 +1913,11 @@ Evidencias de la aplicación web
 
 ![alt text](assets/Mapa.png)
 
-Evidencias de los endpoints realizados con el backend
-
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se presenta el listado de endpoints del sistema, junto con su respectiva documentación técnica y descripción de uso.
 
-![alt text](assets/backend.png)
-
+![alt text](assets/backend1.png)
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
 Link de la landing page: https://1asi0730-2520-7432-g3-fijasdev.github.io/PuntoSabor-LandingPage
@@ -1931,7 +1928,7 @@ En esta sección se presentan de forma resumida las actividades de Deployment re
 
 ![alt text](assets/Vercel.jpeg)
 
-![alt text](assets/backend.png)
+![alt text](assets/backend1.png)
 
 ## 5.2.3.8. Team Collaboration Insights during Sprint
 En esta sección se muestra cómo el equipo ha trabajado de forma colaborativa para completar la entrega de este sprint. Asimismo, se presentan las métricas relacionadas con el desarrollo del Backend.
@@ -2128,6 +2125,7 @@ Vemos que la API se puede acceder correctamente en entorno local mediante Swagge
 ![alt text](assets/apiswagger.png)
 # 5.2.4.8. Team Collaboration Insights during Sprint
 
+
 # 5.3 Validation Interviews
 
 ## 5.3.1 Diseño de Entrevistas
@@ -2166,7 +2164,8 @@ El objetivo de estas entrevistas es evaluar la experiencia del usuario al intera
 - ¿Qué tan útil te parece la plataforma para administrar y promocionar tu huarique de forma digital?
 
 ## 5.3.2 Registro de Entrevistas
-
+En esta sección se evidencia cómo el equipo ha colaborado para sacar adelante la entrega correspondiente al Sprint 4. Además, se incluyen las métricas que reflejan el avance y el desempeño del backend, **frontend y la landing page durante esta iteración.
+  
 ### Entrevista M1 – Segmento 1 (Usuario Comensal)
 
 Entrevistador: Ysaac Villanueva
@@ -2302,7 +2301,7 @@ El alcance de esta evaluación incluye revisar la usabilidad, claridad y consist
 
 # 5.4. Video About-the-Product
 
-
+https://drive.google.com/file/d/1IFWF2grAcX5bDUyp4jeoviRTwzra_2JY/view
 
 # Conclusiones
 
