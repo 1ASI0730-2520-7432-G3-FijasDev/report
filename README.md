@@ -2081,7 +2081,51 @@ A continuación se presentan los avances del desarrollo de la aplicación web, i
 - Repositorio Frontend: https://github.com/1ASI0730-2520-7432-G3-FijasDev/Frontend---PuntoSabor           
 - Repositorio Backend:https://github.com/1ASI0730-2520-7432-G3-FijasDev/PuntoSabor-Backend
 
-
+| Repo                     | Commit   | Branch   | Mensaje                                                                 |
+|--------------------------|----------|----------|--------------------------------------------------------------------------|
+| Frontend---PuntoSabor    | 11391a1  | develop  | Merge pull request #26 from 1ASI0730-2520-7432-G3-FijasDev/Manuel        |
+| Frontend---PuntoSabor    | b3f4cb0  | develop  | feat: link reviews with logged user and fix i18n                         |
+| Frontend---PuntoSabor    | 91e1fca  | develop  | feat: upload base-endpoint and env.development                           |
+| Frontend---PuntoSabor    | ea25ede  | develop  | fix: locales                                                             |
+| Frontend---PuntoSabor    | 5e2680d  | develop  | Merge pull request #25 from 1ASI0730-2520-7432-G3-FijasDev/Carlos        |
+| Frontend---PuntoSabor    | 82620b1  | develop  | Merge branch 'Develop' into Carlos                                       |
+| Frontend---PuntoSabor    | 854f2fb  | develop  | feat: open/closed status badge by hours                                  |
+| Frontend---PuntoSabor    | c0a1dc3  | develop  | feat: add incorrect information report                                   |
+| Frontend---PuntoSabor    | 06b7693  | develop  | Merge pull request #24 from 1ASI0730-2520-7432-G3-FijasDev/Ysaac         |
+| Frontend---PuntoSabor    | 20ee11e  | develop  | feat: es.json and en.json in preferences                                 |
+| Frontend---PuntoSabor    | 4afaf3e  | develop  | Merge pull request #23 from 1ASI0730-2520-7432-G3-FijasDev/Ysaac         |
+| PuntoSabor-LandingPage   | c96d7d9  | main     | Merge pull request #9 from 1ASI0730-2520-7432-G3-FijasDev/feature/carlos |
+| PuntoSabor-LandingPage   | e11c687  | main     | fix: html and style                                                      |
+| PuntoSabor-LandingPage   | b3e367b  | main     | Merge branch 'develop' into feature/carlos                               |
+| PuntoSabor-LandingPage   | 261fe00  | main     | LandingPage                                                              |
+| PuntoSabor-LandingPage   | 73331b0  | main     | Merge pull request #7 from 1ASI0730-2520-7432-G3-FijasDev/feature/ysaac  |
+| PuntoSabor-LandingPage   | c390d01  | main     | feat: fix css                                                            |
+| PuntoSabor-LandingPage   | c0d72f0  | main     | Merge pull request #6 from 1ASI0730-2520-7432-G3-FijasDev/feature/carlos |
+| PuntoSabor-LandingPage   | 425aa5a  | main     | LandingPage: Contactos                                                   |
+| PuntoSabor-LandingPage   | 9399289  | main     | feat: fix phrase                                                         |
+| PuntoSabor-LandingPage   | 7d9630a  | main     | Merge pull request #5 from 1ASI0730-2520-7432-G3-FijasDev/feature/ysaac  |
+| PuntoSabor-LandingPage   | 59378c1  | main     | Merge pull request #4 from 1ASI0730-2520-7432-G3-FijasDev/feature/carlos |
+| PuntoSabor-LandingPage   | 849a19c  | main     | LandingPage Contactanos                                                  |
+| PuntoSabor-LandingPage   | d6616b9  | main     | LandingPage: Contactanos                                                 |
+| PuntoSabor-Backend       | 10acd95  | develop  | Merge pull request #7 from 1ASI0730-2520-7432-G3-FijasDev/feature/sprint4-schneider |
+| PuntoSabor-Backend       | 524c390  | develop  | fix: summary                                                             |
+| PuntoSabor-Backend       | c126572  | develop  | Merge pull request #6 from 1ASI0730-2520-7432-G3-FijasDev/feature/sprint4-carlos |
+| PuntoSabor-Backend       | 67ff3f6  | develop  | Merge branch 'develop' into feature/sprint4-carlos                      |
+| PuntoSabor-Backend       | 0e6b353  | develop  | fix: obj                                                                 |
+| PuntoSabor-Backend       | 22b2fb1  | develop  | Merge pull request #5 from 1ASI0730-2520-7432-G3-FijasDev/feature/sprint4-schneider |
+| PuntoSabor-Backend       | ed2b4e3  | develop  | feat: summary                                                            |
+| PuntoSabor-Backend       | 352156b  | develop  | Merge pull request #4 from 1ASI0730-2520-7432-G3-FijasDev/feature/sprint4-schneider |
+| PuntoSabor-Backend       | 18a2f37  | develop  | fix: code order                                                          |
+| PuntoSabor-Backend       | 16be063  | develop  | fix: code order                                                          |
+| PuntoSabor-Backend       | 20aeb63  | develop  | feat: responsive                                                         |
+| PuntoSabor-Backend       | eef2e11  | develop  | Merge pull request #3 from 1ASI0730-2520-7432-G3-FijasDev/feature/sprint4-ysaac |
+| PuntoSabor-Backend       | 45ff675  | develop  | feat: upload program.cs                                                  |
+| PuntoSabor-Backend       | e81704f  | develop  | Merge pull request #2 from 1ASI0730-2520-7432-G3-FijasDev/feature/sprint4-manuel |
+| PuntoSabor-Backend       | 840c47f  | develop  | feat: Create API and connection with FrontEnd                            |
+| PuntoSabor-Backend       | ee32070  | develop  | Merge pull request #1 from 1ASI0730-2520-7432-G3-FijasDev/feature/sprint4-fabricio |
+| PuntoSabor-Backend       | 817b21b  | develop  | feat: Initial Database                                                   |
+| PuntoSabor-Backend       | af44ff6  | develop  | feat: backend ready with EF Core, migrations and Users API integration  |
+| PuntoSabor-Backend       | e453db4  | develop  | first commit                                                             |
 
 # 5.2.4.5. Execution Evidence for Sprint Review
 Se mejoró la vista de Mapa en el frontend de PuntoSabor, mostrando en la ficha del restaurante si está abierto o cerrado para que el usuario lo identifique al instante.
@@ -2124,6 +2168,19 @@ Vemos que la API se puede acceder correctamente en entorno local mediante Swagge
 
 ![alt text](assets/apiswagger.png)
 # 5.2.4.8. Team Collaboration Insights during Sprint
+En esta sección se evidencia cómo el equipo ha colaborado para sacar adelante la entrega correspondiente al Sprint 4. Además, se incluyen las métricas que reflejan el avance y el desempeño del backend, frontend y la landing page durante esta iteración.
+
+Backend:
+
+![alt text](assets/backend4.png)
+
+Frontend
+
+![alt text](assets/frontend4.png)
+ 
+LandingPage:
+
+![alt text](assets/landingpage4.png)
 
 
 # 5.3 Validation Interviews
@@ -2164,8 +2221,6 @@ El objetivo de estas entrevistas es evaluar la experiencia del usuario al intera
 - ¿Qué tan útil te parece la plataforma para administrar y promocionar tu huarique de forma digital?
 
 ## 5.3.2 Registro de Entrevistas
-En esta sección se evidencia cómo el equipo ha colaborado para sacar adelante la entrega correspondiente al Sprint 4. Además, se incluyen las métricas que reflejan el avance y el desempeño del backend, **frontend y la landing page durante esta iteración.
-  
 ### Entrevista M1 – Segmento 1 (Usuario Comensal)
 
 Entrevistador: Ysaac Villanueva
