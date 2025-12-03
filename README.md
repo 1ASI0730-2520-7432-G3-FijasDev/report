@@ -2078,13 +2078,54 @@ Tareas que se realizarán en este sprint por el lado del frontend.
 | **US26** | Promociones destacadas | Como dueño Pro, quiero publicar promociones destacadas en listados. | 3 | schneiderdc | Done |
 
 # 5.2.4.4. Development Evidence for Sprint Review
+A continuación se presentan los avances del desarrollo de la aplicación web, incluyendo las mejoras realizadas en el frontend y la evidencia de los commits registrados en GitHub.
+
+- Repositorio Landing: https://github.com/1ASI0730-2520-7432-G3-FijasDev/PuntoSabor-LandingPage          
+- Repositorio Frontend: https://github.com/1ASI0730-2520-7432-G3-FijasDev/Frontend---PuntoSabor           
+- Repositorio Backend:https://github.com/1ASI0730-2520-7432-G3-FijasDev/PuntoSabor-Backend
+
+
 
 # 5.2.4.5. Execution Evidence for Sprint Review
+Se mejoró la vista de Mapa en el frontend de PuntoSabor, mostrando en la ficha del restaurante si está abierto o cerrado para que el usuario lo identifique al instante.
+
+![alt text](assets/mapamejorado.png)
+
+Se mejoró el landing page adaptándolo a formato móvil, ajustando la distribución de elementos, tipografías y botones para lograr una navegación responsive y más cómoda.
+
+![alt text](assets/landingmejorado.png)
+
+
+Se mejoró la experiencia de personalización del usuario incorporando la vista de preferencias, donde se configuran tipos de cocina, presupuesto por persona y distrito.
+
+![alt text](assets/preferencias.png)
+
+Se mejoró el frontend habilitando la sección Mis huariques favoritos, donde el usuario puede guardar los locales marcados como favoritos para acceder a ellos rápidamente.
+
+![alt text](assets/preferenciasmejoradas.png)
+
+Se mejoró el frontend incorporando la vista Registrar huarique, permitiendo que el dueño cree su propio huarique ingresando datos, dirección, horarios, servicios y menú.
+
+![alt text](assets/registrohuarique.png)
+
+Se mejoró el frontend incorporando la opción de reportar información incorrecta de un huarique, permitiendo corregir datos como horarios y enviar un reporte con el valor correcto.
+
+![alt text](assets/report.png)
 
 # 5.2.4.6. Services Documentation Evidence for Sprint Review
+Se implementaron endpoints adicionales relacionados con la lógica de negocio. En este sprint se agregó el endpoint de actualización parcial de huariques para editar información específica a partir de su identificador.
+| Método | Endpoint        | Descripción                                     |
+|-------|------------------|-------------------------------------------------|
+| PATCH | /huariques/{id}  | Actualiza parcialmente un huarique según su id. |
 
 # 5.2.4.7. Software Deployment Evidence for Sprint Review
+La API se levantó localmente desde Rider en modo desarrollo para pruebas de sprint. Se habilitó Swagger, se configuró CORS para permitir consumo desde el frontend en Vite y se inicializó la base de datos con datos semilla para validar los flujos.
 
+![alt text](assets/api.png)
+
+Vemos que la API se puede acceder correctamente en entorno local mediante Swagger, a través del enlace: http://localhost:5048/swagger/index.html
+
+![alt text](assets/apiswagger.png)
 # 5.2.4.8. Team Collaboration Insights during Sprint
 
 # 5.3 Validation Interviews
