@@ -1943,6 +1943,102 @@ En esta sección se muestra cómo el equipo ha trabajado de forma colaborativa p
 
 # 5.2.4.1. Sprint Planning 4
 
+En este apartado presentamos el cuadro correspondiente al Sprint Planning 4 de nuestro startup PuntoSabor, donde se registran los puntos más relevantes acordados durante la reunión de planificación del equipo FijasDev.
+
+<div>
+ <table> 
+ <thead> 
+ <tr> 
+ <th># Número</th> <th>Sprint 4</th> 
+ </tr> 
+ <tr> <th colspan=2>Sprint Planning Background</th> 
+ </tr> 
+ </thead>
+ <tr align='center'>
+   <td>Date</td>
+   <td>30-11-2025</td>
+ </tr>
+
+ <tr>
+   <td>Time</td>
+   <td>20:00 PM</td>
+ </tr>
+
+ <tr>
+   <td>Location</td>
+   <td>Remote mode through GitHub, Discord & Trello</td>
+ </tr>
+
+ <tr>
+   <td>Prepared by</td>
+   <td> Vega Coronado, Fabricio Samir </td>
+ </tr>
+
+ <tr>
+   <td>Attendees</td>
+   <td>
+     Delgado Carrasco, Schneider <br>
+     Lopez Goitia, Carlos Alberto <br>
+     Tumi Oliden, Manuel Ignacio <br>
+     Vega Coronado, Fabricio Samir <br>
+     Villanueva Andrade, Ysaac Ligorio
+   </td>
+ </tr>
+
+ <tr>
+  <td>Sprint n-3 Review Summary</td>
+  <td>
+    Como conclusión del Sprint 3, el equipo acordó mejorar la distribución y seguimiento de tareas, mantener una
+    comunicación más constante dentro del repositorio y registrar el avance de forma centralizada en Trello.
+    Asimismo, se estableció estandarizar los commits y reforzar la revisión cruzada de pull requests para asegurar calidad.
+  </td>
+</tr>
+
+ <tr>
+  <td>Sprint n-2 Review Summary</td>
+  <td>
+    En el cierre del Sprint 2 se confirmó una primera versión operativa de la aplicación web de PuntoSabor.
+    Se avanzó con el enrutamiento base, los primeros módulos visuales y la versión final de la landing page,
+    además de integrar servicios simulados mediante JSON Server. También se ajustaron detalles de estilos y
+    se fortaleció la documentación de arquitectura solicitada por el profesor.
+  </td>
+</tr>
+
+<tr>
+  <td>Sprint n-1 Retrospective Summary</td>
+  <td>
+    En la revisión del Sprint 1 se dejaron sentadas las bases del proyecto PuntoSabor: organización del repositorio,
+    lineamientos de trabajo y una primera estructura funcional para iniciar el desarrollo. Esto permitió arrancar con
+    un flujo de trabajo más ordenado para los siguientes sprints.
+  </td>
+</tr>
+
+ <tr>
+    <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+ </tr>
+
+ <tr>
+  <td>Sprint 4 Goal</td>
+  <td>
+    Desarrollar y entregar una versión mejorada y corregida de PuntoSabor, consolidando los ajustes de frontend y backend:
+    corrección de errores, mejoras de interfaz y experiencia, integración estable de APIs/endpoints y una base de funcionamiento
+    más consistente para las funcionalidades principales.
+  </td>
+</tr>
+
+ <tr>
+    <td>Sprint 4 velocity</td>
+    <td>15</td>
+ </tr>
+
+ <tr>
+    <td>Sum of Story Points</td>
+    <td>50 Story Points</td>
+ </tr>
+
+</table> 
+</div>
+
 # 5.2.4.2. Aspect Leaders and Collaborators
 
 En este punto se presenta la matriz Leadership-and-Collaboration (LACX) asignada al Sprint 4. Este documento detalla la distribución de responsabilidades, identificando a los líderes y colaboradores encargados de cada módulo del proyecto PuntoSabor.
