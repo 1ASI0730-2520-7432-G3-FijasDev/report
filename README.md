@@ -2360,15 +2360,15 @@ https://drive.google.com/file/d/1IFWF2grAcX5bDUyp4jeoviRTwzra_2JY/view
 
 # Conclusiones
 
-- El desarrollo del proyecto PuntoSabor permitió aplicar de manera integral los principios y prácticas de Ingeniería de Software en el marco de una startup tecnológica orientada a resolver una problemática real: la baja visibilidad digital de los huariques o pequeños negocios gastronómicos locales.
+Durante el desarrollo de los cuatro sprints, el equipo logró consolidar tanto la base técnica del proyecto como una dinámica de trabajo más organizada y colaborativa. En el Sprint 1, sentamos los cimientos del proyecto: estructuramos el repositorio, definimos el flujo de trabajo con GitHub, organizamos roles y construimos la primera versión del landing page. También se diseñaron los componentes iniciales en Figma y se preparó el entorno para seguir avanzando en el producto.
 
-- Durante el proceso, se utilizaron técnicas de elicitation y análisis de requerimientos, como entrevistas, user personas, empathy mapping, journey mapping y scenario mapping, que permitieron comprender a fondo las necesidades tanto de los exploradores gastronómicos como de los dueños de huariques. Esto garantizó que la solución propuesta esté centrada en el usuario y orientada a generar valor.
+En el Sprint 2, dimos un salto importante al construir la primera versión funcional de la aplicación web. Implementamos la búsqueda avanzada, la vista de mapa, el registro de huariques y las categorías, además de desplegar la primera versión en producción. Se integró una fake API mediante JSON Server y Render, lo que permitió probar los flujos reales entre frontend y backend. Asimismo, se reforzó el uso de GitFlow, ramas por funcionalidad y despliegues en Netlify y Vercel.
 
-- La construcción del Ubiquitous Language y la aplicación de Big Picture Event Storming y Design Level Event Storming facilitaron un entendimiento común del dominio del negocio y tradujeron las interacciones en eventos, comandos y agregados, dando solidez al diseño de la arquitectura orientada al dominio (DDD).
+En el Sprint 3 se desarrollaron funcionalidades más completas y orientadas al comportamiento real del usuario, como registro e inicio de sesión, reseñas, favoritos, membresías y notificaciones iniciales. También se implementó la primera versión del backend con endpoints reales, base de datos inicial, controladores y documentación en Swagger. Esto permitió avanzar en la integración entre los módulos del sistema y mejorar la calidad de la plataforma.
 
-- Asimismo, se diseñaron User Stories con criterios de aceptación claros, un backlog estructurado, y se aplicaron prácticas de Lean UX para validar hipótesis de negocio. El diseño de la arquitectura de software y la base de datos, complementado con prototipos de interfaz y lineamientos de estilo, brindaron la base para la implementación técnica de la solución.
+Finalmente, en el Sprint 4, nos enfocamos en refinar la experiencia del usuario y mejorar aspectos visuales, flujos internos y estabilidad general. Se añadieron mejoras en el mapa, preferencias personalizadas, huariques favoritos, reportes de información incorrecta y una versión responsive del landing page. Además, se consolidó la integración con el backend, corrigiendo errores, organizando endpoints y asegurando compatibilidad con el frontend.
 
-- En conclusión, PuntoSabor no solo representa un proyecto académico, sino también una propuesta tecnológica viable para impulsar la digitalización de pequeños negocios gastronómicos. La experiencia permitió al equipo fortalecer competencias en análisis, diseño y construcción de software, aplicando metodologías ágiles y buenas prácticas de ingeniería.
+A lo largo de los sprints, el equipo mejoró notablemente su organización interna, fortaleció la comunicación, aplicó buenas prácticas en Git y aprendió a coordinar mejor entre frontend, backend y diseño. Esto permitió que cada entrega fuera más sólida que la anterior.
 # Bibliografía
 
 - Brown, A., & Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley.
