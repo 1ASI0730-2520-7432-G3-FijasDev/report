@@ -2054,6 +2054,29 @@ En este punto se presenta la matriz Leadership-and-Collaboration (LACX) asignada
 
 # 5.2.4.3. Sprint Backlog 4
 
+En este apartado se presenta el Sprint Backlog correspondiente al Sprint 4 del proyecto PuntoSabor. Para esta iteración, se seleccionaron únicamente las historias que aún requieren desarrollo o ajustes, dejando fuera aquellas que ya fueron completadas en sprints anteriores o que figuran con estado “Done”.
+
+El objetivo del Sprint Backlog 4 es ordenar y mostrar de forma clara las funcionalidades que se implementarán en este sprint, junto con su responsable asignado, nivel de complejidad y estado actual de avance. En la siguiente tabla se resumen las User Stories pendientes de cierre durante esta iteración.
+
+Tareas que se realizarán en este sprint por el lado del frontend.
+
+| User Story ID | Title | Description | Story Points | Assigned To | Status |
+|---------------|--------|-------------|--------------|-------------|--------|
+| **US03** | Guardar favoritos | Como usuario, puedo guardar huariques para acceder fácilmente después. | 3 | ManuelTumi2224 | Done |
+| **US05** | Actualización de información | Como dueño, puedo modificar los datos de mi huarique para mantenerlos actualizados. | 3 | ManuelTumi2224 | In-Progress |
+| **US07** | Envío de reseñas | Como usuario, puedo dejar una reseña y calificación en un huarique. | 3 | Fabricio1v | Done |
+| **US08** | Moderación automática | Como sistema, debo detectar reseñas inapropiadas y bloquearlas. | 5 | schneiderdc | In-Progress |
+| **US11** | Configuración de notificaciones | Como usuario, puedo activar o desactivar notificaciones a mi preferencia. | 2 | ManuelTumi2224 | In-Progress |
+| **US12** | Notificación de nuevas reseñas | Como dueño, recibo alertas cuando hay reseñas nuevas en mi huarique. | 2 | Fabricio1v | In-Progress |
+| **US16** | Recuperación de contraseña | Como usuario, puedo recuperar mi contraseña en caso de olvido. | 2 | schneiderdc | In-Progress |
+| **US17** | Configuración de preferencias | Como usuario, puedo guardar mis preferencias de cocina, presupuesto y ubicación. | 3 | YsaacVillanueva | In-Progress |
+| **US19** | Sugerencias por ubicación | Como usuario, quiero recibir recomendaciones de huariques cercanos a mi ubicación actual. | 3 | CarlosAlb101 | In-Progress |
+| **US21** | Reporte de información incorrecta | Como usuario, puedo reportar si un huarique tiene datos erróneos. | 2 | CarlosAlb101 | In-Progress|
+| **US22** | Validación automática de estado | Como sistema, quiero mostrar si un huarique está abierto o cerrado en tiempo real. | 5 | CarlosAlb101 | In-Progress |
+| **US24** | Pago de suscripción | Como dueño, quiero pagar mi membresía mediante tarjeta o billetera digital de forma segura. | 5 | schneiderdc | Done |
+| **US25** | Facturación y comprobantes | Como dueño, quiero descargar facturas mensuales de mis pagos. | 3 | YsaacVillanueva | Done |
+| **US26** | Promociones destacadas | Como dueño Pro, quiero publicar promociones destacadas en listados. | 3 | schneiderdc | Done |
+
 # 5.2.4.4. Development Evidence for Sprint Review
 
 # 5.2.4.5. Execution Evidence for Sprint Review
