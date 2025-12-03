@@ -2128,6 +2128,19 @@ A continuación se presentan los avances del desarrollo de la aplicación web, i
 | PuntoSabor-Backend       | e453db4  | develop  | first commit                                                             |
 
 # 5.2.4.5. Execution Evidence for Sprint Review
+
+Se presentarán los avances logrados en el desarrollo de la aplicación web, incluyendo su despliegue en Swagger y los endpoints implementados para garantizar su correcto funcionamiento. A continuación, se detallan los endpoints creados junto con su respectivo comportamiento, tal como se visualizan en Swagger:
+
+![alt text](assets/swagger1.png)
+
+![alt text](assets/swagger2.png)
+
+![alt text](assets/swagger3.png)
+
+Finalmente, se presentan los Schemas y Resources correspondientes a los endpoints implementados:
+
+![alt text](assets/swagger4.png)
+
 Se mejoró la vista de Mapa en el frontend de PuntoSabor, mostrando en la ficha del restaurante si está abierto o cerrado para que el usuario lo identifique al instante.
 
 ![alt text](assets/mapamejorado.png)
@@ -2155,9 +2168,20 @@ Se mejoró el frontend incorporando la opción de reportar información incorrec
 
 # 5.2.4.6. Services Documentation Evidence for Sprint Review
 Se implementaron endpoints adicionales relacionados con la lógica de negocio. En este sprint se agregó el endpoint de actualización parcial de huariques para editar información específica a partir de su identificador.
-| Método | Endpoint        | Descripción                                     |
-|-------|------------------|-------------------------------------------------|
-| PATCH | /huariques/{id}  | Actualiza parcialmente un huarique según su id. |
+
+| Método | Endpoint           | Descripción                                                     |
+|--------|---------------------|-----------------------------------------------------------------|
+| GET    | /huariques          | Obtiene la lista de huariques registrados.                     |
+| POST   | /huariques          | Crea un nuevo huarique.                                        |
+| GET    | /huariques/{id}     | Devuelve la información de un huarique según su id.            |
+| PATCH  | /huariques/{id}     | Actualiza parcialmente un huarique según su id.                |
+| GET    | /users             | Lista los usuarios registrados.                                |
+| POST   | /users             | Crea un nuevo usuario.                                          |
+| GET    | /categories        | Obtiene la lista de categorías disponibles.                     |
+| GET    | /plans             | Devuelve los planes registrados.                                |
+| GET    | /promos            | Obtiene las promociones disponibles.                            |
+| GET    | /reviews           | Lista todas las reseñas registradas.                            |
+| POST   | /reviews           | Crea una nueva reseña.                                          |
 
 # 5.2.4.7. Software Deployment Evidence for Sprint Review
 La API se levantó localmente desde Rider en modo desarrollo para pruebas de sprint. Se habilitó Swagger, se configuró CORS para permitir consumo desde el frontend en Vite y se inicializó la base de datos con datos semilla para validar los flujos.
