@@ -8,7 +8,7 @@
 
 <strong>Ingeniería de Software - 2025-2</strong><br>
 <strong>1ASI0730 - Aplicaciones Web</strong><br>
-<strong>NRC: 7432<br>
+<strong>NRC: 7432</strong><br>
 <strong>Profesor: Oscar Ivan Villafuerte Bazan</strong><br>
 
 <br><strong>Informe del Trabajo Final</strong><br><br>
