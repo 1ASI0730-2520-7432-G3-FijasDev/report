@@ -2165,9 +2165,6 @@ Evidencias de la aplicación web
 
 ![alt text](assets/Membrensia.png)
 
-![alt text](assets/Mapa.png)
-
-
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección se presenta el listado de endpoints del sistema, junto con su respectiva documentación técnica y descripción de uso.
 
