@@ -28,33 +28,139 @@
 |  Vega Coronado Fabricio Samir   | u202317000 |
 |  Villanueva Andrade Ysaac Ligorio  | u20231c168 |
 
-<strong> Setiembre 2025</strong><br>
+<strong> Diciembre 2025</strong><br>
 </div>
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor        | Descripción de modificación                   |
-|---------|------------|--------------|-----------------------------------------------|
-| 1.0     | 10/09/2025 | Fabricio Vega | Creación de la estructura inicial del reporte |
-| 1.1        | 12/09/2025           | Fabricio Vega             | Realizó todo el capitulo 1, hizo actualizaciones en entrevistas, competidores, user stories, todo el needfinding y ubiquitous Language   |
-| 1.2| 12/09/2025| Ysaac Villanueva| Hizo el registro de entrevistas, analisis y completó las user stories| |
-|1.3| 13/09/2025| Ysaac Villanueva| Realizó actualizaciones en el Tobe scenario mapping y el product backlog|
-|1.4| 14/09/2025|Manuel Tumi|Realizó actualizaciones en el as is scenario map y en el style guidelines|
-|1.5|17/09/2025|Schneider Delgado| Realizó el landing page wireframe, web browse, actualización en el landigng page, web app wireflow diagrams y parte del domain driven software architecture |
-|1.6|17/09/2025|Carlos Lopez| Realizó actualizaciones y correciones en el landing page mockup, web applications mock-ups y mock-ups mobile |
-|1.7|18/09/2025|Carlos Lopez| Realizó el web app user flow diagrams y sofware components diagrams |
-|1.8|19/09/2025|Schneider Delgado| Realizó diagramas de contexto |
-|1.9|/09/2025|Ysaac Villanueva| Realizó actualizaciones en el analisis de entrevistas y parte de el product implmentation, validation & deployment |
-|1.10|19/09/2025|Fabricio Vega| Realizó actualizaciones en el analsis de competidores, ubiquitous language y aportó en los diagramas de clase|
-|1.11|19/09/2025|Manuel Tumi| Realizó parte del class diagrams, class dictionary and database diagram. Además realizó actualizaciones del sprint 1 y registró entrevistas|
-|1.12|19/09/2025|Schneider Delgado| Realizó partes del event storming junto a mas integrantes del grupo|
-|1.13|19/09/2025|Todo el equipo| Realizó aportes en el landing page |
-|1.14|19/09/2025|Todo el equipo| Realizó el design level event storming |
-|1.15|19/09/2025|Fabricio Vega| Realizó  actualizaciones en el registro de versiones del informe|
-|1.16|1/10/2025| Fabricio Vega | Orginizó el Sprint Planning 2 para proceder con la codificacion en la web |
-|1.17|8/10/2025| Fabricio Vega |  Realizó todas la documentacion para el sprint 2 |
-|1.17|8/10/2025| Schneider Delgado | Realizó el sprint backlog 2 |
----
+<table>
+  <tr>
+    <th>Version</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de modificación </th>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>2025-09-19</td>
+    <td>
+      <ul> 
+        <li>Delgado Carrasco, Schneider</li> 
+        <li>Lopez Goitia, Carlos Alberto</li> 
+        <li>Tumi Oliden Manuel Ignacio</li>
+        <li>Vega Coronado Fabricio Samir</li>
+        <li>Villanueva Andrade Ysaac Ligorio</li>
+      </ul>
+    </td>
+    <td> Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Student Outcome</li>
+          <li>Capítulo I: Introducción</li>
+        <li>Capítulo II: Requirements Elicitation & Analysis</li>
+        <li>Capítulo III: Requirements Specification</li>
+        <li>Capítulo IV: Product Design</li>
+        <li>Capítulo V: Product Implementation, Validation & Deployment</li>
+        <li>5.1. Software Configuration Management</li>
+        <li>5.1.1. Software Development Environment Configuration</li>
+        <li>5.1.2. Source Code Management</li>
+        <li>5.1.3. Source Code Style Guide & Conventions</li>
+        <li>5.1.4. Software Deployment Configuration</li>
+        <li>5.2. Landing Page, Services & Applications Implementation</li>
+        <li>5.2.1. Sprint 1</li>
+        <li>5.2.1.1. Sprint Planning 1</li>
+        <li>5.2.1.2. Aspect Leaders and Collaborators</li>
+        <li>5.2.1.3. Sprint Backlog 1</li>
+        <li>5.2.1.4. Development Evidence for Sprint Review</li>
+        <li>5.2.1.5. Execution Evidence for Sprint Review</li>
+        <li>5.2.1.6. Services Documentation Evidence for Sprint Review</li>
+        <li>5.2.1.7. Software Deployment Evidence for Sprint Review</li>
+        <li>5.2.1.8. Team Collaboration Insights during Sprint</li>
+        <li>Conclusiones</li>
+        <li>Bibliografía</li>
+        <li>Anexos</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <td>TP1</td>
+    <td>2025-10-08</td>
+    <td>
+      <ul> 
+        <li>Delgado Carrasco, Schneider</li> 
+        <li>Lopez Goitia, Carlos Alberto</li> 
+        <li>Tumi Oliden Manuel Ignacio</li>
+        <li>Vega Coronado Fabricio Samir</li>
+        <li>Villanueva Andrade Ysaac Ligorio</li>
+      </ul>
+    </td>
+    <td> Se han incluído los siguientes capítulos y secciones:
+        <ul>
+          <li>5.2.2. Sprint 2</li>
+          <li>5.2.2.1. Sprint Planning 2</li>
+          <li>5.2.2.2. Aspect Leaders and Collaborators</li>
+          <li>5.2.2.3. Sprint Backlog 2</li>
+          <li>5.2.2.4. Development Evidence for Sprint Review</li>
+          <li>5.2.2.5. Execution Evidence for Sprint Review</li>
+          <li>5.2.2.6. Services Documentation Evidence for Sprint Review</li>
+          <li>5.2.2.7. Software Deployment Evidence for Sprint Review</li>
+          <li>5.2.2.8. Team Collaboration Insights during Sprint</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <td>TB2</td>
+    <td>2025-11-14</td>
+    <td>
+      <ul> 
+        <li>Delgado Carrasco, Schneider</li> 
+        <li>Lopez Goitia, Carlos Alberto</li> 
+        <li>Tumi Oliden Manuel Ignacio</li>
+        <li>Vega Coronado Fabricio Samir</li>
+        <li>Villanueva Andrade Ysaac Ligorio</li>
+      </ul>
+    </td>
+    <td> Se han incluído los siguientes capítulos y secciones:
+        <ul>
+          <li>5.2.3. Sprint 3</li>
+          <li>5.2.3.1. Sprint Planning 3</li>
+          <li>5.2.3.2. Aspect Leaders and Collaborators</li>
+          <li>5.2.3.3. Sprint Backlog 3</li>
+          <li>5.2.3.4. Development Evidence for Sprint Review</li>
+          <li>5.2.3.5. Execution Evidence for Sprint Review</li>
+          <li>5.2.3.6. Services Documentation Evidence for Sprint Review</li>
+          <li>5.2.3.7. Software Deployment Evidence for Sprint Review</li>
+          <li>5.2.3.8. Team Collaboration Insights during Sprint</li>
+          <li>5.3. Validation Interviews</li>
+          <li>5.3.1. Diseño de Entrevistas</li>
+          <li>5.3.2. Registro de Entrevistas</li>
+          <li>5.3.3. Evaluaciones según heurísticas</li>
+          <li>5.4. Video About-the-Product</li>
+        </ul></td>
+  </tr>
+  <tr>
+    <td>TF1</td>
+    <td>2025-12-03</td>
+    <td>
+      <ul> 
+        <li>Delgado Carrasco, Schneider</li> 
+        <li>Lopez Goitia, Carlos Alberto</li> 
+        <li>Tumi Oliden Manuel Ignacio</li>
+        <li>Vega Coronado Fabricio Samir</li>
+        <li>Villanueva Andrade Ysaac Ligorio</li>
+      </ul>
+    </td>
+    <td> Se han incluído los siguientes capítulos y secciones:
+        <ul>
+          <li>5.2.4. Sprint 4</li>
+          <li>5.2.4.1. Sprint Planning 4</li>
+          <li>5.2.4.2. Aspect Leaders and Collaborators</li>
+          <li>5.2.4.3. Sprint Backlog 4</li>
+          <li>5.2.4.4. Development Evidence for Sprint Review</li>
+          <li>5.2.4.5. Execution Evidence for Sprint Review</li>
+          <li>5.2.4.6. Services Documentation Evidence for Sprint Review</li>
+          <li>5.2.4.7. Software Deployment Evidence for Sprint Review</li>
+          <li>5.2.4.8. Team Collaboration Insights during Sprint</li>
+        </ul></td>
+  </tr>
+</table>
 
 ## Contenido
 - [Student Outcome](#student-outcome)
@@ -165,19 +271,157 @@
 
 ## Student Outcome
 
-El curso contribuye al cumplimiento del Student Outcome ABET:
-
-**ABET – EAC - Student Outcome 5**
-**Criterio:** *Capacidad de comunicarse efectivamente con un rango de audiencias.*
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
-del ABET – EAC - Student Outcome 3.
-
-| Criterio específico                                                                              | Acciones realizadas | Conclusiones |
-|--------------------------------------------------------------------------------------------------|---------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia.                                  | Se realizaron presentaciones grupales para explicar la idea del proyecto PuntoSabor, exponiendo la problemática detectada y la propuesta de valor. Cada integrante participó explicando un aspecto específico (startup, objetivos, justificación, solución).                   | La exposición permitió comunicar de manera clara la visión del proyecto y recibir retroalimentación inmediata del profesor y compañeros, lo cual fortaleció la propuesta inicial.             |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia |  Durante el Sprint 2, el equipo demostró un progreso significativo en sus competencias de desarrollo de software. Aplicamos principios ágiles para implementar la primera versión funcional del sistema web PuntoSabor, integrando servicios frontend simulados y mejorando la página de destino anterior. Cada miembro contribuyó tanto a roles de liderazgo como de colaboración, garantizando un flujo de trabajo eficiente.                   | El informe dejó un registro formal y ordenado del trabajo realizado, facilitando la evaluación y asegurando una comunicación efectiva y coherente para el ámbito académico.             |
+ABET – EAC - Student Outcome 5 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+<div>
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Nombre</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Criterio 1 -->
+    <tr>
+      <td rowspan="5">Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>Delgado Carrasco, Schneider</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Identifiqué con claridad la problemática central de nuestra startup, definí los segmentos a los que está dirigida y realicé la investigación necesaria para establecer los requisitos de la aplicación web. Además, llevé a cabo una entrevista con un usuario representativo del público objetivo.<br>
+        <strong> TP:</strong><br>
+        Realicé las correcciones de los technical stories y sus evidencias según las observaciones recibidas. Avancé en el desarrollo del FrontEnd y participé activamente en las conversaciones y la planificación del sprint 2.<br>
+        <strong> TB2:</strong><br>
+        Trabajé en el desarrollo de funcionalidades del backend durante el Sprint 3, enfocándome en la creación y configuración de las tablas, la documentación de los modelos de datos y las relaciones entre entidades. También apoyé en la organización de la arquitectura técnica del sistema.<br>
+        <strong> TF:</strong><br>
+        Refiné nuevamente el informe final, fortaleciendo la presentación, la redacción y la organización del documento para asegurar que reflejara con precisión el progreso del equipo y la calidad del proyecto.<br>
+      </td>
+      <td rowspan="5">El equipo se comunicó de forma clara y estructurada, aportando conjuntamente al análisis técnico y estratégico del proyecto.</td>
+    </tr>
+    <tr>
+      <td>Lopez Goitia, Carlos Alberto</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Llevé a cabo entrevistas para obtener información relevante y diseñé la arquitectura de software siguiendo principios de Domain Driven Design, elaborando diagramas de contexto, contenedores y componentes.<br>
+        <strong> TP:</strong><br>
+        Realicé ajustes de mejora continua y participé en el desarrollo de la aplicación web junto con mis compañeros, coordinando reuniones para revisar avances y alinear el trabajo del equipo.<br>
+        <strong> TB2:</strong><br>
+        Colaboré en el desarrollo del backend, implementando la primera versión de los endpoints y contribuyendo a la organización estratégica de nuestras entidades para su implementación técnica.<br>
+        <strong> TF:</strong><br>
+        Apoyé en la revisión y validación de los endpoints desarrollados, manteniendo una comunicación constante con el equipo para asegurar la correcta integración del sistema.<br>
+      </td>
+    </tr>
+    <tr>
+      <td>Tumi Oliden Manuel Ignacio</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Durante esta etapa mantuve una comunicación fluida y constante con todo el equipo para asegurar que cada avance estuviera alineado. Paralelamente, seguí trabajando en el diseño de la interfaz en Figma, aportando ideas visuales y estructurales. También colaboré en la construcción inicial de la landing page y preparé tanto las preguntas guía para las entrevistas como los diagramas de clases necesarios para comprender mejor la estructura del sistema.<br>
+        <strong> TP:</strong><br>
+        En este periodo me encargué de organizar y repartir tareas entre los integrantes del equipo, procurando que cada uno tuviera claridad sobre sus responsabilidades. Continué desarrollando endpoints y trabajé en mejorar la parte visual del sitio web. Además, realicé ajustes y mejoras en la landing page para asegurar una presentación más sólida y coherente con la identidad del proyecto.<br>
+        <strong> TB2:</strong><br>
+        Retomé la gestión de roles y actividades para optimizar el flujo de trabajo, avanzando significativamente en la construcción del frontend. También realicé cambios puntuales en el backend para alinear la estructura del sistema con las necesidades actuales del desarrollo. En paralelo, me encargué de los últimos detalles que permitieron dejar la landing page lista y completamente funcional.<br>
+        <strong> TF:</strong><br>
+        Me enfoqué en fortalecer el frontend implementando mejoras importantes, especialmente la integración de la lógica necesaria para el manejo del JSON Web Token. Finalmente, realicé la transición de la aplicación desde una API simulada hacia la API real del sistema, asegurando que todo funcionara correctamente dentro del entorno definitivo.<br>
+      </td>
+    </tr>
+    <tr>
+      <td>Vega Coronado Fabricio Samir</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Llevé a cabo actividades de needfinding, construcción de escenarios to-be, elaboración de impact mapping y organización de la Information Architecture. Para ello, mantuve comunicación constante con potenciales usuarios y clientes, lo que permitió obtener información valiosa para orientar correctamente el diseño y la definición inicial del producto.<br>
+        <strong> TP:</strong><br>
+        Me enfoqué en realizar mejoras significativas en el informe del trabajo final, ajustando estructura, contenido y claridad según las revisiones y objetivos del curso.<br>
+        <strong> TB2:</strong><br>
+        Formé parte del desarrollo del backend, donde colaboré en la construcción de nuevos módulos y en la implementación inicial de sus endpoints. Este trabajo permitió avanzar en la estructura lógica del sistema y sentar las bases para futuras funcionalidades.<br>
+        <strong> TF:</strong><br>
+        Continué mejorando y ampliando funcionalidades del backend en el Sprint 4, centrándome en la implementación de endpoints y en el fortalecimiento de la estructura técnica del proyecto.<br>
+      </td>
+    </tr>
+    <tr>
+      <td>Villanueva Andrade Ysaac Ligorio</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Contribuí de manera activa al diseño de la página web utilizando Figma, proponiendo mejoras visuales y asegurando una línea gráfica coherente. Además, me mantuve en comunicación constante con el equipo para coordinar avances y garantizar que todos los componentes del proyecto estuvieran alineados.<br>
+        <strong> TP:</strong><br>
+        Asumí la responsabilidad de completar la propuesta visual del proyecto, afinando detalles de la interfaz y asegurando que la presentación fuera consistente. También apoyé en el proceso de despliegue web, supervisando que la aplicación se mostrara correctamente en su entorno final.<br>
+        <strong> TB2:</strong><br>
+        Aporté mejoras tanto en la interfaz del frontend como en la versión actualizada del informe final, cuidando la coherencia del diseño y la calidad de la documentación entregada.<br>
+        <strong> TF:</strong><br>
+        Realicé mejoras adicionales en el frontend, optimizando la experiencia visual y funcional de la aplicación. Asimismo, diseñé y completé los apartados finales del sistema, garantizando que el proyecto quedara adecuadamente estructurado y listo para su presentación.<br>
+      </td>
+    </tr>
+    <!-- Criterio 2 -->
+    <tr>
+      <td rowspan="6">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+      <td>Delgado Carrasco, Schneider</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Como parte del Sprint 1, elaboré la descripción completa de la startup, su contexto y antecedentes; trabajé con Lean UX para formular y validar hipótesis; realicé un análisis competitivo y definí los segmentos del público objetivo respaldados con datos estadísticos.<br>
+        <strong> TP:</strong><br>
+        Durante el Sprint 2, me enfoqué en dejar registrada toda la evidencia del desarrollo, corregir el informe según las observaciones recibidas y definir con mayor precisión los features esenciales para la aplicación web, estableciendo una línea clara de trabajo para el equipo.<br>
+        <strong> TB2:</strong><br>
+        Incorporé mejoras en el frontend y realicé ajustes adicionales en el informe final, afinando aspectos visuales y documentales para mantener la coherencia del proyecto.<br>
+        <strong> TF:</strong><br>
+        Continué perfeccionando el informe final, revisando detalles, corrigiendo apartados y asegurando que el documento reflejara de forma precisa y completa el trabajo realizado.<br>
+      </td>
+      <td rowspan="6">La comunicación escrita se realizó con claridad, ajustando el contenido según las necesidades tanto de públicos técnicos como de lectores no especializados.</td>
+    </tr>
+    <tr>
+      <td>Lopez Goitia, Carlos Alberto</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Elaboré un conjunto de preguntas para las entrevistas que permitiera fundamentar adecuadamente las decisiones de diseño, y aporté ideas técnicas basadas en la investigación previa realizada para orientar el enfoque del proyecto.<br>
+        <strong> TP:</strong><br>
+        Contribuí al cumplimiento del objetivo de construir la landing page, apoyando tanto en la parte visual como en la integración técnica y trabajando de manera colaborativa mediante herramientas como GitHub para asegurar un flujo de trabajo coordinado.<br>
+        <strong> TB2:</strong><br>
+        Establecí la organización conceptual del sistema y trabajé junto al equipo en la implementación del servicio API con .NET. Todo este proceso se llevó a cabo manteniendo una comunicación constante para asegurar un entorno de desarrollo coherente y funcional.<br>
+        <strong> TF:</strong><br>
+        Colaboré en la documentación correspondiente al sprint 4 y en la revisión de detalles técnicos, participando en la coordinación general del equipo para garantizar la correcta evolución del proyecto en su etapa final.<br>
+      </td>
+    </tr>
+    <tr>
+      <td>Tumi Oliden Manuel Ignacio</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Me encargué de redactar el contenido para la landing page y parte de la documentación técnica, adaptando el lenguaje según el público objetivo, ya fueran usuarios finales o miembros del equipo de desarrollo.<br>
+        <strong> TP:</strong><br>
+        Desarrollé las interfaces principales de la web, incluyendo las páginas de inicio de sesión, registro y el módulo de reportes, asegurando coherencia visual y funcionalidad básica para el flujo del sistema.<br>
+        <strong> TB2:</strong><br>
+        Coordiné la distribución de tareas y responsabilidades dentro del equipo, avancé significativamente en la construcción del frontend e hice ajustes puntuales en el backend. Además, trabajé en los últimos detalles necesarios para consolidar la landing page.<br>
+        <strong> TF:</strong><br>
+        Redacté contenido optimizado para la landing page incorporando internacionalización, y realicé mejoras en el frontend, incluyendo la implementación de la lógica para manejar el JSON Web Token y la transición de la aplicación desde una API simulada hacia la API real del sistema.<br>
+      </td>
+    </tr>
+    <tr>
+      <td>Vega Coronado Fabricio Samir</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Elaboré documentación clara y accesible, procurando que cualquier miembro del equipo o lector externo pudiera comprender el proyecto sin dificultad, detallando procesos y decisiones de manera ordenada.<br>
+        <strong> TP:</strong><br>
+        Trabajé en mejorar el informe del trabajo final, ajustando contenido, estructura y redacción para fortalecer la presentación del proyecto.<br>
+        <strong> TB2:</strong><br>
+        En el Sprint 3 participé activamente en la planificación, definiendo las entidades necesarias para el backend y documentando los avances correspondientes. Al mismo tiempo, implementé los endpoints centrales del sistema tanto operaciones de creación como consultas sentando una base sólida para las funcionalidades posteriores.<br>
+        <strong> TF:</strong><br>
+        Finalmente, en el Sprint 4 completé el desarrollo del backend incorporando métodos <em>PUT</em> y los endpoints que el frontend requería para su integración total. También realicé el despliegue completo del backend y del frontend, garantizando su correcta comunicación y dejando el sistema listo para su uso final.<br>
+      </td>
+    </tr>
+    <tr>
+      <td>Villanueva Andrade Ysaac Ligorio</td>
+      <td>
+        <strong> TB1:</strong><br>
+        Diseñé guías de estilo para la identidad visual y la interfaz web, además de crear wireframes, diagramas de flujo y prototipos interactivos en Figma que sirvieron como base para la construcción del producto.<br>
+        <strong> TP:</strong><br>
+        Redacté las user stories necesarias y trabajé en la elaboración de diversos componentes que conforman la página principal, asegurando consistencia en la estructura y funcionalidad inicial del sitio.<br>
+        <strong> TB2:</strong><br>
+        Definí la organización conceptual del módulo relacionado con la gestión del sistema y los reportes, y participé activamente con el equipo en el desarrollo del servicio API empleando .NET bajo un enfoque REST, manteniendo una integración técnica ordenada.<br>
+        <strong> TF:</strong><br>
+        Realicé mejoras en el backend, optimizando su estructura y funcionalidad, y diseñé los apartados finales del sistema para completar la versión final del proyecto.<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>             
 
 
 # Capítulo I: Introducción
