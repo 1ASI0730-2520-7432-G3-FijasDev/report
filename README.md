@@ -2428,13 +2428,16 @@ Se implementaron endpoints adicionales relacionados con la lógica de negocio. E
 | POST   | /reviews           | Crea una nueva reseña.                                          |
 
 # 5.2.4.7. Software Deployment Evidence for Sprint Review
-La API se levantó localmente desde Rider en modo desarrollo para pruebas de sprint. Se habilitó Swagger, se configuró CORS para permitir consumo desde el frontend en Vite y se inicializó la base de datos con datos semilla para validar los flujos.
+La API se desplegó en Railway luego de probarse localmente en Rider. Se habilitó Swagger, se configuró CORS para permitir el consumo desde el frontend en Vite y la base de datos MySQL se inicializó con datos semilla para validar los flujos del sistema.
 
 ![alt text](assets/api.png)
 
-Vemos que la API se puede acceder correctamente en entorno local mediante Swagger, a través del enlace: http://localhost:5048/swagger/index.html
+![alt text](assets/ray.png)
 
-![alt text](assets/apiswagger.png)
+La API está disponible en: https://puntosabor-backend-production.up.railway.app/swagger/index.html
+
+![alt text](assets/swaggerv2.png)
+
 # 5.2.4.8. Team Collaboration Insights during Sprint
 En esta sección se evidencia cómo el equipo ha colaborado para sacar adelante la entrega correspondiente al Sprint 4. Además, se incluyen las métricas que reflejan el avance y el desempeño del backend, frontend y la landing page durante esta iteración.
 
